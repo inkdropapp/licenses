@@ -1,24 +1,9 @@
-<!doctype html>
-<html>
-  <head>
-    <title>LICENSE</title>
-    <style>
-      pre.license-text {
-        background-color: #eee;
-        padding: 12px;
-        border-radius: 4px;
-        margin: 6px;
-      }
-      section {
-        margin-left: 6px;
-        padding-left: 12px;
-        border-left: 4px solid #ddd;
-      }
-    </style>
-  </head>
-  <body>
-    <h1>Credits</h1>
-    <article><h3><a href="https://github.com/isaacs/abbrev-js">abbrev@1.0.7</a></h3><h4>by Isaac Z. Schlueter</h4><section><pre class="license-text">The ISC License
+# Credits
+## [abbrev@1.0.7](https://github.com/isaacs/abbrev-js)
+### by Isaac Z. Schlueter
+
+```
+The ISC License
 
 Copyright (c) Isaac Z. Schlueter and Contributors
 
@@ -33,7 +18,14 @@ ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
 WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
 ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR
 IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/isaacs/abbrev-js">abbrev@1.0.9</a></h3><h4>by Isaac Z. Schlueter</h4><section><pre class="license-text">The ISC License
+
+```
+
+## [abbrev@1.0.9](https://github.com/isaacs/abbrev-js)
+### by Isaac Z. Schlueter
+
+```
+The ISC License
 
 Copyright (c) Isaac Z. Schlueter and Contributors
 
@@ -48,7 +40,13 @@ ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
 WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
 ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR
 IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/rvagg/node-abstract-leveldown">abstract-leveldown@0.12.3</a></h3><section><pre class="license-text">Copyright 2012, Rod Vagg (the "Original Author")
+
+```
+
+## [abstract-leveldown@0.12.3](https://github.com/rvagg/node-abstract-leveldown)
+
+```
+Copyright 2012, Rod Vagg (the "Original Author")
 All rights reserved.
 
 MIT +no-false-attribs License
@@ -86,7 +84,13 @@ OTHER DEALINGS IN THE SOFTWARE.
 
 Except where noted, this license applies to any and all software
 programs and associated documentation files created by the
-Original Author, when distributed with the Software.</pre></section></article><article><h3><a href="https://github.com/level/abstract-leveldown">abstract-leveldown@2.4.1</a></h3><section><pre class="license-text">The MIT License (MIT)
+Original Author, when distributed with the Software.
+```
+
+## [abstract-leveldown@2.4.1](https://github.com/level/abstract-leveldown)
+
+```
+The MIT License (MIT)
 =====================
 
 Copyright (c) 2014 Rod Vagg
@@ -97,7 +101,13 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/level/abstract-leveldown">abstract-leveldown@2.6.0</a></h3><section><pre class="license-text">The MIT License (MIT)
+
+```
+
+## [abstract-leveldown@2.6.0](https://github.com/level/abstract-leveldown)
+
+```
+The MIT License (MIT)
 =====================
 
 Copyright (c) 2014 Rod Vagg
@@ -108,7 +118,13 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/marijnh/acorn">acorn@1.2.2</a></h3><section><pre class="license-text">Copyright (C) 2012-2014 by various contributors (see AUTHORS)
+
+```
+
+## [acorn@1.2.2](https://github.com/marijnh/acorn)
+
+```
+Copyright (C) 2012-2014 by various contributors (see AUTHORS)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -127,7 +143,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/Raynos/after">after@0.8.1</a></h3><h4>by Raynos</h4><section><pre class="license-text">Copyright (c) 2011 Raynos.
+
+```
+
+## [after@0.8.1](https://github.com/Raynos/after)
+### by Raynos
+
+```
+Copyright (c) 2011 Raynos.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -145,7 +168,23 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE.</pre></section></article><article><h3>alt-utils@1.0.0</h3><h4>by Josh Perez</h4><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/goatslacker/alt">alt@0.18.4</a></h3><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/jrburke/amdefine">amdefine@1.0.0</a></h3><h4>by James Burke</h4><section><pre class="license-text">amdefine is released under two licenses: new BSD, and MIT. You may pick the
+THE SOFTWARE.
+```
+
+## alt-utils@1.0.0
+### by Josh Perez
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [alt@0.18.4](https://github.com/goatslacker/alt)
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [amdefine@1.0.0](https://github.com/jrburke/amdefine)
+### by James Burke
+
+```
+amdefine is released under two licenses: new BSD, and MIT. You may pick the
 license that best suits your development needs. The text of both licenses are
 provided below.
 
@@ -203,7 +242,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/sindresorhus/ansi-regex">ansi-regex@2.0.0</a></h3><h4>by Sindre Sorhus</h4><section><pre class="license-text">The MIT License (MIT)
+
+```
+
+## [ansi-regex@2.0.0](https://github.com/sindresorhus/ansi-regex)
+### by Sindre Sorhus
+
+```
+The MIT License (MIT)
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
@@ -224,7 +270,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/chalk/ansi-styles">ansi-styles@2.2.1</a></h3><h4>by Sindre Sorhus</h4><section><pre class="license-text">The MIT License (MIT)
+
+```
+
+## [ansi-styles@2.2.1](https://github.com/chalk/ansi-styles)
+### by Sindre Sorhus
+
+```
+The MIT License (MIT)
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
@@ -245,7 +298,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/rburns/ansi-to-html">ansi-to-html@0.3.0</a></h3><h4>by Rob Burns</h4><section><pre class="license-text">Copyright (c) 2012 Rob Burns
+
+```
+
+## [ansi-to-html@0.3.0](https://github.com/rburns/ansi-to-html)
+### by Rob Burns
+
+```
+Copyright (c) 2012 Rob Burns
 
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation
@@ -266,7 +326,14 @@ NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
 HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
 WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.</pre></section></article><article><h3><a href="https://github.com/TooTallNate/ansi.js">ansi@0.3.1</a></h3><h4>by Nathan Rajlich</h4><section><pre class="license-text">(The MIT License)
+OTHER DEALINGS IN THE SOFTWARE.
+```
+
+## [ansi@0.3.1](https://github.com/TooTallNate/ansi.js)
+### by Nathan Rajlich
+
+```
+(The MIT License)
 
 Copyright (c) 2012 Nathan Rajlich <nathan@tootallnate.net>
 
@@ -290,7 +357,14 @@ HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
 WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/kevinbeaty/any-promise">any-promise@0.1.0</a></h3><h4>by Kevin Beaty</h4><section><pre class="license-text">Copyright (C) 2014 Kevin Beaty
+
+```
+
+## [any-promise@0.1.0](https://github.com/kevinbeaty/any-promise)
+### by Kevin Beaty
+
+```
+Copyright (C) 2014 Kevin Beaty
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -309,12 +383,25 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/iarna/are-we-there-yet">are-we-there-yet@1.1.2</a></h3><h4>by Rebecca Turner</h4><section><pre class="license-text">Copyright (c) 2015, Rebecca Turner
+
+```
+
+## [are-we-there-yet@1.1.2](https://github.com/iarna/are-we-there-yet)
+### by Rebecca Turner
+
+```
+Copyright (c) 2015, Rebecca Turner
 
 Permission to use, copy, modify, and/or distribute this software for any purpose with or without fee is hereby granted, provided that the above copyright notice and this permission notice appear in all copies.
 
 THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/nodeca/argparse">argparse@0.1.16</a></h3><section><pre class="license-text">(The MIT License)
+
+```
+
+## [argparse@0.1.16](https://github.com/nodeca/argparse)
+
+```
+(The MIT License)
 
 Copyright (C) 2012 by Vitaly Puzrin
 
@@ -335,7 +422,13 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/nodeca/argparse">argparse@1.0.7</a></h3><section><pre class="license-text">(The MIT License)
+
+```
+
+## [argparse@1.0.7](https://github.com/nodeca/argparse)
+
+```
+(The MIT License)
 
 Copyright (C) 2012 by Vitaly Puzrin
 
@@ -356,10 +449,24 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/calvinmetcalf/argsarray">argsarray@0.0.1</a></h3><h4>by Calvin Metcalf</h4><section><pre class="license-text"># DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE 
+
+```
+
+## [argsarray@0.0.1](https://github.com/calvinmetcalf/argsarray)
+### by Calvin Metcalf
+
+```
+# DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE 
 ## TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION 
 
-  0. You just DO WHAT THE FUCK YOU WANT TO.</pre></section></article><article><h3><a href="https://github.com/component/array-equal">array-equal@1.0.0</a></h3><h4>by Jonathan Ong</h4><section><pre class="license-text">
+  0. You just DO WHAT THE FUCK YOU WANT TO.
+```
+
+## [array-equal@1.0.0](https://github.com/component/array-equal)
+### by Jonathan Ong
+
+```
+
 The MIT License (MIT)
 
 Copyright (c) 2014 Jonathan Ong me@jongleberry.com
@@ -381,7 +488,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/TooTallNate/array-index">array-index@1.0.0</a></h3><h4>by Nathan Rajlich</h4><section><pre class="license-text">(The MIT License)
+
+```
+
+## [array-index@1.0.0](https://github.com/TooTallNate/array-index)
+### by Nathan Rajlich
+
+```
+(The MIT License)
 
 Copyright (c) 2012 Nathan Rajlich <nathan@tootallnate.net>
 
@@ -405,7 +519,13 @@ HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
 WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/kriskowal/asap">asap@2.0.4</a></h3><section><pre class="license-text">
+
+```
+
+## [asap@2.0.4](https://github.com/kriskowal/asap)
+
+```
+
 Copyright 2009–2014 Contributors. All rights reserved.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -426,7 +546,14 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
 IN THE SOFTWARE.
 
-</pre></section></article><article><h3><a href="https://github.com/mcavage/node-asn1">asn1@0.1.11</a></h3><h4>by Mark Cavage</h4><section><pre class="license-text">Copyright (c) 2011 Mark Cavage, All rights reserved.
+
+```
+
+## [asn1@0.1.11](https://github.com/mcavage/node-asn1)
+### by Mark Cavage
+
+```
+Copyright (c) 2011 Mark Cavage, All rights reserved.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -445,7 +572,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE
-</pre></section></article><article><h3><a href="https://github.com/mcavage/node-asn1">asn1@0.2.3</a></h3><h4>by Mark Cavage</h4><section><pre class="license-text">Copyright (c) 2011 Mark Cavage, All rights reserved.
+
+```
+
+## [asn1@0.2.3](https://github.com/mcavage/node-asn1)
+### by Mark Cavage
+
+```
+Copyright (c) 2011 Mark Cavage, All rights reserved.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -464,7 +598,29 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE
-</pre></section></article><article><h3><a href="https://github.com/mcavage/node-assert-plus">assert-plus@0.1.5</a></h3><h4>by Mark Cavage</h4><section><div>MIT*</div></section></article><article><h3><a href="https://github.com/mcavage/node-assert-plus">assert-plus@0.2.0</a></h3><h4>by Mark Cavage</h4><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/mcavage/node-assert-plus">assert-plus@1.0.0</a></h3><h4>by Mark Cavage</h4><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/benjamn/ast-types">ast-types@0.8.15</a></h3><h4>by Ben Newman</h4><section><pre class="license-text">Copyright (c) 2013 Ben Newman <bn@cs.stanford.edu>
+
+```
+
+## [assert-plus@0.1.5](https://github.com/mcavage/node-assert-plus)
+### by Mark Cavage
+
+MIT*
+
+## [assert-plus@0.2.0](https://github.com/mcavage/node-assert-plus)
+### by Mark Cavage
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [assert-plus@1.0.0](https://github.com/mcavage/node-assert-plus)
+### by Mark Cavage
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [ast-types@0.8.15](https://github.com/benjamn/ast-types)
+### by Ben Newman
+
+```
+Copyright (c) 2013 Ben Newman <bn@cs.stanford.edu>
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
@@ -484,7 +640,14 @@ IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
 CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
 TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
 SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/caolan/async">async@0.2.10</a></h3><h4>by Caolan McMahon</h4><section><pre class="license-text">Copyright (c) 2010 Caolan McMahon
+
+```
+
+## [async@0.2.10](https://github.com/caolan/async)
+### by Caolan McMahon
+
+```
+Copyright (c) 2010 Caolan McMahon
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -503,7 +666,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/caolan/async">async@0.9.2</a></h3><h4>by Caolan McMahon</h4><section><pre class="license-text">Copyright (c) 2010-2014 Caolan McMahon
+
+```
+
+## [async@0.9.2](https://github.com/caolan/async)
+### by Caolan McMahon
+
+```
+Copyright (c) 2010-2014 Caolan McMahon
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -522,7 +692,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/caolan/async">async@1.2.1</a></h3><h4>by Caolan McMahon</h4><section><pre class="license-text">Copyright (c) 2010-2014 Caolan McMahon
+
+```
+
+## [async@1.2.1](https://github.com/caolan/async)
+### by Caolan McMahon
+
+```
+Copyright (c) 2010-2014 Caolan McMahon
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -541,7 +718,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/caolan/async">async@1.5.2</a></h3><h4>by Caolan McMahon</h4><section><pre class="license-text">Copyright (c) 2010-2014 Caolan McMahon
+
+```
+
+## [async@1.5.2](https://github.com/caolan/async)
+### by Caolan McMahon
+
+```
+Copyright (c) 2010-2014 Caolan McMahon
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -560,7 +744,13 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/atom/atom-keymap">atom-keymap@6.3.2</a></h3><section><pre class="license-text">Copyright (c) 2014 GitHub Inc.
+
+```
+
+## [atom-keymap@6.3.2](https://github.com/atom/atom-keymap)
+
+```
+Copyright (c) 2014 GitHub Inc.
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
@@ -580,7 +770,19 @@ NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
 LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
 OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
 WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/atom/slick">atom-slick@2.0.0</a></h3><h4>by Valerio Proietti</h4><section><div>MIT (http://mootools.net/license.txt)</div></section></article><article><h3><a href="https://github.com/mikeal/aws-sign">aws-sign2@0.5.0</a></h3><h4>by Mikeal Rogers</h4><section><pre class="license-text">Apache License
+
+```
+
+## [atom-slick@2.0.0](https://github.com/atom/slick)
+### by Valerio Proietti
+
+MIT (http://mootools.net/license.txt)
+
+## [aws-sign2@0.5.0](https://github.com/mikeal/aws-sign)
+### by Mikeal Rogers
+
+```
+Apache License
 
 Version 2.0, January 2004
 
@@ -634,7 +836,14 @@ If the Work includes a "NOTICE" text file as part of its distribution, then any 
 
 9. Accepting Warranty or Additional Liability. While redistributing the Work or Derivative Works thereof, You may choose to offer, and charge a fee for, acceptance of support, warranty, indemnity, or other liability obligations and/or rights consistent with this License. However, in accepting such obligations, You may act only on Your own behalf and on Your sole responsibility, not on behalf of any other Contributor, and only if You agree to indemnify, defend, and hold each Contributor harmless for any liability incurred by, or claims asserted against, such Contributor by reason of your accepting any such warranty or additional liability.
 
-END OF TERMS AND CONDITIONS</pre></section></article><article><h3><a href="https://github.com/mikeal/aws-sign">aws-sign2@0.6.0</a></h3><h4>by Mikeal Rogers</h4><section><pre class="license-text">Apache License
+END OF TERMS AND CONDITIONS
+```
+
+## [aws-sign2@0.6.0](https://github.com/mikeal/aws-sign)
+### by Mikeal Rogers
+
+```
+Apache License
 
 Version 2.0, January 2004
 
@@ -688,7 +897,14 @@ If the Work includes a "NOTICE" text file as part of its distribution, then any 
 
 9. Accepting Warranty or Additional Liability. While redistributing the Work or Derivative Works thereof, You may choose to offer, and charge a fee for, acceptance of support, warranty, indemnity, or other liability obligations and/or rights consistent with this License. However, in accepting such obligations, You may act only on Your own behalf and on Your sole responsibility, not on behalf of any other Contributor, and only if You agree to indemnify, defend, and hold each Contributor harmless for any liability incurred by, or claims asserted against, such Contributor by reason of your accepting any such warranty or additional liability.
 
-END OF TERMS AND CONDITIONS</pre></section></article><article><h3><a href="https://github.com/mhart/aws4">aws4@1.4.1</a></h3><h4>by Michael Hart</h4><section><pre class="license-text">Copyright 2013 Michael Hart (michael.hart.au@gmail.com)
+END OF TERMS AND CONDITIONS
+```
+
+## [aws4@1.4.1](https://github.com/mhart/aws4)
+### by Michael Hart
+
+```
+Copyright 2013 Michael Hart (michael.hart.au@gmail.com)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
@@ -707,7 +923,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/mzabriskie/axios">axios@0.14.0</a></h3><h4>by Matt Zabriskie</h4><section><pre class="license-text">Copyright (c) 2014 Matt Zabriskie
+
+```
+
+## [axios@0.14.0](https://github.com/mzabriskie/axios)
+### by Matt Zabriskie
+
+```
+Copyright (c) 2014 Matt Zabriskie
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -726,7 +949,279 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/babel/babel/tree/master/packages/babel-code-frame">babel-code-frame@6.11.0</a></h3><h4>by Sebastian McKenzie</h4><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/babel/babel/tree/master/packages/babel-core">babel-core@6.10.4</a></h3><h4>by Sebastian McKenzie</h4><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/babel/babel/tree/master/packages/babel-generator">babel-generator@6.11.0</a></h3><h4>by Sebastian McKenzie</h4><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/babel/babel/tree/master/packages/babel-helper-bindify-decorators">babel-helper-bindify-decorators@6.8.0</a></h3><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/babel/babel/tree/master/packages/babel-helper-builder-binary-assignment-operator-visitor">babel-helper-builder-binary-assignment-operator-visitor@6.8.0</a></h3><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/babel/babel/tree/master/packages/babel-helper-builder-react-jsx">babel-helper-builder-react-jsx@6.9.0</a></h3><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/babel/babel/tree/master/packages/babel-helper-call-delegate">babel-helper-call-delegate@6.8.0</a></h3><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/babel/babel/tree/master/packages/babel-helper-define-map">babel-helper-define-map@6.9.0</a></h3><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/babel/babel/tree/master/packages/babel-helper-explode-assignable-expression">babel-helper-explode-assignable-expression@6.8.0</a></h3><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/babel/babel/tree/master/packages/babel-helper-explode-class">babel-helper-explode-class@6.8.0</a></h3><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/babel/babel/tree/master/packages/babel-helper-function-name">babel-helper-function-name@6.8.0</a></h3><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/babel/babel/tree/master/packages/babel-helper-get-function-arity">babel-helper-get-function-arity@6.8.0</a></h3><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/babel/babel/tree/master/packages/babel-helper-hoist-variables">babel-helper-hoist-variables@6.8.0</a></h3><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/babel/babel/tree/master/packages/babel-helper-optimise-call-expression">babel-helper-optimise-call-expression@6.8.0</a></h3><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/babel/babel/tree/master/packages/babel-helper-regex">babel-helper-regex@6.9.0</a></h3><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/babel/babel/tree/master/packages/babel-helper-remap-async-to-generator">babel-helper-remap-async-to-generator@6.11.2</a></h3><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/babel/babel/tree/master/packages/babel-helper-replace-supers">babel-helper-replace-supers@6.8.0</a></h3><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/babel/babel/tree/master/packages/babel-helpers">babel-helpers@6.8.0</a></h3><h4>by Sebastian McKenzie</h4><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/babel/babel/tree/master/packages/babel-messages">babel-messages@6.8.0</a></h3><h4>by Sebastian McKenzie</h4><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/babel/babel/tree/master/packages/babel-plugin-check-es2015-constants">babel-plugin-check-es2015-constants@6.8.0</a></h3><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/babel/babel/tree/master/packages/babel-plugin-syntax-async-functions">babel-plugin-syntax-async-functions@6.8.0</a></h3><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/babel/babel/tree/master/packages/babel-plugin-syntax-class-constructor-call">babel-plugin-syntax-class-constructor-call@6.8.0</a></h3><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/babel/babel/tree/master/packages/babel-plugin-syntax-class-properties">babel-plugin-syntax-class-properties@6.8.0</a></h3><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/babel/babel/tree/master/packages/babel-plugin-syntax-decorators">babel-plugin-syntax-decorators@6.8.0</a></h3><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/babel/babel/tree/master/packages/babel-plugin-syntax-do-expressions">babel-plugin-syntax-do-expressions@6.8.0</a></h3><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/babel/babel/tree/master/packages/babel-plugin-syntax-exponentation-operator">babel-plugin-syntax-exponentiation-operator@6.8.0</a></h3><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/babel/babel/tree/master/packages/babel-plugin-syntax-export-extensions">babel-plugin-syntax-export-extensions@6.8.0</a></h3><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/babel/babel/tree/master/packages/babel-plugin-syntax-flow">babel-plugin-syntax-flow@6.8.0</a></h3><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/babel/babel/tree/master/packages/babel-plugin-syntax-function-bind">babel-plugin-syntax-function-bind@6.8.0</a></h3><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/babel/babel/tree/master/packages/babel-plugin-syntax-jsx">babel-plugin-syntax-jsx@6.8.0</a></h3><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/babel/babel/tree/master/packages/babel-plugin-syntax-object-rest-spread">babel-plugin-syntax-object-rest-spread@6.8.0</a></h3><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/babel/babel/tree/master/packages/babel-plugin-syntax-trailing-function-commas">babel-plugin-syntax-trailing-function-commas@6.8.0</a></h3><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-async-to-generator">babel-plugin-transform-async-to-generator@6.8.0</a></h3><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-class-constructor-call">babel-plugin-transform-class-constructor-call@6.8.0</a></h3><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-class-properties">babel-plugin-transform-class-properties@6.10.2</a></h3><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-decorators">babel-plugin-transform-decorators@6.8.0</a></h3><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-do-expressions">babel-plugin-transform-do-expressions@6.8.0</a></h3><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-arrow-functions">babel-plugin-transform-es2015-arrow-functions@6.8.0</a></h3><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-block-scoped-functions">babel-plugin-transform-es2015-block-scoped-functions@6.8.0</a></h3><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-block-scoping">babel-plugin-transform-es2015-block-scoping@6.10.1</a></h3><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-classes">babel-plugin-transform-es2015-classes@6.9.0</a></h3><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-computed-properties">babel-plugin-transform-es2015-computed-properties@6.8.0</a></h3><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-destructuring">babel-plugin-transform-es2015-destructuring@6.9.0</a></h3><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-duplicate-keys">babel-plugin-transform-es2015-duplicate-keys@6.8.0</a></h3><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-for-of">babel-plugin-transform-es2015-for-of@6.8.0</a></h3><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-function-name">babel-plugin-transform-es2015-function-name@6.9.0</a></h3><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-literals">babel-plugin-transform-es2015-literals@6.8.0</a></h3><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-modules-commonjs">babel-plugin-transform-es2015-modules-commonjs@6.10.3</a></h3><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-object-super">babel-plugin-transform-es2015-object-super@6.8.0</a></h3><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-parameters">babel-plugin-transform-es2015-parameters@6.9.0</a></h3><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-shorthand-properties">babel-plugin-transform-es2015-shorthand-properties@6.8.0</a></h3><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-spread">babel-plugin-transform-es2015-spread@6.8.0</a></h3><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-sticky-regex">babel-plugin-transform-es2015-sticky-regex@6.8.0</a></h3><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-template-literals">babel-plugin-transform-es2015-template-literals@6.8.0</a></h3><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-typeof-symbol">babel-plugin-transform-es2015-typeof-symbol@6.8.0</a></h3><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-unicode-regex">babel-plugin-transform-es2015-unicode-regex@6.11.0</a></h3><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-exponentiation-operator">babel-plugin-transform-exponentiation-operator@6.8.0</a></h3><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-export-extensions">babel-plugin-transform-export-extensions@6.8.0</a></h3><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-flow-strip-types">babel-plugin-transform-flow-strip-types@6.8.0</a></h3><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-function-bind">babel-plugin-transform-function-bind@6.8.0</a></h3><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-object-rest-spread">babel-plugin-transform-object-rest-spread@6.8.0</a></h3><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-display-name">babel-plugin-transform-react-display-name@6.8.0</a></h3><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-react-jsx-self">babel-plugin-transform-react-jsx-self@6.11.0</a></h3><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-react-jsx-source">babel-plugin-transform-react-jsx-source@6.9.0</a></h3><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-jsx">babel-plugin-transform-react-jsx@6.8.0</a></h3><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-regenerator">babel-plugin-transform-regenerator@6.9.0</a></h3><h4>by Ben Newman</h4><section><pre class="license-text">BSD License
+
+```
+
+## [babel-code-frame@6.11.0](https://github.com/babel/babel/tree/master/packages/babel-code-frame)
+### by Sebastian McKenzie
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [babel-core@6.10.4](https://github.com/babel/babel/tree/master/packages/babel-core)
+### by Sebastian McKenzie
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [babel-generator@6.11.0](https://github.com/babel/babel/tree/master/packages/babel-generator)
+### by Sebastian McKenzie
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [babel-helper-bindify-decorators@6.8.0](https://github.com/babel/babel/tree/master/packages/babel-helper-bindify-decorators)
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [babel-helper-builder-binary-assignment-operator-visitor@6.8.0](https://github.com/babel/babel/tree/master/packages/babel-helper-builder-binary-assignment-operator-visitor)
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [babel-helper-builder-react-jsx@6.9.0](https://github.com/babel/babel/tree/master/packages/babel-helper-builder-react-jsx)
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [babel-helper-call-delegate@6.8.0](https://github.com/babel/babel/tree/master/packages/babel-helper-call-delegate)
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [babel-helper-define-map@6.9.0](https://github.com/babel/babel/tree/master/packages/babel-helper-define-map)
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [babel-helper-explode-assignable-expression@6.8.0](https://github.com/babel/babel/tree/master/packages/babel-helper-explode-assignable-expression)
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [babel-helper-explode-class@6.8.0](https://github.com/babel/babel/tree/master/packages/babel-helper-explode-class)
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [babel-helper-function-name@6.8.0](https://github.com/babel/babel/tree/master/packages/babel-helper-function-name)
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [babel-helper-get-function-arity@6.8.0](https://github.com/babel/babel/tree/master/packages/babel-helper-get-function-arity)
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [babel-helper-hoist-variables@6.8.0](https://github.com/babel/babel/tree/master/packages/babel-helper-hoist-variables)
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [babel-helper-optimise-call-expression@6.8.0](https://github.com/babel/babel/tree/master/packages/babel-helper-optimise-call-expression)
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [babel-helper-regex@6.9.0](https://github.com/babel/babel/tree/master/packages/babel-helper-regex)
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [babel-helper-remap-async-to-generator@6.11.2](https://github.com/babel/babel/tree/master/packages/babel-helper-remap-async-to-generator)
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [babel-helper-replace-supers@6.8.0](https://github.com/babel/babel/tree/master/packages/babel-helper-replace-supers)
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [babel-helpers@6.8.0](https://github.com/babel/babel/tree/master/packages/babel-helpers)
+### by Sebastian McKenzie
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [babel-messages@6.8.0](https://github.com/babel/babel/tree/master/packages/babel-messages)
+### by Sebastian McKenzie
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [babel-plugin-check-es2015-constants@6.8.0](https://github.com/babel/babel/tree/master/packages/babel-plugin-check-es2015-constants)
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [babel-plugin-syntax-async-functions@6.8.0](https://github.com/babel/babel/tree/master/packages/babel-plugin-syntax-async-functions)
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [babel-plugin-syntax-class-constructor-call@6.8.0](https://github.com/babel/babel/tree/master/packages/babel-plugin-syntax-class-constructor-call)
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [babel-plugin-syntax-class-properties@6.8.0](https://github.com/babel/babel/tree/master/packages/babel-plugin-syntax-class-properties)
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [babel-plugin-syntax-decorators@6.8.0](https://github.com/babel/babel/tree/master/packages/babel-plugin-syntax-decorators)
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [babel-plugin-syntax-do-expressions@6.8.0](https://github.com/babel/babel/tree/master/packages/babel-plugin-syntax-do-expressions)
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [babel-plugin-syntax-exponentiation-operator@6.8.0](https://github.com/babel/babel/tree/master/packages/babel-plugin-syntax-exponentation-operator)
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [babel-plugin-syntax-export-extensions@6.8.0](https://github.com/babel/babel/tree/master/packages/babel-plugin-syntax-export-extensions)
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [babel-plugin-syntax-flow@6.8.0](https://github.com/babel/babel/tree/master/packages/babel-plugin-syntax-flow)
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [babel-plugin-syntax-function-bind@6.8.0](https://github.com/babel/babel/tree/master/packages/babel-plugin-syntax-function-bind)
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [babel-plugin-syntax-jsx@6.8.0](https://github.com/babel/babel/tree/master/packages/babel-plugin-syntax-jsx)
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [babel-plugin-syntax-object-rest-spread@6.8.0](https://github.com/babel/babel/tree/master/packages/babel-plugin-syntax-object-rest-spread)
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [babel-plugin-syntax-trailing-function-commas@6.8.0](https://github.com/babel/babel/tree/master/packages/babel-plugin-syntax-trailing-function-commas)
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [babel-plugin-transform-async-to-generator@6.8.0](https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-async-to-generator)
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [babel-plugin-transform-class-constructor-call@6.8.0](https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-class-constructor-call)
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [babel-plugin-transform-class-properties@6.10.2](https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-class-properties)
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [babel-plugin-transform-decorators@6.8.0](https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-decorators)
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [babel-plugin-transform-do-expressions@6.8.0](https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-do-expressions)
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [babel-plugin-transform-es2015-arrow-functions@6.8.0](https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-arrow-functions)
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [babel-plugin-transform-es2015-block-scoped-functions@6.8.0](https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-block-scoped-functions)
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [babel-plugin-transform-es2015-block-scoping@6.10.1](https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-block-scoping)
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [babel-plugin-transform-es2015-classes@6.9.0](https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-classes)
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [babel-plugin-transform-es2015-computed-properties@6.8.0](https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-computed-properties)
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [babel-plugin-transform-es2015-destructuring@6.9.0](https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-destructuring)
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [babel-plugin-transform-es2015-duplicate-keys@6.8.0](https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-duplicate-keys)
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [babel-plugin-transform-es2015-for-of@6.8.0](https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-for-of)
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [babel-plugin-transform-es2015-function-name@6.9.0](https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-function-name)
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [babel-plugin-transform-es2015-literals@6.8.0](https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-literals)
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [babel-plugin-transform-es2015-modules-commonjs@6.10.3](https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-modules-commonjs)
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [babel-plugin-transform-es2015-object-super@6.8.0](https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-object-super)
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [babel-plugin-transform-es2015-parameters@6.9.0](https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-parameters)
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [babel-plugin-transform-es2015-shorthand-properties@6.8.0](https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-shorthand-properties)
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [babel-plugin-transform-es2015-spread@6.8.0](https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-spread)
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [babel-plugin-transform-es2015-sticky-regex@6.8.0](https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-sticky-regex)
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [babel-plugin-transform-es2015-template-literals@6.8.0](https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-template-literals)
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [babel-plugin-transform-es2015-typeof-symbol@6.8.0](https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-typeof-symbol)
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [babel-plugin-transform-es2015-unicode-regex@6.11.0](https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-unicode-regex)
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [babel-plugin-transform-exponentiation-operator@6.8.0](https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-exponentiation-operator)
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [babel-plugin-transform-export-extensions@6.8.0](https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-export-extensions)
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [babel-plugin-transform-flow-strip-types@6.8.0](https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-flow-strip-types)
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [babel-plugin-transform-function-bind@6.8.0](https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-function-bind)
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [babel-plugin-transform-object-rest-spread@6.8.0](https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-object-rest-spread)
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [babel-plugin-transform-react-display-name@6.8.0](https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-display-name)
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [babel-plugin-transform-react-jsx-self@6.11.0](https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-react-jsx-self)
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [babel-plugin-transform-react-jsx-source@6.9.0](https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-react-jsx-source)
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [babel-plugin-transform-react-jsx@6.8.0](https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-jsx)
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [babel-plugin-transform-regenerator@6.9.0](https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-regenerator)
+### by Ben Newman
+
+```
+BSD License
 
 For "regenerator" software
 
@@ -740,7 +1235,78 @@ Redistribution and use in source and binary forms, with or without modification,
 	*	Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
 
 THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-</pre></section></article><article><h3><a href="https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-strict-mode">babel-plugin-transform-strict-mode@6.8.0</a></h3><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/babel/babel/tree/master/packages/babel-polyfill">babel-polyfill@6.9.1</a></h3><h4>by Sebastian McKenzie</h4><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/babel/babel/tree/master/packages/babel-preset-es2015">babel-preset-es2015@6.9.0</a></h3><h4>by Sebastian McKenzie</h4><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/babel/babel/tree/master/packages/babel-preset-react">babel-preset-react@6.11.1</a></h3><h4>by Sebastian McKenzie</h4><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/babel/babel/tree/master/packages/babel-preset-stage-0">babel-preset-stage-0@6.5.0</a></h3><h4>by Sebastian McKenzie</h4><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/babel/babel/tree/master/packages/babel-preset-stage-1">babel-preset-stage-1@6.5.0</a></h3><h4>by Sebastian McKenzie</h4><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/babel/babel/tree/master/packages/babel-preset-stage-2">babel-preset-stage-2@6.11.0</a></h3><h4>by Sebastian McKenzie</h4><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/babel/babel/tree/master/packages/babel-preset-stage-3">babel-preset-stage-3@6.11.0</a></h3><h4>by Sebastian McKenzie</h4><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/babel/babel/tree/master/packages/babel-register">babel-register@6.9.0</a></h3><h4>by Sebastian McKenzie</h4><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/babel/babel/tree/master/packages/babel-runtime">babel-runtime@6.9.2</a></h3><h4>by Sebastian McKenzie</h4><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/babel/babel/tree/master/packages/babel-template">babel-template@6.9.0</a></h3><h4>by Sebastian McKenzie</h4><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/babel/babel/tree/master/packages/babel-traverse">babel-traverse@6.10.4</a></h3><h4>by Sebastian McKenzie</h4><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/babel/babel/tree/master/packages/babel-types">babel-types@6.11.1</a></h3><h4>by Sebastian McKenzie</h4><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/babel/babylon">babylon@6.8.4</a></h3><h4>by Sebastian McKenzie</h4><section><pre class="license-text">Copyright (C) 2012-2014 by various contributors (see AUTHORS)
+
+```
+
+## [babel-plugin-transform-strict-mode@6.8.0](https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-strict-mode)
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [babel-polyfill@6.9.1](https://github.com/babel/babel/tree/master/packages/babel-polyfill)
+### by Sebastian McKenzie
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [babel-preset-es2015@6.9.0](https://github.com/babel/babel/tree/master/packages/babel-preset-es2015)
+### by Sebastian McKenzie
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [babel-preset-react@6.11.1](https://github.com/babel/babel/tree/master/packages/babel-preset-react)
+### by Sebastian McKenzie
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [babel-preset-stage-0@6.5.0](https://github.com/babel/babel/tree/master/packages/babel-preset-stage-0)
+### by Sebastian McKenzie
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [babel-preset-stage-1@6.5.0](https://github.com/babel/babel/tree/master/packages/babel-preset-stage-1)
+### by Sebastian McKenzie
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [babel-preset-stage-2@6.11.0](https://github.com/babel/babel/tree/master/packages/babel-preset-stage-2)
+### by Sebastian McKenzie
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [babel-preset-stage-3@6.11.0](https://github.com/babel/babel/tree/master/packages/babel-preset-stage-3)
+### by Sebastian McKenzie
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [babel-register@6.9.0](https://github.com/babel/babel/tree/master/packages/babel-register)
+### by Sebastian McKenzie
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [babel-runtime@6.9.2](https://github.com/babel/babel/tree/master/packages/babel-runtime)
+### by Sebastian McKenzie
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [babel-template@6.9.0](https://github.com/babel/babel/tree/master/packages/babel-template)
+### by Sebastian McKenzie
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [babel-traverse@6.10.4](https://github.com/babel/babel/tree/master/packages/babel-traverse)
+### by Sebastian McKenzie
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [babel-types@6.11.1](https://github.com/babel/babel/tree/master/packages/babel-types)
+### by Sebastian McKenzie
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [babylon@6.8.4](https://github.com/babel/babylon)
+### by Sebastian McKenzie
+
+```
+Copyright (C) 2012-2014 by various contributors (see AUTHORS)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -759,7 +1325,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/juliangruber/balanced-match">balanced-match@0.4.1</a></h3><h4>by Julian Gruber</h4><section><pre class="license-text">(MIT)
+
+```
+
+## [balanced-match@0.4.1](https://github.com/juliangruber/balanced-match)
+### by Julian Gruber
+
+```
+(MIT)
 
 Copyright (c) 2013 Julian Gruber &lt;julian@juliangruber.com&gt;
 
@@ -780,26 +1353,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/andrew/base62.js">base62@0.1.1</a></h3><h4>by Andrew Nesbitt</h4><section><pre class="license-text">Copyright (c) 2012 Andrew Nesbitt
 
-Permission is hereby granted, free of charge, to any person obtaining
-a copy of this software and associated documentation files (the
-"Software"), to deal in the Software without restriction, including
-without limitation the rights to use, copy, modify, merge, publish,
-distribute, sublicense, and/or sell copies of the Software, and to
-permit persons to whom the Software is furnished to do so, subject to
-the following conditions:
+```
 
-The above copyright notice and this permission notice shall be
-included in all copies or substantial portions of the Software.
+## [base62@0.1.1](https://github.com/andrew/base62.js)
+### by Andrew Nesbitt
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
-NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
-LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
-OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
-WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</pre></section></article><article><h3><a href="https://github.com/andrew/base62.js">base62@1.1.1</a></h3><h4>by Andrew Nesbitt</h4><section><pre class="license-text">Copyright (c) 2016 Andrew Nesbitt
+```
+Copyright (c) 2012 Andrew Nesbitt
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
@@ -819,7 +1380,44 @@ NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
 LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
 OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
 WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/TooTallNate/node-bindings">bindings@1.2.1</a></h3><h4>by Nathan Rajlich</h4><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/rvagg/bl">bl@1.0.3</a></h3><section><pre class="license-text">The MIT License (MIT)
+```
+
+## [base62@1.1.1](https://github.com/andrew/base62.js)
+### by Andrew Nesbitt
+
+```
+Copyright (c) 2016 Andrew Nesbitt
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the
+"Software"), to deal in the Software without restriction, including
+without limitation the rights to use, copy, modify, merge, publish,
+distribute, sublicense, and/or sell copies of the Software, and to
+permit persons to whom the Software is furnished to do so, subject to
+the following conditions:
+
+The above copyright notice and this permission notice shall be
+included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
+LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+```
+
+## [bindings@1.2.1](https://github.com/TooTallNate/node-bindings)
+### by Nathan Rajlich
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [bl@1.0.3](https://github.com/rvagg/bl)
+
+```
+The MIT License (MIT)
 =====================
 
 Copyright (c) 2014 bl contributors
@@ -832,7 +1430,13 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/rvagg/bl">bl@1.1.2</a></h3><section><pre class="license-text">The MIT License (MIT)
+
+```
+
+## [bl@1.1.2](https://github.com/rvagg/bl)
+
+```
+The MIT License (MIT)
 =====================
 
 Copyright (c) 2014 bl contributors
@@ -845,7 +1449,14 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/isaacs/block-stream">block-stream@0.0.9</a></h3><h4>by Isaac Z. Schlueter</h4><section><pre class="license-text">The ISC License
+
+```
+
+## [block-stream@0.0.9](https://github.com/isaacs/block-stream)
+### by Isaac Z. Schlueter
+
+```
+The ISC License
 
 Copyright (c) Isaac Z. Schlueter and Contributors
 
@@ -860,7 +1471,14 @@ ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
 WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
 ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR
 IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/petkaantonov/bluebird">bluebird@2.10.2</a></h3><h4>by Petka Antonov</h4><section><pre class="license-text">The MIT License (MIT)
+
+```
+
+## [bluebird@2.10.2](https://github.com/petkaantonov/bluebird)
+### by Petka Antonov
+
+```
+The MIT License (MIT)
 
 Copyright (c) 2013-2015 Petka Antonov
 
@@ -881,7 +1499,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/spumko/boom">boom@0.4.2</a></h3><h4>by Eran Hammer</h4><section><pre class="license-text">Copyright (c) 2012-2013, Walmart.
+
+```
+
+## [boom@0.4.2](https://github.com/spumko/boom)
+### by Eran Hammer
+
+```
+Copyright (c) 2012-2013, Walmart.
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
@@ -905,7 +1530,13 @@ LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND
 ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
 SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-</pre></section></article><article><h3><a href="https://github.com/hapijs/boom">boom@2.10.1</a></h3><section><pre class="license-text">Copyright (c) 2012-2014, Walmart and other contributors.
+
+```
+
+## [boom@2.10.1](https://github.com/hapijs/boom)
+
+```
+Copyright (c) 2012-2014, Walmart and other contributors.
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
@@ -932,7 +1563,23 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
                                   *   *   *
 
-The complete list of contributors can be found at: https://github.com/hapijs/boom/graphs/contributors</pre></section></article><article><h3><a href="https://github.com/juliangruber/brace-expansion">brace-expansion@1.1.4</a></h3><h4>by Julian Gruber</h4><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/juliangruber/brace-expansion">brace-expansion@1.1.5</a></h3><h4>by Julian Gruber</h4><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/bugsnag/bugsnag-js">bugsnag-js@2.5.0</a></h3><section><pre class="license-text">Copyright (c) 2013 Bugsnag, https://bugsnag.com/
+The complete list of contributors can be found at: https://github.com/hapijs/boom/graphs/contributors
+```
+
+## [brace-expansion@1.1.4](https://github.com/juliangruber/brace-expansion)
+### by Julian Gruber
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [brace-expansion@1.1.5](https://github.com/juliangruber/brace-expansion)
+### by Julian Gruber
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [bugsnag-js@2.5.0](https://github.com/bugsnag/bugsnag-js)
+
+```
+Copyright (c) 2013 Bugsnag, https://bugsnag.com/
 
 Permission is hereby granted, free of charge, to any person obtaining 
 a copy of this software and associated documentation files (the "Software"), 
@@ -950,7 +1597,14 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER 
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, 
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN 
-THE SOFTWARE.</pre></section></article><article><h3><a href="https://github.com/sindresorhus/builtin-modules">builtin-modules@1.1.1</a></h3><h4>by Sindre Sorhus</h4><section><pre class="license-text">The MIT License (MIT)
+THE SOFTWARE.
+```
+
+## [builtin-modules@1.1.1](https://github.com/sindresorhus/builtin-modules)
+### by Sindre Sorhus
+
+```
+The MIT License (MIT)
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
@@ -971,7 +1625,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/mikeal/caseless">caseless@0.11.0</a></h3><h4>by Mikeal Rogers</h4><section><pre class="license-text">Apache License
+
+```
+
+## [caseless@0.11.0](https://github.com/mikeal/caseless)
+### by Mikeal Rogers
+
+```
+Apache License
 Version 2.0, January 2004
 http://www.apache.org/licenses/
 TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
@@ -998,7 +1659,13 @@ If the Work includes a "NOTICE" text file as part of its distribution, then any 
 7. Disclaimer of Warranty. Unless required by applicable law or agreed to in writing, Licensor provides the Work (and each Contributor provides its Contributions) on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied, including, without limitation, any warranties or conditions of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A PARTICULAR PURPOSE. You are solely responsible for determining the appropriateness of using or redistributing the Work and assume any risks associated with Your exercise of permissions under this License.
 8. Limitation of Liability. In no event and under no legal theory, whether in tort (including negligence), contract, or otherwise, unless required by applicable law (such as deliberate and grossly negligent acts) or agreed to in writing, shall any Contributor be liable to You for damages, including any direct, indirect, special, incidental, or consequential damages of any character arising as a result of this License or out of the use or inability to use the Work (including but not limited to damages for loss of goodwill, work stoppage, computer failure or malfunction, or any and all other commercial damages or losses), even if such Contributor has been advised of the possibility of such damages.
 9. Accepting Warranty or Additional Liability. While redistributing the Work or Derivative Works thereof, You may choose to offer, and charge a fee for, acceptance of support, warranty, indemnity, or other liability obligations and/or rights consistent with this License. However, in accepting such obligations, You may act only on Your own behalf and on Your sole responsibility, not on behalf of any other Contributor, and only if You agree to indemnify, defend, and hold each Contributor harmless for any liability incurred by, or claims asserted against, such Contributor by reason of your accepting any such warranty or additional liability.
-END OF TERMS AND CONDITIONS</pre></section></article><article><h3><a href="https://github.com/chalk/chalk">chalk@1.1.3</a></h3><section><pre class="license-text">The MIT License (MIT)
+END OF TERMS AND CONDITIONS
+```
+
+## [chalk@1.1.3](https://github.com/chalk/chalk)
+
+```
+The MIT License (MIT)
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
@@ -1019,7 +1686,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/JedWatson/classnames">classnames@1.2.2</a></h3><h4>by Jed Watson</h4><section><pre class="license-text">The MIT License (MIT)
+
+```
+
+## [classnames@1.2.2](https://github.com/JedWatson/classnames)
+### by Jed Watson
+
+```
+The MIT License (MIT)
 
 Copyright (c) 2015 Jed Watson
 
@@ -1041,7 +1715,14 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-</pre></section></article><article><h3><a href="https://github.com/JedWatson/classnames">classnames@2.2.5</a></h3><h4>by Jed Watson</h4><section><pre class="license-text">The MIT License (MIT)
+
+```
+
+## [classnames@2.2.5](https://github.com/JedWatson/classnames)
+### by Jed Watson
+
+```
+The MIT License (MIT)
 
 Copyright (c) 2016 Jed Watson
 
@@ -1062,7 +1743,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/GoalSmashers/clean-css">clean-css@2.2.23</a></h3><h4>by Jakub Pawlowicz</h4><section><pre class="license-text">Copyright (C) 2011-2014 GoalSmashers.com
+
+```
+
+## [clean-css@2.2.23](https://github.com/GoalSmashers/clean-css)
+### by Jakub Pawlowicz
+
+```
+Copyright (C) 2011-2014 GoalSmashers.com
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -1081,7 +1769,13 @@ IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
 DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
 ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
 DEALINGS IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/atom/clear-cut">clear-cut@2.0.1</a></h3><section><pre class="license-text">Copyright (c) 2014 GitHub Inc.
+
+```
+
+## [clear-cut@2.0.1](https://github.com/atom/clear-cut)
+
+```
+Copyright (c) 2014 GitHub Inc.
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
@@ -1101,7 +1795,14 @@ NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
 LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
 OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
 WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/pvorb/node-clone">clone@1.0.2</a></h3><h4>by Paul Vorbach</h4><section><pre class="license-text">Copyright © 2011-2015 Paul Vorbach <paul@vorba.ch>
+
+```
+
+## [clone@1.0.2](https://github.com/pvorb/node-clone)
+### by Paul Vorbach
+
+```
+Copyright © 2011-2015 Paul Vorbach <paul@vorba.ch>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the “Software”), to deal in
@@ -1119,7 +1820,13 @@ FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
 COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
 IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, OUT OF OR IN CONNECTION WITH THE
 SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/codemirror/CodeMirror">codemirror@5.16.0</a></h3><section><pre class="license-text">Copyright (C) 2016 by Marijn Haverbeke <marijnh@gmail.com> and others
+
+```
+
+## [codemirror@5.16.0](https://github.com/codemirror/CodeMirror)
+
+```
+Copyright (C) 2016 by Marijn Haverbeke <marijnh@gmail.com> and others
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -1138,7 +1845,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/jashkenas/coffeescript">coffee-script@1.10.0</a></h3><h4>by Jeremy Ashkenas</h4><section><pre class="license-text">Copyright (c) 2009-2015 Jeremy Ashkenas
+
+```
+
+## [coffee-script@1.10.0](https://github.com/jashkenas/coffeescript)
+### by Jeremy Ashkenas
+
+```
+Copyright (c) 2009-2015 Jeremy Ashkenas
 
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation
@@ -1160,7 +1874,14 @@ HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
 WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/jashkenas/coffeescript">coffee-script@1.9.0</a></h3><h4>by Jeremy Ashkenas</h4><section><pre class="license-text">Copyright (c) 2009-2014 Jeremy Ashkenas
+
+```
+
+## [coffee-script@1.9.0](https://github.com/jashkenas/coffeescript)
+### by Jeremy Ashkenas
+
+```
+Copyright (c) 2009-2014 Jeremy Ashkenas
 
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation
@@ -1182,7 +1903,14 @@ HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
 WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/qix-/color-convert">color-convert@1.3.1</a></h3><h4>by Heather Arthur</h4><section><pre class="license-text">Copyright (c) 2011 Heather Arthur <fayearthur@gmail.com>
+
+```
+
+## [color-convert@1.3.1](https://github.com/qix-/color-convert)
+### by Heather Arthur
+
+```
+Copyright (c) 2011 Heather Arthur <fayearthur@gmail.com>
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
@@ -1203,14 +1931,28 @@ LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
 OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
 WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-</pre></section></article><article><h3><a href="https://github.com/dfcreative/color-name">color-name@1.1.1</a></h3><h4>by DY</h4><section><pre class="license-text">The MIT License (MIT)
+
+```
+
+## [color-name@1.1.1](https://github.com/dfcreative/color-name)
+### by DY
+
+```
+The MIT License (MIT)
 Copyright (c) 2015 Dmitry Ivanov
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</pre></section></article><article><h3><a href="https://github.com/harthur/color-string">color-string@0.3.0</a></h3><h4>by Heather Arthur</h4><section><pre class="license-text">Copyright (c) 2011 Heather Arthur <fayearthur@gmail.com>
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+```
+
+## [color-string@0.3.0](https://github.com/harthur/color-string)
+### by Heather Arthur
+
+```
+Copyright (c) 2011 Heather Arthur <fayearthur@gmail.com>
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
@@ -1231,7 +1973,13 @@ LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
 OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
 WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-</pre></section></article><article><h3><a href="https://github.com/qix-/color">color@0.11.3</a></h3><section><pre class="license-text">Copyright (c) 2012 Heather Arthur
+
+```
+
+## [color@0.11.3](https://github.com/qix-/color)
+
+```
+Copyright (c) 2012 Heather Arthur
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
@@ -1252,7 +2000,14 @@ LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
 OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
 WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-</pre></section></article><article><h3><a href="https://github.com/felixge/node-combined-stream">combined-stream@0.0.7</a></h3><h4>by Felix Geisendörfer</h4><section><pre class="license-text">Copyright (c) 2011 Debuggable Limited <felix@debuggable.com>
+
+```
+
+## [combined-stream@0.0.7](https://github.com/felixge/node-combined-stream)
+### by Felix Geisendörfer
+
+```
+Copyright (c) 2011 Debuggable Limited <felix@debuggable.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -1271,7 +2026,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/felixge/node-combined-stream">combined-stream@1.0.5</a></h3><h4>by Felix Geisendörfer</h4><section><pre class="license-text">Copyright (c) 2011 Debuggable Limited <felix@debuggable.com>
+
+```
+
+## [combined-stream@1.0.5](https://github.com/felixge/node-combined-stream)
+### by Felix Geisendörfer
+
+```
+Copyright (c) 2011 Debuggable Limited <felix@debuggable.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -1290,7 +2052,19 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/visionmedia/commander.js">commander@2.2.0</a></h3><h4>by TJ Holowaychuk</h4><section><div>MIT*</div></section></article><article><h3><a href="https://github.com/tj/commander.js">commander@2.9.0</a></h3><h4>by TJ Holowaychuk</h4><section><pre class="license-text">(The MIT License)
+
+```
+
+## [commander@2.2.0](https://github.com/visionmedia/commander.js)
+### by TJ Holowaychuk
+
+MIT*
+
+## [commander@2.9.0](https://github.com/tj/commander.js)
+### by TJ Holowaychuk
+
+```
+(The MIT License)
 
 Copyright (c) 2011 TJ Holowaychuk <tj@vision-media.ca>
 
@@ -1312,7 +2086,14 @@ IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
 CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
 TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
 SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/reactjs/commoner">commoner@0.10.4</a></h3><h4>by Ben Newman</h4><section><pre class="license-text">Copyright (c) 2013 Ben Newman <bn@cs.stanford.edu>
+
+```
+
+## [commoner@0.10.4](https://github.com/reactjs/commoner)
+### by Ben Newman
+
+```
+Copyright (c) 2013 Ben Newman <bn@cs.stanford.edu>
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
@@ -1332,7 +2113,14 @@ IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
 CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
 TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
 SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/substack/node-concat-map">concat-map@0.0.1</a></h3><h4>by James Halliday</h4><section><pre class="license-text">This software is released under the MIT license:
+
+```
+
+## [concat-map@0.0.1](https://github.com/substack/node-concat-map)
+### by James Halliday
+
+```
+This software is released under the MIT license:
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
@@ -1350,7 +2138,14 @@ FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
 COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
 IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
 CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/thlorenz/convert-source-map">convert-source-map@1.2.0</a></h3><h4>by Thorsten Lorenz</h4><section><pre class="license-text">Copyright 2013 Thorsten Lorenz. 
+
+```
+
+## [convert-source-map@1.2.0](https://github.com/thlorenz/convert-source-map)
+### by Thorsten Lorenz
+
+```
+Copyright 2013 Thorsten Lorenz. 
 All rights reserved.
 
 Permission is hereby granted, free of charge, to any person
@@ -1373,7 +2168,14 @@ HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
 WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/jayphelps/core-decorators.js">core-decorators@0.12.3</a></h3><h4>by Jay Phelps</h4><section><pre class="license-text">The MIT License (MIT)
+
+```
+
+## [core-decorators@0.12.3](https://github.com/jayphelps/core-decorators.js)
+### by Jay Phelps
+
+```
+The MIT License (MIT)
 
 Copyright (c) 2015-2016 Jay Phelps
 
@@ -1395,7 +2197,13 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-</pre></section></article><article><h3><a href="https://github.com/zloirock/core-js">core-js@1.2.6</a></h3><section><pre class="license-text">Copyright (c) 2015 Denis Pushkarev
+
+```
+
+## [core-js@1.2.6](https://github.com/zloirock/core-js)
+
+```
+Copyright (c) 2015 Denis Pushkarev
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -1414,7 +2222,13 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/zloirock/core-js">core-js@2.4.0</a></h3><section><pre class="license-text">Copyright (c) 2014-2016 Denis Pushkarev
+
+```
+
+## [core-js@2.4.0](https://github.com/zloirock/core-js)
+
+```
+Copyright (c) 2014-2016 Denis Pushkarev
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -1433,7 +2247,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/isaacs/core-util-is">core-util-is@1.0.2</a></h3><h4>by Isaac Z. Schlueter</h4><section><pre class="license-text">Copyright Node.js contributors. All rights reserved.
+
+```
+
+## [core-util-is@1.0.2](https://github.com/isaacs/core-util-is)
+### by Isaac Z. Schlueter
+
+```
+Copyright Node.js contributors. All rights reserved.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to
@@ -1452,7 +2273,19 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
 IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/nickmerwin/node-coveralls">coveralls@2.11.9</a></h3><h4>by Gregg Caines</h4><section><div>BSD-2-Clause</div></section></article><article><h3><a href="https://github.com/hueniverse/cryptiles">cryptiles@0.2.2</a></h3><h4>by Eran Hammer</h4><section><pre class="license-text">Copyright (c) 2012-2013, Eran Hammer.
+
+```
+
+## [coveralls@2.11.9](https://github.com/nickmerwin/node-coveralls)
+### by Gregg Caines
+
+BSD-2-Clause
+
+## [cryptiles@0.2.2](https://github.com/hueniverse/cryptiles)
+### by Eran Hammer
+
+```
+Copyright (c) 2012-2013, Eran Hammer.
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
@@ -1476,7 +2309,13 @@ LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND
 ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
 SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-</pre></section></article><article><h3><a href="https://github.com/hapijs/cryptiles">cryptiles@2.0.5</a></h3><section><pre class="license-text">Copyright (c) 2014, Eran Hammer and other contributors.
+
+```
+
+## [cryptiles@2.0.5](https://github.com/hapijs/cryptiles)
+
+```
+Copyright (c) 2014, Eran Hammer and other contributors.
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
@@ -1504,7 +2343,14 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
                                   *   *   *
 
 The complete list of contributors can be found at: https://github.com/hueniverse/cryptiles/graphs/contributors
-</pre></section></article><article><h3><a href="https://github.com/groupon/cson-parser">cson-parser@1.0.9</a></h3><h4>by Jan Krems</h4><section><pre class="license-text">Copyright (c) 2014, Groupon, Inc.
+
+```
+
+## [cson-parser@1.0.9](https://github.com/groupon/cson-parser)
+### by Jan Krems
+
+```
+Copyright (c) 2014, Groupon, Inc.
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
@@ -1533,7 +2379,14 @@ PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF
 LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
 NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
 SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-</pre></section></article><article><h3><a href="https://github.com/marcj/css-element-queries">css-element-queries@0.3.2</a></h3><h4>by Marc J. Schmidt</h4><section><pre class="license-text">Copyright (c) 2013 Marc J. Schmidt
+
+```
+
+## [css-element-queries@0.3.2](https://github.com/marcj/css-element-queries)
+### by Marc J. Schmidt
+
+```
+Copyright (c) 2013 Marc J. Schmidt
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -1552,7 +2405,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/rmustacc/node-ctype">ctype@0.5.3</a></h3><h4>by Robert Mustacchi</h4><section><pre class="license-text">The following license applies to all files unless the file is specified below.
+
+```
+
+## [ctype@0.5.3](https://github.com/rmustacc/node-ctype)
+### by Robert Mustacchi
+
+```
+The following license applies to all files unless the file is specified below.
 Each file specified below has its license information embedded in it:
 
 tools/jsstyle
@@ -1576,7 +2436,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
 IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/dominictarr/d64">d64@1.0.0</a></h3><h4>by Dominic Tarr</h4><section><pre class="license-text">Copyright (c) 2014 Dominic Tarr
+
+```
+
+## [d64@1.0.0](https://github.com/dominictarr/d64)
+### by Dominic Tarr
+
+```
+Copyright (c) 2014 Dominic Tarr
 
 Permission is hereby granted, free of charge, 
 to any person obtaining a copy of this software and 
@@ -1598,7 +2465,14 @@ IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR
 ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, 
 TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE 
 SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/medikoo/d">d@0.1.1</a></h3><h4>by Mariusz Nowak</h4><section><pre class="license-text">Copyright (C) 2013 Mariusz Nowak (www.medikoo.com)
+
+```
+
+## [d@0.1.1](https://github.com/medikoo/d)
+### by Mariusz Nowak
+
+```
+Copyright (C) 2013 Mariusz Nowak (www.medikoo.com)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -1617,7 +2491,34 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/trentm/node-dashdash">dashdash@1.13.1</a></h3><h4>by Trent Mick</h4><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/trentm/node-dashdash">dashdash@1.14.0</a></h3><h4>by Trent Mick</h4><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/visionmedia/debug">debug@2.2.0</a></h3><h4>by TJ Holowaychuk</h4><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/dwyl/decache">decache@3.1.0</a></h3><h4>by @besarthoxhaj & @nelsonic</h4><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/substack/node-deep-equal">deep-equal@1.0.1</a></h3><h4>by James Halliday</h4><section><pre class="license-text">This software is released under the MIT license:
+
+```
+
+## [dashdash@1.13.1](https://github.com/trentm/node-dashdash)
+### by Trent Mick
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [dashdash@1.14.0](https://github.com/trentm/node-dashdash)
+### by Trent Mick
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [debug@2.2.0](https://github.com/visionmedia/debug)
+### by TJ Holowaychuk
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [decache@3.1.0](https://github.com/dwyl/decache)
+### by @besarthoxhaj & @nelsonic
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [deep-equal@1.0.1](https://github.com/substack/node-deep-equal)
+### by James Halliday
+
+```
+This software is released under the MIT license:
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
@@ -1635,7 +2536,14 @@ FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
 COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
 IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
 CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/unclechu/node-deep-extend">deep-extend@0.4.1</a></h3><h4>by Viacheslav Lotsmanov</h4><section><pre class="license-text">The MIT License (MIT)
+
+```
+
+## [deep-extend@0.4.1](https://github.com/unclechu/node-deep-extend)
+### by Viacheslav Lotsmanov
+
+```
+The MIT License (MIT)
 
 Copyright (c) 2013-2015, Viacheslav Lotsmanov
 
@@ -1655,7 +2563,13 @@ FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
 COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
 IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
 CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/Level/deferred-leveldown">deferred-leveldown@1.2.1</a></h3><section><pre class="license-text">The MIT License (MIT)
+
+```
+
+## [deferred-leveldown@1.2.1](https://github.com/Level/deferred-leveldown)
+
+```
+The MIT License (MIT)
 =====================
 
 Copyright (c) 2014 Rod Vagg
@@ -1666,7 +2580,14 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/substack/defined">defined@1.0.0</a></h3><h4>by James Halliday</h4><section><pre class="license-text">This software is released under the MIT license:
+
+```
+
+## [defined@1.0.0](https://github.com/substack/defined)
+### by James Halliday
+
+```
+This software is released under the MIT license:
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
@@ -1684,7 +2605,14 @@ FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
 COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
 IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
 CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/felixge/node-delayed-stream">delayed-stream@0.0.5</a></h3><h4>by Felix Geisendörfer</h4><section><pre class="license-text">Copyright (c) 2011 Debuggable Limited <felix@debuggable.com>
+
+```
+
+## [delayed-stream@0.0.5](https://github.com/felixge/node-delayed-stream)
+### by Felix Geisendörfer
+
+```
+Copyright (c) 2011 Debuggable Limited <felix@debuggable.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -1703,7 +2631,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/felixge/node-delayed-stream">delayed-stream@1.0.0</a></h3><h4>by Felix Geisendörfer</h4><section><pre class="license-text">Copyright (c) 2011 Debuggable Limited <felix@debuggable.com>
+
+```
+
+## [delayed-stream@1.0.0](https://github.com/felixge/node-delayed-stream)
+### by Felix Geisendörfer
+
+```
+Copyright (c) 2011 Debuggable Limited <felix@debuggable.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -1722,7 +2657,13 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/visionmedia/node-delegates">delegates@1.0.0</a></h3><section><pre class="license-text">Copyright (c) 2015 TJ Holowaychuk <tj@vision-media.ca>
+
+```
+
+## [delegates@1.0.0](https://github.com/visionmedia/node-delegates)
+
+```
+Copyright (c) 2015 TJ Holowaychuk <tj@vision-media.ca>
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
@@ -1742,7 +2683,14 @@ NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
 LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
 OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
 WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/dougwilson/nodejs-depd">depd@1.1.0</a></h3><h4>by Douglas Christopher Wilson</h4><section><pre class="license-text">(The MIT License)
+
+```
+
+## [depd@1.1.0](https://github.com/dougwilson/nodejs-depd)
+### by Douglas Christopher Wilson
+
+```
+(The MIT License)
 
 Copyright (c) 2014-2015 Douglas Christopher Wilson
 
@@ -1764,7 +2712,14 @@ IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
 CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
 TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
 SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/sindresorhus/detect-indent">detect-indent@3.0.1</a></h3><h4>by Sindre Sorhus</h4><section><pre class="license-text">The MIT License (MIT)
+
+```
+
+## [detect-indent@3.0.1](https://github.com/sindresorhus/detect-indent)
+### by Sindre Sorhus
+
+```
+The MIT License (MIT)
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
@@ -1785,7 +2740,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/substack/node-detective">detective@4.3.1</a></h3><h4>by James Halliday</h4><section><pre class="license-text">This software is released under the MIT license:
+
+```
+
+## [detective@4.3.1](https://github.com/substack/node-detective)
+### by James Halliday
+
+```
+This software is released under the MIT license:
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
@@ -1803,7 +2765,14 @@ FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
 COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
 IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
 CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/petkaantonov/deque">double-ended-queue@2.0.0-0</a></h3><h4>by Petka Antonov</h4><section><pre class="license-text">Copyright (c) 2013 Petka Antonov
+
+```
+
+## [double-ended-queue@2.0.0-0](https://github.com/petkaantonov/deque)
+### by Petka Antonov
+
+```
+Copyright (c) 2013 Petka Antonov
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -1821,7 +2790,14 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.  IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE.</pre></section></article><article><h3><a href="https://github.com/deoxxa/duplexer2">duplexer2@0.0.2</a></h3><h4>by Conrad Pankoff</h4><section><pre class="license-text">Copyright (c) 2013, Deoxxa Development
+THE SOFTWARE.
+```
+
+## [duplexer2@0.0.2](https://github.com/deoxxa/duplexer2)
+### by Conrad Pankoff
+
+```
+Copyright (c) 2013, Deoxxa Development
 ======================================
 All rights reserved.
 --------------------
@@ -1847,7 +2823,14 @@ LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND
 ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
 SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-</pre></section></article><article><h3><a href="https://github.com/quartzjer/ecc-jsbn">ecc-jsbn@0.1.1</a></h3><h4>by Jeremie Miller</h4><section><pre class="license-text">The MIT License (MIT)
+
+```
+
+## [ecc-jsbn@0.1.1](https://github.com/quartzjer/ecc-jsbn)
+### by Jeremie Miller
+
+```
+The MIT License (MIT)
 
 Copyright (c) 2014 Jeremie Miller
 
@@ -1867,7 +2850,14 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.</pre></section></article><article><h3><a href="https://github.com/atom/emissary">emissary@1.3.3</a></h3><h4>by Nathan Sobo</h4><section><pre class="license-text">Copyright (c) 2013 GitHub Inc.
+SOFTWARE.
+```
+
+## [emissary@1.3.3](https://github.com/atom/emissary)
+### by Nathan Sobo
+
+```
+Copyright (c) 2013 GitHub Inc.
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
@@ -1887,7 +2877,14 @@ NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
 LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
 OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
 WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/andris9/encoding">encoding@0.1.12</a></h3><h4>by Andris Reinman</h4><section><pre class="license-text">Copyright (c) 2012-2014 Andris Reinman
+
+```
+
+## [encoding@0.1.12](https://github.com/andris9/encoding)
+### by Andris Reinman
+
+```
+Copyright (c) 2012-2014 Andris Reinman
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -1903,7 +2900,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/mafintosh/end-of-stream">end-of-stream@1.1.0</a></h3><h4>by Mathias Buus</h4><section><pre class="license-text">The MIT License (MIT)
+
+```
+
+## [end-of-stream@1.1.0](https://github.com/mafintosh/end-of-stream)
+### by Mathias Buus
+
+```
+The MIT License (MIT)
 
 Copyright (c) 2014 Mathias Buus
 
@@ -1923,7 +2927,14 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE.</pre></section></article><article><h3><a href="https://github.com/Raynos/end-stream">end-stream@0.1.0</a></h3><h4>by Raynos</h4><section><pre class="license-text">Copyright (c) 2012 Raynos.
+THE SOFTWARE.
+```
+
+## [end-stream@0.1.0](https://github.com/Raynos/end-stream)
+### by Raynos
+
+```
+Copyright (c) 2012 Raynos.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -1941,7 +2952,14 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE.</pre></section></article><article><h3><a href="https://github.com/fb55/node-entities">entities@1.1.1</a></h3><h4>by Felix Boehm</h4><section><pre class="license-text">Copyright (c) Felix Böhm
+THE SOFTWARE.
+```
+
+## [entities@1.1.1](https://github.com/fb55/node-entities)
+### by Felix Boehm
+
+```
+Copyright (c) Felix Böhm
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
@@ -1952,7 +2970,23 @@ Redistributions in binary form must reproduce the above copyright notice, this l
 
 THIS IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS,
 EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-</pre></section></article><article><h3><a href="https://github.com/hughsk/envify">envify@3.4.1</a></h3><h4>by Hugh Kennedy</h4><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/rvagg/node-errno">errno@0.1.4</a></h3><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/spicyj/es3ify">es3ify@0.1.4</a></h3><h4>by Ben Alpert</h4><section><pre class="license-text">The MIT License (MIT)
+
+```
+
+## [envify@3.4.1](https://github.com/hughsk/envify)
+### by Hugh Kennedy
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [errno@0.1.4](https://github.com/rvagg/node-errno)
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [es3ify@0.1.4](https://github.com/spicyj/es3ify)
+### by Ben Alpert
+
+```
+The MIT License (MIT)
 
 Copyright (c) 2014 Ben Alpert
 
@@ -1973,7 +3007,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/spicyj/es3ify">es3ify@0.2.2</a></h3><h4>by Ben Alpert</h4><section><pre class="license-text">The MIT License (MIT)
+
+```
+
+## [es3ify@0.2.2](https://github.com/spicyj/es3ify)
+### by Ben Alpert
+
+```
+The MIT License (MIT)
 
 Copyright (c) 2014 Ben Alpert
 
@@ -1994,7 +3035,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/medikoo/es5-ext">es5-ext@0.10.12</a></h3><h4>by Mariusz Nowak</h4><section><pre class="license-text">Copyright (C) 2011-2015 Mariusz Nowak (www.medikoo.com)
+
+```
+
+## [es5-ext@0.10.12](https://github.com/medikoo/es5-ext)
+### by Mariusz Nowak
+
+```
+Copyright (C) 2011-2015 Mariusz Nowak (www.medikoo.com)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -2013,7 +3061,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/medikoo/es6-iterator">es6-iterator@0.1.3</a></h3><h4>by Mariusz Nowak</h4><section><pre class="license-text">Copyright (C) 2013-2015 Mariusz Nowak (www.medikoo.com)
+
+```
+
+## [es6-iterator@0.1.3](https://github.com/medikoo/es6-iterator)
+### by Mariusz Nowak
+
+```
+Copyright (C) 2013-2015 Mariusz Nowak (www.medikoo.com)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -2032,7 +3087,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/medikoo/es6-iterator">es6-iterator@2.0.0</a></h3><h4>by Mariusz Nowak</h4><section><pre class="license-text">Copyright (C) 2013-2015 Mariusz Nowak (www.medikoo.com)
+
+```
+
+## [es6-iterator@2.0.0](https://github.com/medikoo/es6-iterator)
+### by Mariusz Nowak
+
+```
+Copyright (C) 2013-2015 Mariusz Nowak (www.medikoo.com)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -2051,7 +3113,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/timdp/es6-promise-pool">es6-promise-pool@2.4.2</a></h3><h4>by Tim De Pauw</h4><section><pre class="license-text">Copyright (c) 2015 Tim De Pauw <https://tmdpw.eu/>
+
+```
+
+## [es6-promise-pool@2.4.2](https://github.com/timdp/es6-promise-pool)
+### by Tim De Pauw
+
+```
+Copyright (c) 2015 Tim De Pauw <https://tmdpw.eu/>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -2070,7 +3139,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/medikoo/es6-symbol">es6-symbol@2.0.1</a></h3><h4>by Mariusz Nowak</h4><section><pre class="license-text">Copyright (C) 2013-2015 Mariusz Nowak (www.medikoo.com)
+
+```
+
+## [es6-symbol@2.0.1](https://github.com/medikoo/es6-symbol)
+### by Mariusz Nowak
+
+```
+Copyright (C) 2013-2015 Mariusz Nowak (www.medikoo.com)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -2089,7 +3165,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/medikoo/es6-symbol">es6-symbol@3.1.0</a></h3><h4>by Mariusz Nowak</h4><section><pre class="license-text">Copyright (C) 2013-2015 Mariusz Nowak (www.medikoo.com)
+
+```
+
+## [es6-symbol@3.1.0](https://github.com/medikoo/es6-symbol)
+### by Mariusz Nowak
+
+```
+Copyright (C) 2013-2015 Mariusz Nowak (www.medikoo.com)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -2108,7 +3191,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/medikoo/es6-weak-map">es6-weak-map@0.1.4</a></h3><h4>by Mariusz Nowak</h4><section><pre class="license-text">Copyright (C) 2013 Mariusz Nowak (www.medikoo.com)
+
+```
+
+## [es6-weak-map@0.1.4](https://github.com/medikoo/es6-weak-map)
+### by Mariusz Nowak
+
+```
+Copyright (C) 2013 Mariusz Nowak (www.medikoo.com)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -2127,7 +3217,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/sindresorhus/escape-string-regexp">escape-string-regexp@1.0.5</a></h3><h4>by Sindre Sorhus</h4><section><pre class="license-text">The MIT License (MIT)
+
+```
+
+## [escape-string-regexp@1.0.5](https://github.com/sindresorhus/escape-string-regexp)
+### by Sindre Sorhus
+
+```
+The MIT License (MIT)
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
@@ -2148,7 +3245,28 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/zertosh/esmangle-evaluator">esmangle-evaluator@1.0.1</a></h3><h4>by Andres Suarez</h4><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/facebook/esprima">esprima-fb@15001.1.0-dev-harmony-fb</a></h3><h4>by Ariya Hidayat</h4><section><div>BSD</div></section></article><article><h3><a href="https://github.com/facebook/esprima">esprima-fb@15001.1001.0-dev-harmony-fb</a></h3><h4>by Ariya Hidayat</h4><section><div>BSD</div></section></article><article><h3><a href="https://github.com/facebook/esprima">esprima-fb@3001.1.0-dev-harmony-fb</a></h3><section><pre class="license-text">Redistribution and use in source and binary forms, with or without
+
+```
+
+## [esmangle-evaluator@1.0.1](https://github.com/zertosh/esmangle-evaluator)
+### by Andres Suarez
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [esprima-fb@15001.1.0-dev-harmony-fb](https://github.com/facebook/esprima)
+### by Ariya Hidayat
+
+BSD
+
+## [esprima-fb@15001.1001.0-dev-harmony-fb](https://github.com/facebook/esprima)
+### by Ariya Hidayat
+
+BSD
+
+## [esprima-fb@3001.1.0-dev-harmony-fb](https://github.com/facebook/esprima)
+
+```
+Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are met:
 
   * Redistributions of source code must retain the above copyright
@@ -2167,7 +3285,18 @@ LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND
 ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF
 THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-</pre></section></article><article><h3><a href="https://github.com/ariya/esprima">esprima@1.0.4</a></h3><section><div>BSD</div></section></article><article><h3><a href="https://github.com/jquery/esprima">esprima@2.7.2</a></h3><h4>by Ariya Hidayat</h4><section><pre class="license-text">Copyright (c) jQuery Foundation, Inc. and Contributors, All Rights Reserved.
+
+```
+
+## [esprima@1.0.4](https://github.com/ariya/esprima)
+
+BSD
+
+## [esprima@2.7.2](https://github.com/jquery/esprima)
+### by Ariya Hidayat
+
+```
+Copyright (c) jQuery Foundation, Inc. and Contributors, All Rights Reserved.
 
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are met:
@@ -2188,7 +3317,13 @@ LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND
 ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF
 THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-</pre></section></article><article><h3><a href="https://github.com/estools/esutils">esutils@2.0.2</a></h3><section><pre class="license-text">Redistribution and use in source and binary forms, with or without
+
+```
+
+## [esutils@2.0.2](https://github.com/estools/esutils)
+
+```
+Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are met:
 
   * Redistributions of source code must retain the above copyright
@@ -2207,7 +3342,13 @@ LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND
 ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF
 THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-</pre></section></article><article><h3><a href="https://github.com/atom/event-kit">event-kit@1.5.0</a></h3><section><pre class="license-text">Copyright (c) 2014 GitHub Inc.
+
+```
+
+## [event-kit@1.5.0](https://github.com/atom/event-kit)
+
+```
+Copyright (c) 2014 GitHub Inc.
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
@@ -2227,7 +3368,24 @@ NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
 LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
 OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
 WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/bahamas10/node-exec">exec@0.2.1</a></h3><h4>by Dave Eddy</h4><section><div>MIT*</div></section></article><article><h3><a href="https://github.com/ralphtheninja/expand-template">expand-template@1.0.2</a></h3><h4>by LM</h4><section><div>WTFPL</div></section></article><article><h3><a href="https://github.com/justmoon/node-extend">extend@3.0.0</a></h3><h4>by Stefan Thomas</h4><section><pre class="license-text">The MIT License (MIT)
+
+```
+
+## [exec@0.2.1](https://github.com/bahamas10/node-exec)
+### by Dave Eddy
+
+MIT*
+
+## [expand-template@1.0.2](https://github.com/ralphtheninja/expand-template)
+### by LM
+
+WTFPL
+
+## [extend@3.0.0](https://github.com/justmoon/node-extend)
+### by Stefan Thomas
+
+```
+The MIT License (MIT)
 
 Copyright (c) 2014 Stefan Thomas
 
@@ -2250,7 +3408,13 @@ LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
 OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
 WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-</pre></section></article><article><h3><a href="https://github.com/davepacheco/node-extsprintf">extsprintf@1.0.2</a></h3><section><pre class="license-text">Copyright (c) 2012, Joyent, Inc. All rights reserved.
+
+```
+
+## [extsprintf@1.0.2](https://github.com/davepacheco/node-extsprintf)
+
+```
+Copyright (c) 2012, Joyent, Inc. All rights reserved.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -2269,7 +3433,19 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE
-</pre></section></article><article><h3><a href="https://github.com/substack/node-falafel">falafel@1.2.0</a></h3><h4>by James Halliday</h4><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/kesla/fast-future">fast-future@1.0.1</a></h3><h4>by David Björklund</h4><section><pre class="license-text">Copyright (c) 2014 David Björklund
+
+```
+
+## [falafel@1.2.0](https://github.com/substack/node-falafel)
+### by James Halliday
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [fast-future@1.0.1](https://github.com/kesla/fast-future)
+### by David Björklund
+
+```
+Copyright (c) 2014 David Björklund
 
 This software is released under the MIT license:
 
@@ -2290,7 +3466,13 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/facebook/emitter">fbemitter@2.0.2</a></h3><section><pre class="license-text">BSD License
+
+```
+
+## [fbemitter@2.0.2](https://github.com/facebook/emitter)
+
+```
+BSD License
 
 For emitter software
 
@@ -2321,7 +3503,13 @@ LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON
 ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
 SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-</pre></section></article><article><h3><a href="https://github.com/facebook/fbjs">fbjs@0.1.0-alpha.7</a></h3><section><pre class="license-text">BSD License
+
+```
+
+## [fbjs@0.1.0-alpha.7](https://github.com/facebook/fbjs)
+
+```
+BSD License
 
 For fbjs software
 
@@ -2352,7 +3540,13 @@ LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON
 ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
 SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-</pre></section></article><article><h3><a href="https://github.com/facebook/fbjs">fbjs@0.6.1</a></h3><section><pre class="license-text">BSD License
+
+```
+
+## [fbjs@0.6.1](https://github.com/facebook/fbjs)
+
+```
+BSD License
 
 For fbjs software
 
@@ -2383,7 +3577,13 @@ LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON
 ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
 SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-</pre></section></article><article><h3><a href="https://github.com/facebook/fbjs">fbjs@0.7.2</a></h3><section><pre class="license-text">BSD License
+
+```
+
+## [fbjs@0.7.2](https://github.com/facebook/fbjs)
+
+```
+BSD License
 
 For fbjs software
 
@@ -2414,7 +3614,14 @@ LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON
 ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
 SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-</pre></section></article><article><h3><a href="https://github.com/yuanchuan/find">find@0.2.6</a></h3><h4>by yuanchuan</h4><section><pre class="license-text">(The MIT License)
+
+```
+
+## [find@0.2.6](https://github.com/yuanchuan/find)
+### by yuanchuan
+
+```
+(The MIT License)
 
 Copyright (c) 2013 Yuan Chuan <yuanchuan23@gmail.com>
 
@@ -2436,7 +3643,14 @@ IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
 CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
 TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
 SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/facebook/flux">flux@2.1.1</a></h3><h4>by Facebook</h4><section><pre class="license-text">BSD License
+
+```
+
+## [flux@2.1.1](https://github.com/facebook/flux)
+### by Facebook
+
+```
+BSD License
 
 For Flux software
 
@@ -2466,7 +3680,19 @@ LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON
 ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
 SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-</pre></section></article><article><h3><a href="https://github.com/olalonde/follow-redirects">follow-redirects@0.0.7</a></h3><h4>by Olivier Lalonde</h4><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/manuelstofer/foreach">foreach@2.0.5</a></h3><h4>by Manuel Stofer</h4><section><pre class="license-text">The MIT License
+
+```
+
+## [follow-redirects@0.0.7](https://github.com/olalonde/follow-redirects)
+### by Olivier Lalonde
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [foreach@2.0.5](https://github.com/manuelstofer/foreach)
+### by Manuel Stofer
+
+```
+The MIT License
 
 Copyright (c) 2013 Manuel Stofer
 
@@ -2490,7 +3716,14 @@ HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
 WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/mikeal/forever-agent">forever-agent@0.5.2</a></h3><h4>by Mikeal Rogers</h4><section><pre class="license-text">Apache License
+
+```
+
+## [forever-agent@0.5.2](https://github.com/mikeal/forever-agent)
+### by Mikeal Rogers
+
+```
+Apache License
 
 Version 2.0, January 2004
 
@@ -2544,7 +3777,14 @@ If the Work includes a "NOTICE" text file as part of its distribution, then any 
 
 9. Accepting Warranty or Additional Liability. While redistributing the Work or Derivative Works thereof, You may choose to offer, and charge a fee for, acceptance of support, warranty, indemnity, or other liability obligations and/or rights consistent with this License. However, in accepting such obligations, You may act only on Your own behalf and on Your sole responsibility, not on behalf of any other Contributor, and only if You agree to indemnify, defend, and hold each Contributor harmless for any liability incurred by, or claims asserted against, such Contributor by reason of your accepting any such warranty or additional liability.
 
-END OF TERMS AND CONDITIONS</pre></section></article><article><h3><a href="https://github.com/mikeal/forever-agent">forever-agent@0.6.1</a></h3><h4>by Mikeal Rogers</h4><section><pre class="license-text">Apache License
+END OF TERMS AND CONDITIONS
+```
+
+## [forever-agent@0.6.1](https://github.com/mikeal/forever-agent)
+### by Mikeal Rogers
+
+```
+Apache License
 
 Version 2.0, January 2004
 
@@ -2598,7 +3838,14 @@ If the Work includes a "NOTICE" text file as part of its distribution, then any 
 
 9. Accepting Warranty or Additional Liability. While redistributing the Work or Derivative Works thereof, You may choose to offer, and charge a fee for, acceptance of support, warranty, indemnity, or other liability obligations and/or rights consistent with this License. However, in accepting such obligations, You may act only on Your own behalf and on Your sole responsibility, not on behalf of any other Contributor, and only if You agree to indemnify, defend, and hold each Contributor harmless for any liability incurred by, or claims asserted against, such Contributor by reason of your accepting any such warranty or additional liability.
 
-END OF TERMS AND CONDITIONS</pre></section></article><article><h3><a href="https://github.com/felixge/node-form-data">form-data@0.1.4</a></h3><h4>by Felix Geisendörfer</h4><section><pre class="license-text">Copyright (c) 2012 Felix Geisendörfer (felix@debuggable.com) and contributors
+END OF TERMS AND CONDITIONS
+```
+
+## [form-data@0.1.4](https://github.com/felixge/node-form-data)
+### by Felix Geisendörfer
+
+```
+Copyright (c) 2012 Felix Geisendörfer (felix@debuggable.com) and contributors
 
  Permission is hereby granted, free of charge, to any person obtaining a copy
  of this software and associated documentation files (the "Software"), to deal
@@ -2617,7 +3864,14 @@ END OF TERMS AND CONDITIONS</pre></section></article><article><h3><a href="https
  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
  OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/form-data/form-data">form-data@1.0.0-rc4</a></h3><h4>by Felix Geisendörfer</h4><section><pre class="license-text">Copyright (c) 2012 Felix Geisendörfer (felix@debuggable.com) and contributors
+
+```
+
+## [form-data@1.0.0-rc4](https://github.com/form-data/form-data)
+### by Felix Geisendörfer
+
+```
+Copyright (c) 2012 Felix Geisendörfer (felix@debuggable.com) and contributors
 
  Permission is hereby granted, free of charge, to any person obtaining a copy
  of this software and associated documentation files (the "Software"), to deal
@@ -2636,7 +3890,13 @@ END OF TERMS AND CONDITIONS</pre></section></article><article><h3><a href="https
  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
  OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/nolanlawson/fruitdown">fruitdown@1.0.2</a></h3><section><pre class="license-text">The MIT License (MIT)
+
+```
+
+## [fruitdown@1.0.2](https://github.com/nolanlawson/fruitdown)
+
+```
+The MIT License (MIT)
 
 Copyright (c) 2015 Nolan Lawson and 2014 Anton Whalley
 
@@ -2657,7 +3917,13 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/atom/fs-plus">fs-plus@2.9.1</a></h3><section><pre class="license-text">Copyright (c) 2013 GitHub Inc.
+
+```
+
+## [fs-plus@2.9.1](https://github.com/atom/fs-plus)
+
+```
+Copyright (c) 2013 GitHub Inc.
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
@@ -2677,7 +3943,14 @@ NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
 LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
 OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
 WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/isaacs/fs.realpath">fs.realpath@1.0.0</a></h3><h4>by Isaac Z. Schlueter</h4><section><pre class="license-text">The ISC License
+
+```
+
+## [fs.realpath@1.0.0](https://github.com/isaacs/fs.realpath)
+### by Isaac Z. Schlueter
+
+```
+The ISC License
 
 Copyright (c) Isaac Z. Schlueter and Contributors
 
@@ -2720,7 +3993,14 @@ the licensed code:
   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
   FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
   DEALINGS IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/isaacs/fstream-ignore">fstream-ignore@1.0.4</a></h3><h4>by Isaac Z. Schlueter</h4><section><pre class="license-text">The ISC License
+
+```
+
+## [fstream-ignore@1.0.4](https://github.com/isaacs/fstream-ignore)
+### by Isaac Z. Schlueter
+
+```
+The ISC License
 
 Copyright (c) Isaac Z. Schlueter and Contributors
 
@@ -2735,7 +4015,14 @@ ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
 WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
 ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR
 IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/npm/fstream">fstream@1.0.10</a></h3><h4>by Isaac Z. Schlueter</h4><section><pre class="license-text">The ISC License
+
+```
+
+## [fstream@1.0.10](https://github.com/npm/fstream)
+### by Isaac Z. Schlueter
+
+```
+The ISC License
 
 Copyright (c) Isaac Z. Schlueter and Contributors
 
@@ -2750,7 +4037,14 @@ ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
 WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
 ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR
 IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/npm/fstream">fstream@1.0.9</a></h3><h4>by Isaac Z. Schlueter</h4><section><pre class="license-text">The ISC License
+
+```
+
+## [fstream@1.0.9](https://github.com/npm/fstream)
+### by Isaac Z. Schlueter
+
+```
+The ISC License
 
 Copyright (c) Isaac Z. Schlueter and Contributors
 
@@ -2765,7 +4059,14 @@ ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
 WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
 ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR
 IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/mikolalysenko/functional-red-black-tree">functional-red-black-tree@1.0.1</a></h3><h4>by Mikola Lysenko</h4><section><pre class="license-text">
+
+```
+
+## [functional-red-black-tree@1.0.1](https://github.com/mikolalysenko/functional-red-black-tree)
+### by Mikola Lysenko
+
+```
+
 The MIT License (MIT)
 
 Copyright (c) 2013 Mikola Lysenko
@@ -2787,7 +4088,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/iarna/gauge">gauge@1.2.7</a></h3><h4>by Rebecca Turner</h4><section><pre class="license-text">Copyright (c) 2014, Rebecca Turner <me@re-becca.org>
+
+```
+
+## [gauge@1.2.7](https://github.com/iarna/gauge)
+### by Rebecca Turner
+
+```
+Copyright (c) 2014, Rebecca Turner <me@re-becca.org>
 
 Permission to use, copy, modify, and/or distribute this software for any
 purpose with or without fee is hereby granted, provided that the above
@@ -2800,7 +4108,19 @@ ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
 WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
 ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF
 OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/mafintosh/generate-function">generate-function@2.0.0</a></h3><h4>by Mathias Buus</h4><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/mafintosh/generate-object-property">generate-object-property@1.2.0</a></h3><h4>by Mathias Buus</h4><section><pre class="license-text">The MIT License (MIT)
+
+```
+
+## [generate-function@2.0.0](https://github.com/mafintosh/generate-function)
+### by Mathias Buus
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [generate-object-property@1.2.0](https://github.com/mafintosh/generate-object-property)
+### by Mathias Buus
+
+```
+The MIT License (MIT)
 
 Copyright (c) 2014 Mathias Buus
 
@@ -2820,7 +4140,19 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE.</pre></section></article><article><h3><a href="https://github.com/sindresorhus/get-stdin">get-stdin@4.0.1</a></h3><h4>by Sindre Sorhus</h4><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/arekinath/node-getpass">getpass@0.1.6</a></h3><h4>by Alex Wilson</h4><section><pre class="license-text">Copyright Joyent, Inc. All rights reserved.
+THE SOFTWARE.
+```
+
+## [get-stdin@4.0.1](https://github.com/sindresorhus/get-stdin)
+### by Sindre Sorhus
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [getpass@0.1.6](https://github.com/arekinath/node-getpass)
+### by Alex Wilson
+
+```
+Copyright Joyent, Inc. All rights reserved.
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to
 deal in the Software without restriction, including without limitation the
@@ -2838,7 +4170,19 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
 IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/ralphtheninja/ghreleases">ghreleases@1.0.5</a></h3><h4>by Magnus Skog</h4><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/rvagg/ghrepos">ghrepos@2.0.0</a></h3><h4>by Rod Vagg</h4><section><pre class="license-text">The MIT License (MIT)
+
+```
+
+## [ghreleases@1.0.5](https://github.com/ralphtheninja/ghreleases)
+### by Magnus Skog
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [ghrepos@2.0.0](https://github.com/rvagg/ghrepos)
+### by Rod Vagg
+
+```
+The MIT License (MIT)
 =====================
 
 Copyright (c) 2015 Rod Vagg
@@ -2849,7 +4193,14 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/rvagg/ghutils">ghutils@3.2.0</a></h3><h4>by Rod</h4><section><pre class="license-text">The MIT License (MIT)
+
+```
+
+## [ghutils@3.2.0](https://github.com/rvagg/ghutils)
+### by Rod
+
+```
+The MIT License (MIT)
 =====================
 
 Copyright (c) 2015 Rod Vagg
@@ -2860,7 +4211,14 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/substack/github-from-package">github-from-package@0.0.0</a></h3><h4>by James Halliday</h4><section><pre class="license-text">This software is released under the MIT license:
+
+```
+
+## [github-from-package@0.0.0](https://github.com/substack/github-from-package)
+### by James Halliday
+
+```
+This software is released under the MIT license:
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
@@ -2878,7 +4236,14 @@ FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
 COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
 IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
 CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/isaacs/node-glob">glob@4.5.3</a></h3><h4>by Isaac Z. Schlueter</h4><section><pre class="license-text">The ISC License
+
+```
+
+## [glob@4.5.3](https://github.com/isaacs/node-glob)
+### by Isaac Z. Schlueter
+
+```
+The ISC License
 
 Copyright (c) Isaac Z. Schlueter and Contributors
 
@@ -2893,7 +4258,14 @@ ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
 WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
 ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR
 IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/isaacs/node-glob">glob@5.0.15</a></h3><h4>by Isaac Z. Schlueter</h4><section><pre class="license-text">The ISC License
+
+```
+
+## [glob@5.0.15](https://github.com/isaacs/node-glob)
+### by Isaac Z. Schlueter
+
+```
+The ISC License
 
 Copyright (c) Isaac Z. Schlueter and Contributors
 
@@ -2908,7 +4280,14 @@ ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
 WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
 ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR
 IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/isaacs/node-glob">glob@7.0.3</a></h3><h4>by Isaac Z. Schlueter</h4><section><pre class="license-text">The ISC License
+
+```
+
+## [glob@7.0.3](https://github.com/isaacs/node-glob)
+### by Isaac Z. Schlueter
+
+```
+The ISC License
 
 Copyright (c) Isaac Z. Schlueter and Contributors
 
@@ -2923,7 +4302,14 @@ ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
 WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
 ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR
 IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/isaacs/node-glob">glob@7.0.5</a></h3><h4>by Isaac Z. Schlueter</h4><section><pre class="license-text">The ISC License
+
+```
+
+## [glob@7.0.5](https://github.com/isaacs/node-glob)
+### by Isaac Z. Schlueter
+
+```
+The ISC License
 
 Copyright (c) Isaac Z. Schlueter and Contributors
 
@@ -2938,7 +4324,14 @@ ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
 WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
 ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR
 IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/sindresorhus/globals">globals@8.18.0</a></h3><h4>by Sindre Sorhus</h4><section><pre class="license-text">The MIT License (MIT)
+
+```
+
+## [globals@8.18.0](https://github.com/sindresorhus/globals)
+### by Sindre Sorhus
+
+```
+The MIT License (MIT)
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
@@ -2959,7 +4352,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/isaacs/node-graceful-fs">graceful-fs@3.0.8</a></h3><h4>by Isaac Z. Schlueter</h4><section><pre class="license-text">The ISC License
+
+```
+
+## [graceful-fs@3.0.8](https://github.com/isaacs/node-graceful-fs)
+### by Isaac Z. Schlueter
+
+```
+The ISC License
 
 Copyright (c) Isaac Z. Schlueter and Contributors
 
@@ -2974,7 +4374,13 @@ ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
 WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
 ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR
 IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/isaacs/node-graceful-fs">graceful-fs@4.1.4</a></h3><section><pre class="license-text">The ISC License
+
+```
+
+## [graceful-fs@4.1.4](https://github.com/isaacs/node-graceful-fs)
+
+```
+The ISC License
 
 Copyright (c) Isaac Z. Schlueter, Ben Noordhuis, and Contributors
 
@@ -2989,7 +4395,14 @@ ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
 WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
 ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR
 IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/zhiyelee/graceful-readlink">graceful-readlink@1.0.1</a></h3><h4>by zhiyelee</h4><section><pre class="license-text">The MIT License (MIT)
+
+```
+
+## [graceful-readlink@1.0.1](https://github.com/zhiyelee/graceful-readlink)
+### by zhiyelee
+
+```
+The MIT License (MIT)
 
 Copyright (c) 2015 Zhiye Li
 
@@ -3011,7 +4424,13 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-</pre></section></article><article><h3><a href="https://github.com/atom/grim">grim@1.5.0</a></h3><section><pre class="license-text">Copyright (c) 2014 GitHub Inc.
+
+```
+
+## [grim@1.5.0](https://github.com/atom/grim)
+
+```
+Copyright (c) 2014 GitHub Inc.
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
@@ -3031,7 +4450,14 @@ NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
 LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
 OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
 WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/ahmadnassri/har-validator">har-validator@2.0.6</a></h3><h4>by Ahmad Nassri</h4><section><pre class="license-text">Copyright (c) 2015, Ahmad Nassri <ahmad@ahmadnassri.com>
+
+```
+
+## [har-validator@2.0.6](https://github.com/ahmadnassri/har-validator)
+### by Ahmad Nassri
+
+```
+Copyright (c) 2015, Ahmad Nassri <ahmad@ahmadnassri.com>
 
 Permission to use, copy, modify, and/or distribute this software for any
 purpose with or without fee is hereby granted, provided that the above
@@ -3044,7 +4470,14 @@ ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
 WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
 ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF
 OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/sindresorhus/has-ansi">has-ansi@2.0.0</a></h3><h4>by Sindre Sorhus</h4><section><pre class="license-text">The MIT License (MIT)
+
+```
+
+## [has-ansi@2.0.0](https://github.com/sindresorhus/has-ansi)
+### by Sindre Sorhus
+
+```
+The MIT License (MIT)
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
@@ -3065,7 +4498,19 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/gr2m/has-localstorage">has-localstorage@1.0.1</a></h3><h4>by Gregor Martynus</h4><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/iarna/has-unicode">has-unicode@2.0.0</a></h3><h4>by Rebecca Turner</h4><section><pre class="license-text">Copyright (c) 2014, Rebecca Turner <me@re-becca.org>
+
+```
+
+## [has-localstorage@1.0.1](https://github.com/gr2m/has-localstorage)
+### by Gregor Martynus
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [has-unicode@2.0.0](https://github.com/iarna/has-unicode)
+### by Rebecca Turner
+
+```
+Copyright (c) 2014, Rebecca Turner <me@re-becca.org>
 
 Permission to use, copy, modify, and/or distribute this software for any
 purpose with or without fee is hereby granted, provided that the above
@@ -3079,7 +4524,14 @@ WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
 ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF
 OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 
-</pre></section></article><article><h3><a href="https://github.com/iarna/has-unicode">has-unicode@2.0.1</a></h3><h4>by Rebecca Turner</h4><section><pre class="license-text">Copyright (c) 2014, Rebecca Turner <me@re-becca.org>
+
+```
+
+## [has-unicode@2.0.1](https://github.com/iarna/has-unicode)
+### by Rebecca Turner
+
+```
+Copyright (c) 2014, Rebecca Turner <me@re-becca.org>
 
 Permission to use, copy, modify, and/or distribute this software for any
 purpose with or without fee is hereby granted, provided that the above
@@ -3093,7 +4545,14 @@ WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
 ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF
 OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 
-</pre></section></article><article><h3><a href="https://github.com/hueniverse/hawk">hawk@1.1.1</a></h3><h4>by Eran Hammer</h4><section><pre class="license-text">Copyright (c) 2012-2013, Eran Hammer.
+
+```
+
+## [hawk@1.1.1](https://github.com/hueniverse/hawk)
+### by Eran Hammer
+
+```
+Copyright (c) 2012-2013, Eran Hammer.
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
@@ -3117,7 +4576,14 @@ LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND
 ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
 SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-</pre></section></article><article><h3><a href="https://github.com/hueniverse/hawk">hawk@3.1.3</a></h3><h4>by Eran Hammer</h4><section><pre class="license-text">Copyright (c) 2012-2014, Eran Hammer and other contributors.
+
+```
+
+## [hawk@3.1.3](https://github.com/hueniverse/hawk)
+### by Eran Hammer
+
+```
+Copyright (c) 2012-2014, Eran Hammer and other contributors.
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
@@ -3145,7 +4611,14 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
                                   *   *   *
 
 The complete list of contributors can be found at: https://github.com/hueniverse/hawk/graphs/contributors
-</pre></section></article><article><h3><a href="https://github.com/isagalaev/highlight.js">highlight.js@9.5.0</a></h3><h4>by Ivan Sagalaev</h4><section><pre class="license-text">Copyright (c) 2006, Ivan Sagalaev
+
+```
+
+## [highlight.js@9.5.0](https://github.com/isagalaev/highlight.js)
+### by Ivan Sagalaev
+
+```
+Copyright (c) 2006, Ivan Sagalaev
 All rights reserved.
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are met:
@@ -3169,7 +4642,13 @@ LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND
 ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
 SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-</pre></section></article><article><h3><a href="https://github.com/rackt/history">history@1.17.0</a></h3><section><pre class="license-text">The MIT License (MIT)
+
+```
+
+## [history@1.17.0](https://github.com/rackt/history)
+
+```
+The MIT License (MIT)
 
 Copyright (c) 2015 Michael Jackson
 
@@ -3190,7 +4669,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/spumko/hoek">hoek@0.9.1</a></h3><h4>by Eran Hammer</h4><section><pre class="license-text">Copyright (c) 2011-2013, Walmart.
+
+```
+
+## [hoek@0.9.1](https://github.com/spumko/hoek)
+### by Eran Hammer
+
+```
+Copyright (c) 2011-2013, Walmart.
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
@@ -3223,7 +4709,13 @@ Portions of this project were initially based on Postmile, Copyright (c) 2011, Y
 Postmile is published at https://github.com/yahoo/postmile and its licensing terms are
 published at https://github.com/yahoo/postmile/blob/master/LICENSE.
 
-</pre></section></article><article><h3><a href="https://github.com/hapijs/hoek">hoek@2.16.3</a></h3><section><pre class="license-text">Copyright (c) 2011-2014, Walmart and other contributors.
+
+```
+
+## [hoek@2.16.3](https://github.com/hapijs/hoek)
+
+```
+Copyright (c) 2011-2014, Walmart and other contributors.
 Copyright (c) 2011, Yahoo Inc.
 All rights reserved.
 
@@ -3254,7 +4746,13 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 The complete list of contributors can be found at: https://github.com/hapijs/hapi/graphs/contributors
 Portions of this project were initially based on the Yahoo! Inc. Postmile project,
 published at https://github.com/yahoo/postmile.
-</pre></section></article><article><h3><a href="https://github.com/hapijs/hoek">hoek@4.0.1</a></h3><section><pre class="license-text">Copyright (c) 2011-2014, Walmart and other contributors.
+
+```
+
+## [hoek@4.0.1](https://github.com/hapijs/hoek)
+
+```
+Copyright (c) 2011-2014, Walmart and other contributors.
 Copyright (c) 2011, Yahoo Inc.
 All rights reserved.
 
@@ -3285,7 +4783,14 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 The complete list of contributors can be found at: https://github.com/hapijs/hapi/graphs/contributors
 Portions of this project were initially based on the Yahoo! Inc. Postmile project,
 published at https://github.com/yahoo/postmile.
-</pre></section></article><article><h3><a href="https://github.com/sindresorhus/home-or-tmp">home-or-tmp@1.0.0</a></h3><h4>by Sindre Sorhus</h4><section><pre class="license-text">The MIT License (MIT)
+
+```
+
+## [home-or-tmp@1.0.0](https://github.com/sindresorhus/home-or-tmp)
+### by Sindre Sorhus
+
+```
+The MIT License (MIT)
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
@@ -3306,7 +4811,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/npm/hosted-git-info">hosted-git-info@2.1.5</a></h3><h4>by Rebecca Turner</h4><section><pre class="license-text">Copyright (c) 2015, Rebecca Turner
+
+```
+
+## [hosted-git-info@2.1.5](https://github.com/npm/hosted-git-info)
+### by Rebecca Turner
+
+```
+Copyright (c) 2015, Rebecca Turner
 
 Permission to use, copy, modify, and/or distribute this software for any
 purpose with or without fee is hereby granted, provided that the above
@@ -3319,7 +4831,14 @@ INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM
 LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR
 OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
 PERFORMANCE OF THIS SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/joyent/node-http-signature">http-signature@0.10.1</a></h3><h4>by Joyent, Inc</h4><section><pre class="license-text">Copyright Joyent, Inc. All rights reserved.
+
+```
+
+## [http-signature@0.10.1](https://github.com/joyent/node-http-signature)
+### by Joyent, Inc
+
+```
+Copyright Joyent, Inc. All rights reserved.
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to
 deal in the Software without restriction, including without limitation the
@@ -3337,7 +4856,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
 IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/joyent/node-http-signature">http-signature@1.1.1</a></h3><h4>by Joyent, Inc</h4><section><pre class="license-text">Copyright Joyent, Inc. All rights reserved.
+
+```
+
+## [http-signature@1.1.1](https://github.com/joyent/node-http-signature)
+### by Joyent, Inc
+
+```
+Copyright Joyent, Inc. All rights reserved.
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to
 deal in the Software without restriction, including without limitation the
@@ -3355,7 +4881,19 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
 IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/gr2m/humble-localstorage">humble-localstorage@1.4.2</a></h3><h4>by Gregor Martynus</h4><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/substack/hyperquest">hyperquest@1.2.0</a></h3><h4>by James Halliday</h4><section><pre class="license-text">This software is released under the MIT license:
+
+```
+
+## [humble-localstorage@1.4.2](https://github.com/gr2m/humble-localstorage)
+### by Gregor Martynus
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [hyperquest@1.2.0](https://github.com/substack/hyperquest)
+### by James Halliday
+
+```
+This software is released under the MIT license:
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
@@ -3373,7 +4911,14 @@ FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
 COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
 IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
 CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/ashtuchkin/iconv-lite">iconv-lite@0.4.13</a></h3><h4>by Alexander Shtuchkin</h4><section><pre class="license-text">Copyright (c) 2011 Alexander Shtuchkin
+
+```
+
+## [iconv-lite@0.4.13](https://github.com/ashtuchkin/iconv-lite)
+### by Alexander Shtuchkin
+
+```
+Copyright (c) 2011 Alexander Shtuchkin
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
@@ -3394,7 +4939,14 @@ LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
 OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
 WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-</pre></section></article><article><h3><a href="https://github.com/KyleAMathews/image-exists">image-exists@1.1.0</a></h3><h4>by Kyle Mathews</h4><section><pre class="license-text">The MIT License (MIT)
+
+```
+
+## [image-exists@1.1.0](https://github.com/KyleAMathews/image-exists)
+### by Kyle Mathews
+
+```
+The MIT License (MIT)
 
 Copyright (c) 2014 Kyle Mathews
 
@@ -3416,7 +4968,13 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-</pre></section></article><article><h3><a href="https://github.com/calvinmetcalf/immediate">immediate@3.0.5</a></h3><section><pre class="license-text">Copyright (c) 2012 Barnesandnoble.com, llc, Donavon West, Domenic Denicola, Brian Cavalier
+
+```
+
+## [immediate@3.0.5](https://github.com/calvinmetcalf/immediate)
+
+```
+Copyright (c) 2012 Barnesandnoble.com, llc, Donavon West, Domenic Denicola, Brian Cavalier
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
@@ -3436,7 +4994,13 @@ NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
 LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
 OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
 WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/calvinmetcalf/immediate">immediate@3.2.2</a></h3><section><pre class="license-text">Copyright (c) 2012 Barnesandnoble.com, llc, Donavon West, Domenic Denicola, Brian Cavalier
+
+```
+
+## [immediate@3.2.2](https://github.com/calvinmetcalf/immediate)
+
+```
+Copyright (c) 2012 Barnesandnoble.com, llc, Donavon West, Domenic Denicola, Brian Cavalier
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
@@ -3456,7 +5020,14 @@ NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
 LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
 OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
 WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/facebook/immutable-js">immutable@3.8.1</a></h3><h4>by Lee Byron</h4><section><pre class="license-text">BSD License
+
+```
+
+## [immutable@3.8.1](https://github.com/facebook/immutable-js)
+### by Lee Byron
+
+```
+BSD License
 
 For Immutable JS software
 
@@ -3486,7 +5057,14 @@ LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON
 ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
 SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-</pre></section></article><article><h3><a href="https://github.com/isaacs/inflight">inflight@1.0.4</a></h3><h4>by Isaac Z. Schlueter</h4><section><pre class="license-text">The ISC License
+
+```
+
+## [inflight@1.0.4](https://github.com/isaacs/inflight)
+### by Isaac Z. Schlueter
+
+```
+The ISC License
 
 Copyright (c) Isaac Z. Schlueter
 
@@ -3501,7 +5079,14 @@ ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
 WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
 ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR
 IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/npm/inflight">inflight@1.0.5</a></h3><h4>by Isaac Z. Schlueter</h4><section><pre class="license-text">The ISC License
+
+```
+
+## [inflight@1.0.5](https://github.com/npm/inflight)
+### by Isaac Z. Schlueter
+
+```
+The ISC License
 
 Copyright (c) Isaac Z. Schlueter
 
@@ -3516,7 +5101,13 @@ ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
 WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
 ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR
 IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/isaacs/inherits">inherits@2.0.1</a></h3><section><pre class="license-text">The ISC License
+
+```
+
+## [inherits@2.0.1](https://github.com/isaacs/inherits)
+
+```
+The ISC License
 
 Copyright (c) Isaac Z. Schlueter
 
@@ -3532,7 +5123,14 @@ LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR
 OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
 PERFORMANCE OF THIS SOFTWARE.
 
-</pre></section></article><article><h3><a href="https://github.com/isaacs/ini">ini@1.3.4</a></h3><h4>by Isaac Z. Schlueter</h4><section><pre class="license-text">The ISC License
+
+```
+
+## [ini@1.3.4](https://github.com/isaacs/ini)
+### by Isaac Z. Schlueter
+
+```
+The ISC License
 
 Copyright (c) Isaac Z. Schlueter and Contributors
 
@@ -3547,7 +5145,14 @@ ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
 WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
 ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR
 IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/atom/electron-quick-start">inkdrop@0.11.0</a></h3><h4>by Takuya Matsuyama</h4><section><pre class="license-text">Copyright (c) 2015 GitHub Inc.
+
+```
+
+## [inkdrop@0.11.0](https://github.com/atom/electron-quick-start)
+### by Takuya Matsuyama
+
+```
+Copyright (c) 2015 GitHub Inc.
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
@@ -3567,7 +5172,19 @@ NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
 LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
 OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
 WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/calvinmetcalf/inline-process-browser">inline-process-browser@1.0.0</a></h3><h4>by Calvin W. Metcalf</h4><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/benjamn/install">install@0.1.8</a></h3><h4>by Ben Newman</h4><section><pre class="license-text">Copyright (c) 2012 Ben Newman <bn@cs.stanford.edu>
+
+```
+
+## [inline-process-browser@1.0.0](https://github.com/calvinmetcalf/inline-process-browser)
+### by Calvin W. Metcalf
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [install@0.1.8](https://github.com/benjamn/install)
+### by Ben Newman
+
+```
+Copyright (c) 2012 Ben Newman <bn@cs.stanford.edu>
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
@@ -3587,7 +5204,19 @@ IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
 CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
 TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
 SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/zertosh/invariant">invariant@2.2.1</a></h3><h4>by Andres Suarez</h4><section><div><a href="https://opensource.org/licenses/BSD-3-Clause">BSD-3-Clause License</a></div></section></article><article><h3><a href="https://github.com/sindresorhus/is-builtin-module">is-builtin-module@1.0.0</a></h3><h4>by Sindre Sorhus</h4><section><pre class="license-text">The MIT License (MIT)
+
+```
+
+## [invariant@2.2.1](https://github.com/zertosh/invariant)
+### by Andres Suarez
+
+[BSD-3-Clause License](https://opensource.org/licenses/BSD-3-Clause)
+
+## [is-builtin-module@1.0.0](https://github.com/sindresorhus/is-builtin-module)
+### by Sindre Sorhus
+
+```
+The MIT License (MIT)
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
@@ -3608,7 +5237,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/sindresorhus/is-finite">is-finite@1.0.1</a></h3><h4>by Sindre Sorhus</h4><section><pre class="license-text">The MIT License (MIT)
+
+```
+
+## [is-finite@1.0.1](https://github.com/sindresorhus/is-finite)
+### by Sindre Sorhus
+
+```
+The MIT License (MIT)
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
@@ -3629,7 +5265,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/mafintosh/is-my-json-valid">is-my-json-valid@2.13.1</a></h3><h4>by Mathias Buus</h4><section><pre class="license-text">The MIT License (MIT)
+
+```
+
+## [is-my-json-valid@2.13.1](https://github.com/mafintosh/is-my-json-valid)
+### by Mathias Buus
+
+```
+The MIT License (MIT)
 
 Copyright (c) 2014 Mathias Buus
 
@@ -3649,7 +5292,14 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE.</pre></section></article><article><h3><a href="https://github.com/then/is-promise">is-promise@2.1.0</a></h3><h4>by ForbesLindesay</h4><section><pre class="license-text">Copyright (c) 2014 Forbes Lindesay
+THE SOFTWARE.
+```
+
+## [is-promise@2.1.0](https://github.com/then/is-promise)
+### by ForbesLindesay
+
+```
+Copyright (c) 2014 Forbes Lindesay
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -3667,7 +5317,14 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE.</pre></section></article><article><h3><a href="https://github.com/mikolalysenko/is-property">is-property@1.0.2</a></h3><h4>by Mikola Lysenko</h4><section><pre class="license-text">
+THE SOFTWARE.
+```
+
+## [is-property@1.0.2](https://github.com/mikolalysenko/is-property)
+### by Mikola Lysenko
+
+```
+
 The MIT License (MIT)
 
 Copyright (c) 2013 Mikola Lysenko
@@ -3689,7 +5346,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/KyleAMathews/isRetina">is-retina@1.0.3</a></h3><h4>by Kyle Mathews</h4><section><pre class="license-text">The MIT License (MIT)
+
+```
+
+## [is-retina@1.0.3](https://github.com/KyleAMathews/isRetina)
+### by Kyle Mathews
+
+```
+The MIT License (MIT)
 
 Copyright (c) 2014 Kyle Mathews
 
@@ -3711,7 +5375,14 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-</pre></section></article><article><h3><a href="https://github.com/sindresorhus/is-stream">is-stream@1.1.0</a></h3><h4>by Sindre Sorhus</h4><section><pre class="license-text">The MIT License (MIT)
+
+```
+
+## [is-stream@1.1.0](https://github.com/sindresorhus/is-stream)
+### by Sindre Sorhus
+
+```
+The MIT License (MIT)
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
@@ -3732,7 +5403,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/hughsk/is-typedarray">is-typedarray@1.0.0</a></h3><h4>by Hugh Kennedy</h4><section><pre class="license-text">This software is released under the MIT license:
+
+```
+
+## [is-typedarray@1.0.0](https://github.com/hughsk/is-typedarray)
+### by Hugh Kennedy
+
+```
+This software is released under the MIT license:
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
@@ -3750,7 +5428,23 @@ FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
 COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
 IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
 CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/juliangruber/isarray">isarray@0.0.1</a></h3><h4>by Julian Gruber</h4><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/juliangruber/isarray">isarray@1.0.0</a></h3><h4>by Julian Gruber</h4><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/hapijs/isemail">isemail@2.2.0</a></h3><section><pre class="license-text">Copyright (c) 2014-2015, Eli Skeggs and other contributors.
+
+```
+
+## [isarray@0.0.1](https://github.com/juliangruber/isarray)
+### by Julian Gruber
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [isarray@1.0.0](https://github.com/juliangruber/isarray)
+### by Julian Gruber
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [isemail@2.2.0](https://github.com/hapijs/isemail)
+
+```
+Copyright (c) 2014-2015, Eli Skeggs and other contributors.
 Copyright (c) 2013-2014, GlobeSherpa.
 Copyright (c) 2008-2011, Dominic Sayers.
 
@@ -3783,7 +5477,14 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 The complete list of contributors can be found at: https://github.com/hapijs/isemail/graphs/contributors
 Previously published under the 2-Clause-BSD license published here: https://github.com/hapijs/isemail/blob/v1.2.0/LICENSE
 
-</pre></section></article><article><h3><a href="https://github.com/isaacs/isexe">isexe@1.1.2</a></h3><h4>by Isaac Z. Schlueter</h4><section><pre class="license-text">The ISC License
+
+```
+
+## [isexe@1.1.2](https://github.com/isaacs/isexe)
+### by Isaac Z. Schlueter
+
+```
+The ISC License
 
 Copyright (c) Isaac Z. Schlueter and Contributors
 
@@ -3798,7 +5499,14 @@ ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
 WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
 ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR
 IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/matthew-andrews/isomorphic-fetch">isomorphic-fetch@2.2.1</a></h3><h4>by Matt Andrews</h4><section><pre class="license-text">The MIT License (MIT)
+
+```
+
+## [isomorphic-fetch@2.2.1](https://github.com/matthew-andrews/isomorphic-fetch)
+### by Matt Andrews
+
+```
+The MIT License (MIT)
 
 Copyright (c) 2015 Matt Andrews
 
@@ -3819,7 +5527,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/rvagg/isstream">isstream@0.1.2</a></h3><h4>by Rod Vagg</h4><section><pre class="license-text">The MIT License (MIT)
+
+```
+
+## [isstream@0.1.2](https://github.com/rvagg/isstream)
+### by Rod Vagg
+
+```
+The MIT License (MIT)
 =====================
 
 Copyright (c) 2015 Rod Vagg
@@ -3830,7 +5545,14 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/meganz/jodid25519">jodid25519@1.0.2</a></h3><h4>by Michele Bini, Ron Garret, Guy K. Kloss</h4><section><pre class="license-text">The MIT License (MIT)
+
+```
+
+## [jodid25519@1.0.2](https://github.com/meganz/jodid25519)
+### by Michele Bini, Ron Garret, Guy K. Kloss
+
+```
+The MIT License (MIT)
 
 Copyright (c) 2012 Ron Garret
 Copyright (c) 2007, 2013, 2014 Michele Bini
@@ -3853,7 +5575,13 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/hapijs/joi">joi@8.4.2</a></h3><section><pre class="license-text">Copyright (c) 2012-2016, Project contributors.
+
+```
+
+## [joi@8.4.2](https://github.com/hapijs/joi)
+
+```
+Copyright (c) 2012-2016, Project contributors.
 Copyright (c) 2012-2014, Walmart.
 All rights reserved.
 
@@ -3881,7 +5609,14 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
                                   *   *   *
 
-The complete list of contributors can be found at: https://github.com/hapijs/joi/graphs/contributors</pre></section></article><article><h3><a href="git+https://marklagendijk@github.com/marklagendijk/jQuery.tabbable">jquery.tabbable@1.0.1</a></h3><h4>by Mark Lagendijk</h4><section><pre class="license-text">The MIT License (MIT)
+The complete list of contributors can be found at: https://github.com/hapijs/joi/graphs/contributors
+```
+
+## [jquery.tabbable@1.0.1](git+https://marklagendijk@github.com/marklagendijk/jQuery.tabbable)
+### by Mark Lagendijk
+
+```
+The MIT License (MIT)
 
 Copyright (c) 2014 Mark Lagendijk
 
@@ -3901,7 +5636,14 @@ FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
 COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
 IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
 CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/jquery/jquery">jquery@2.2.4</a></h3><h4>by jQuery Foundation and other contributors</h4><section><pre class="license-text">Copyright jQuery Foundation and other contributors, https://jquery.org/
+
+```
+
+## [jquery@2.2.4](https://github.com/jquery/jquery)
+### by jQuery Foundation and other contributors
+
+```
+Copyright jQuery Foundation and other contributors, https://jquery.org/
 
 This software consists of voluntary contributions made by many
 individuals. For exact contribution history, see the revision history
@@ -3937,7 +5679,19 @@ All files located in the node_modules and external directories are
 externally maintained libraries used by this software which have their
 own licenses; we recommend you read them, as their terms may differ from
 the terms above.
-</pre></section></article><article><h3><a href="https://github.com/vmattos/js-extend">js-extend@0.0.1</a></h3><h4>by Vitor Mattos</h4><section><div>ISC</div></section></article><article><h3><a href="https://github.com/lydell/js-tokens">js-tokens@1.0.3</a></h3><h4>by Simon Lydell</h4><section><pre class="license-text">The MIT License (MIT)
+
+```
+
+## [js-extend@0.0.1](https://github.com/vmattos/js-extend)
+### by Vitor Mattos
+
+ISC
+
+## [js-tokens@1.0.3](https://github.com/lydell/js-tokens)
+### by Simon Lydell
+
+```
+The MIT License (MIT)
 
 Copyright (c) 2014, 2015, 2016 Simon Lydell
 
@@ -3958,7 +5712,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/lydell/js-tokens">js-tokens@2.0.0</a></h3><h4>by Simon Lydell</h4><section><pre class="license-text">The MIT License (MIT)
+
+```
+
+## [js-tokens@2.0.0](https://github.com/lydell/js-tokens)
+### by Simon Lydell
+
+```
+The MIT License (MIT)
 
 Copyright (c) 2014, 2015, 2016 Simon Lydell
 
@@ -3979,7 +5740,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/nodeca/js-yaml">js-yaml@3.0.1</a></h3><h4>by Dervus Grim</h4><section><pre class="license-text">(The MIT License)
+
+```
+
+## [js-yaml@3.0.1](https://github.com/nodeca/js-yaml)
+### by Dervus Grim
+
+```
+(The MIT License)
 
 Copyright (C) 2011, 2013 by Vitaly Puzrin
 
@@ -4000,7 +5768,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/nodeca/js-yaml">js-yaml@3.6.1</a></h3><h4>by Vladimir Zapparov</h4><section><pre class="license-text">(The MIT License)
+
+```
+
+## [js-yaml@3.6.1](https://github.com/nodeca/js-yaml)
+### by Vladimir Zapparov
+
+```
+(The MIT License)
 
 Copyright (C) 2011-2015 by Vitaly Puzrin
 
@@ -4021,7 +5796,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/andyperlitch/jsbn">jsbn@0.1.0</a></h3><h4>by Tom Wu</h4><section><pre class="license-text">Licensing
+
+```
+
+## [jsbn@0.1.0](https://github.com/andyperlitch/jsbn)
+### by Tom Wu
+
+```
+Licensing
 ---------
 
 This software is covered under the following copyright:
@@ -4060,7 +5842,24 @@ This software is covered under the following copyright:
 Address all questions regarding this license to:
 
   Tom Wu
-  tjw@cs.Stanford.EDU</pre></section></article><article><h3><a href="https://github.com/mathiasbynens/jsesc">jsesc@0.5.0</a></h3><h4>by Mathias Bynens</h4><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/kriszyp/json-schema">json-schema@0.2.2</a></h3><h4>by Kris Zyp</h4><section><div>AFLv2.1,BSD</div></section></article><article><h3><a href="https://github.com/isaacs/json-stringify-safe">json-stringify-safe@5.0.1</a></h3><h4>by Isaac Z. Schlueter</h4><section><pre class="license-text">The ISC License
+  tjw@cs.Stanford.EDU
+```
+
+## [jsesc@0.5.0](https://github.com/mathiasbynens/jsesc)
+### by Mathias Bynens
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [json-schema@0.2.2](https://github.com/kriszyp/json-schema)
+### by Kris Zyp
+
+AFLv2.1,BSD
+
+## [json-stringify-safe@5.0.1](https://github.com/isaacs/json-stringify-safe)
+### by Isaac Z. Schlueter
+
+```
+The ISC License
 
 Copyright (c) Isaac Z. Schlueter and Contributors
 
@@ -4075,7 +5874,19 @@ ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
 WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
 ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR
 IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/aseemk/json5">json5@0.4.0</a></h3><h4>by Aseem Kishore</h4><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/rvagg/jsonist">jsonist@1.2.0</a></h3><h4>by Rod Vagg</h4><section><pre class="license-text">Copyright 2014, Rod Vagg (the "Original Author")
+
+```
+
+## [json5@0.4.0](https://github.com/aseemk/json5)
+### by Aseem Kishore
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [jsonist@1.2.0](https://github.com/rvagg/jsonist)
+### by Rod Vagg
+
+```
+Copyright 2014, Rod Vagg (the "Original Author")
 All rights reserved.
 
 MIT +no-false-attribs License
@@ -4114,7 +5925,18 @@ OTHER DEALINGS IN THE SOFTWARE.
 Except where noted, this license applies to any and all software
 programs and associated documentation files created by the
 Original Author, when distributed with the Software.
-</pre></section></article><article><h3><a href="https://github.com/janl/node-jsonpointer">jsonpointer@2.0.0</a></h3><h4>by Jan Lehnardt</h4><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/davepacheco/node-jsprim">jsprim@1.2.2</a></h3><section><pre class="license-text">Copyright (c) 2012, Joyent, Inc. All rights reserved.
+
+```
+
+## [jsonpointer@2.0.0](https://github.com/janl/node-jsonpointer)
+### by Jan Lehnardt
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [jsprim@1.2.2](https://github.com/davepacheco/node-jsprim)
+
+```
+Copyright (c) 2012, Joyent, Inc. All rights reserved.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -4133,7 +5955,13 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE
-</pre></section></article><article><h3><a href="https://github.com/davepacheco/node-jsprim">jsprim@1.3.0</a></h3><section><pre class="license-text">Copyright (c) 2012, Joyent, Inc. All rights reserved.
+
+```
+
+## [jsprim@1.3.0](https://github.com/davepacheco/node-jsprim)
+
+```
+Copyright (c) 2012, Joyent, Inc. All rights reserved.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -4152,7 +5980,13 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE
-</pre></section></article><article><h3><a href="https://github.com/facebook/jstransform">jstransform@11.0.3</a></h3><section><pre class="license-text">BSD License
+
+```
+
+## [jstransform@11.0.3](https://github.com/facebook/jstransform)
+
+```
+BSD License
 
 For jstransform software
 
@@ -4183,7 +6017,13 @@ LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON
 ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
 SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-</pre></section></article><article><h3><a href="https://github.com/facebook/jstransform">jstransform@3.0.0</a></h3><section><pre class="license-text">                                 Apache License
+
+```
+
+## [jstransform@3.0.0](https://github.com/facebook/jstransform)
+
+```
+                                 Apache License
                            Version 2.0, January 2004
                         http://www.apache.org/licenses/
 
@@ -4384,7 +6224,13 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
    See the License for the specific language governing permissions and
    limitations under the License.
-</pre></section></article><article><h3><a href="https://github.com/atom/key-path-helpers">key-path-helpers@0.1.0</a></h3><section><pre class="license-text">Copyright (c) 2014 GitHub Inc.
+
+```
+
+## [key-path-helpers@0.1.0](https://github.com/atom/key-path-helpers)
+
+```
+Copyright (c) 2014 GitHub Inc.
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
@@ -4404,7 +6250,13 @@ NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
 LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
 OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
 WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/atom/key-path-helpers">key-path-helpers@0.4.0</a></h3><section><pre class="license-text">Copyright (c) 2014 GitHub Inc.
+
+```
+
+## [key-path-helpers@0.4.0](https://github.com/atom/key-path-helpers)
+
+```
+Copyright (c) 2014 GitHub Inc.
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
@@ -4424,7 +6276,13 @@ NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
 LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
 OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
 WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/atom/node-keytar">keytar@3.0.2</a></h3><section><pre class="license-text">Copyright (c) 2013 GitHub Inc.
+
+```
+
+## [keytar@3.0.2](https://github.com/atom/node-keytar)
+
+```
+Copyright (c) 2013 GitHub Inc.
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
@@ -4444,7 +6302,14 @@ NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
 LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
 OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
 WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/davglass/lcov-parse">lcov-parse@0.0.6</a></h3><h4>by Dav Glass</h4><section><pre class="license-text">Copyright 2012 Yahoo! Inc.
+
+```
+
+## [lcov-parse@0.0.6](https://github.com/davglass/lcov-parse)
+### by Dav Glass
+
+```
+Copyright 2012 Yahoo! Inc.
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
@@ -4469,7 +6334,13 @@ ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
 SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
-</pre></section></article><article><h3><a href="https://github.com/atom/less-cache">less-cache@0.22.0</a></h3><section><pre class="license-text">Copyright (c) 2013 GitHub Inc.
+
+```
+
+## [less-cache@0.22.0](https://github.com/atom/less-cache)
+
+```
+Copyright (c) 2013 GitHub Inc.
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
@@ -4489,7 +6360,14 @@ NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
 LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
 OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
 WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/less/less.js">less@1.7.5</a></h3><h4>by Alexis Sellier</h4><section><pre class="license-text">
+
+```
+
+## [less@1.7.5](https://github.com/less/less.js)
+### by Alexis Sellier
+
+```
+
                               Apache License
                         Version 2.0, January 2004
                      http://www.apache.org/licenses/
@@ -4666,7 +6544,13 @@ TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
    of your accepting any such warranty or additional liability.
 
 END OF TERMS AND CONDITIONS
-</pre></section></article><article><h3><a href="https://github.com/level/codec">level-codec@6.1.0</a></h3><section><pre class="license-text">The MIT License (MIT)
+
+```
+
+## [level-codec@6.1.0](https://github.com/level/codec)
+
+```
+The MIT License (MIT)
 =====================
 
 Copyright (c) 2012-2015 LevelUP contributors
@@ -4679,7 +6563,13 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/level/errors">level-errors@1.0.4</a></h3><section><pre class="license-text">The MIT License (MIT)
+
+```
+
+## [level-errors@1.0.4](https://github.com/level/errors)
+
+```
+The MIT License (MIT)
 =====================
 
 Copyright (c) 2012-2015 LevelUP contributors
@@ -4692,7 +6582,13 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/level/iterator-stream">level-iterator-stream@1.3.1</a></h3><section><pre class="license-text">The MIT License (MIT)
+
+```
+
+## [level-iterator-stream@1.3.1](https://github.com/level/iterator-stream)
+
+```
+The MIT License (MIT)
 =====================
 
 Copyright (c) 2012-2015 LevelUP contributors
@@ -4705,7 +6601,14 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/Raynos/level-write-stream">level-write-stream@1.0.0</a></h3><h4>by Raynos</h4><section><pre class="license-text">Copyright (c) 2012 Raynos.
+
+```
+
+## [level-write-stream@1.0.0](https://github.com/Raynos/level-write-stream)
+### by Raynos
+
+```
+Copyright (c) 2012 Raynos.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -4723,7 +6626,13 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE.</pre></section></article><article><h3><a href="https://github.com/level/leveldown">leveldown@1.4.6</a></h3><section><pre class="license-text">The MIT License (MIT)
+THE SOFTWARE.
+```
+
+## [leveldown@1.4.6](https://github.com/level/leveldown)
+
+```
+The MIT License (MIT)
 =====================
 
 Copyright (c) 2016 Rod Vagg
@@ -4734,7 +6643,13 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/level/levelup">levelup@1.3.2</a></h3><section><pre class="license-text">The MIT License (MIT)
+
+```
+
+## [levelup@1.3.2](https://github.com/level/levelup)
+
+```
+The MIT License (MIT)
 =====================
 
 Copyright (c) 2012-2016 LevelUP contributors
@@ -4747,19 +6662,37 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/calvinmetcalf/lie">lie@2.9.1</a></h3><section><pre class="license-text">#Copyright (c) 2014 Calvin Metcalf 
+
+```
+
+## [lie@2.9.1](https://github.com/calvinmetcalf/lie)
+
+```
+#Copyright (c) 2014 Calvin Metcalf 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-**THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.**</pre></section></article><article><h3><a href="https://github.com/calvinmetcalf/lie">lie@3.0.4</a></h3><section><pre class="license-text">#Copyright (c) 2014 Calvin Metcalf 
+**THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.**
+```
+
+## [lie@3.0.4](https://github.com/calvinmetcalf/lie)
+
+```
+#Copyright (c) 2014 Calvin Metcalf 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-**THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.**</pre></section></article><article><h3><a href="https://github.com/markdown-it/linkify-it">linkify-it@2.0.0</a></h3><section><pre class="license-text">Copyright (c) 2015 Vitaly Puzrin.
+**THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.**
+```
+
+## [linkify-it@2.0.0](https://github.com/markdown-it/linkify-it)
+
+```
+Copyright (c) 2015 Vitaly Puzrin.
 
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation
@@ -4781,7 +6714,13 @@ HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
 WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/no9/localstorage-down">localstorage-down@0.6.6</a></h3><section><pre class="license-text">The MIT License (MIT)
+
+```
+
+## [localstorage-down@0.6.6](https://github.com/no9/localstorage-down)
+
+```
+The MIT License (MIT)
 
 Copyright (c) 2014 Anton Whalley
 
@@ -4801,7 +6740,19 @@ FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
 COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
 IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
 CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/gr2m/localstorage-memory">localstorage-memory@1.0.2</a></h3><h4>by Gregor Martynus</h4><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/lodash/lodash">lodash._baseslice@4.0.0</a></h3><h4>by John-David Dalton</h4><section><pre class="license-text">Copyright 2012-2016 The Dojo Foundation <http://dojofoundation.org/>
+
+```
+
+## [localstorage-memory@1.0.2](https://github.com/gr2m/localstorage-memory)
+### by Gregor Martynus
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [lodash._baseslice@4.0.0](https://github.com/lodash/lodash)
+### by John-David Dalton
+
+```
+Copyright 2012-2016 The Dojo Foundation <http://dojofoundation.org/>
 Based on Underscore.js, copyright 2009-2016 Jeremy Ashkenas,
 DocumentCloud and Investigative Reporters & Editors <http://underscorejs.org/>
 
@@ -4823,7 +6774,14 @@ NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
 LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
 OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
 WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/lodash/lodash">lodash._basetostring@4.12.0</a></h3><h4>by John-David Dalton</h4><section><pre class="license-text">Copyright jQuery Foundation and other contributors <https://jquery.org/>
+
+```
+
+## [lodash._basetostring@4.12.0](https://github.com/lodash/lodash)
+### by John-David Dalton
+
+```
+Copyright jQuery Foundation and other contributors <https://jquery.org/>
 
 Based on Underscore.js, copyright Jeremy Ashkenas,
 DocumentCloud and Investigative Reporters & Editors <http://underscorejs.org/>
@@ -4870,7 +6828,14 @@ Files located in the node_modules and vendor directories are externally
 maintained libraries used by this software which have their own
 licenses; we recommend you read them, as their terms may differ from the
 terms above.
-</pre></section></article><article><h3><a href="https://github.com/lodash/lodash">lodash._root@3.0.1</a></h3><h4>by John-David Dalton</h4><section><pre class="license-text">The MIT License (MIT)
+
+```
+
+## [lodash._root@3.0.1](https://github.com/lodash/lodash)
+### by John-David Dalton
+
+```
+The MIT License (MIT)
 
 Copyright 2012-2016 The Dojo Foundation <http://dojofoundation.org/>
 Based on Underscore.js, copyright 2009-2016 Jeremy Ashkenas,
@@ -4893,7 +6858,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/lodash/lodash">lodash.isequal@4.2.0</a></h3><h4>by John-David Dalton</h4><section><pre class="license-text">Copyright jQuery Foundation and other contributors <https://jquery.org/>
+
+```
+
+## [lodash.isequal@4.2.0](https://github.com/lodash/lodash)
+### by John-David Dalton
+
+```
+Copyright jQuery Foundation and other contributors <https://jquery.org/>
 
 Based on Underscore.js, copyright Jeremy Ashkenas,
 DocumentCloud and Investigative Reporters & Editors <http://underscorejs.org/>
@@ -4940,7 +6912,14 @@ Files located in the node_modules and vendor directories are externally
 maintained libraries used by this software which have their own
 licenses; we recommend you read them, as their terms may differ from the
 terms above.
-</pre></section></article><article><h3><a href="https://github.com/lodash/lodash">lodash.keys@4.0.7</a></h3><h4>by John-David Dalton</h4><section><pre class="license-text">Copyright jQuery Foundation and other contributors <https://jquery.org/>
+
+```
+
+## [lodash.keys@4.0.7](https://github.com/lodash/lodash)
+### by John-David Dalton
+
+```
+Copyright jQuery Foundation and other contributors <https://jquery.org/>
 
 Based on Underscore.js, copyright Jeremy Ashkenas,
 DocumentCloud and Investigative Reporters & Editors <http://underscorejs.org/>
@@ -4987,7 +6966,14 @@ Files located in the node_modules and vendor directories are externally
 maintained libraries used by this software which have their own
 licenses; we recommend you read them, as their terms may differ from the
 terms above.
-</pre></section></article><article><h3><a href="https://github.com/lodash/lodash">lodash.pad@4.4.0</a></h3><h4>by John-David Dalton</h4><section><pre class="license-text">Copyright jQuery Foundation and other contributors <https://jquery.org/>
+
+```
+
+## [lodash.pad@4.4.0](https://github.com/lodash/lodash)
+### by John-David Dalton
+
+```
+Copyright jQuery Foundation and other contributors <https://jquery.org/>
 
 Based on Underscore.js, copyright Jeremy Ashkenas,
 DocumentCloud and Investigative Reporters & Editors <http://underscorejs.org/>
@@ -5034,7 +7020,14 @@ Files located in the node_modules and vendor directories are externally
 maintained libraries used by this software which have their own
 licenses; we recommend you read them, as their terms may differ from the
 terms above.
-</pre></section></article><article><h3><a href="https://github.com/lodash/lodash">lodash.padend@4.5.0</a></h3><h4>by John-David Dalton</h4><section><pre class="license-text">Copyright jQuery Foundation and other contributors <https://jquery.org/>
+
+```
+
+## [lodash.padend@4.5.0](https://github.com/lodash/lodash)
+### by John-David Dalton
+
+```
+Copyright jQuery Foundation and other contributors <https://jquery.org/>
 
 Based on Underscore.js, copyright Jeremy Ashkenas,
 DocumentCloud and Investigative Reporters & Editors <http://underscorejs.org/>
@@ -5081,7 +7074,14 @@ Files located in the node_modules and vendor directories are externally
 maintained libraries used by this software which have their own
 licenses; we recommend you read them, as their terms may differ from the
 terms above.
-</pre></section></article><article><h3><a href="https://github.com/lodash/lodash">lodash.padstart@4.5.0</a></h3><h4>by John-David Dalton</h4><section><pre class="license-text">Copyright jQuery Foundation and other contributors <https://jquery.org/>
+
+```
+
+## [lodash.padstart@4.5.0](https://github.com/lodash/lodash)
+### by John-David Dalton
+
+```
+Copyright jQuery Foundation and other contributors <https://jquery.org/>
 
 Based on Underscore.js, copyright Jeremy Ashkenas,
 DocumentCloud and Investigative Reporters & Editors <http://underscorejs.org/>
@@ -5128,7 +7128,14 @@ Files located in the node_modules and vendor directories are externally
 maintained libraries used by this software which have their own
 licenses; we recommend you read them, as their terms may differ from the
 terms above.
-</pre></section></article><article><h3><a href="https://github.com/lodash/lodash">lodash.tostring@4.1.3</a></h3><h4>by John-David Dalton</h4><section><pre class="license-text">Copyright jQuery Foundation and other contributors <https://jquery.org/>
+
+```
+
+## [lodash.tostring@4.1.3](https://github.com/lodash/lodash)
+### by John-David Dalton
+
+```
+Copyright jQuery Foundation and other contributors <https://jquery.org/>
 
 Based on Underscore.js, copyright Jeremy Ashkenas,
 DocumentCloud and Investigative Reporters & Editors <http://underscorejs.org/>
@@ -5175,7 +7182,14 @@ Files located in the node_modules and vendor directories are externally
 maintained libraries used by this software which have their own
 licenses; we recommend you read them, as their terms may differ from the
 terms above.
-</pre></section></article><article><h3><a href="https://github.com/lodash/lodash">lodash@3.10.1</a></h3><h4>by John-David Dalton</h4><section><pre class="license-text">Copyright 2012-2015 The Dojo Foundation <http://dojofoundation.org/>
+
+```
+
+## [lodash@3.10.1](https://github.com/lodash/lodash)
+### by John-David Dalton
+
+```
+Copyright 2012-2015 The Dojo Foundation <http://dojofoundation.org/>
 Based on Underscore.js, copyright 2009-2015 Jeremy Ashkenas,
 DocumentCloud and Investigative Reporters & Editors <http://underscorejs.org/>
 
@@ -5197,7 +7211,14 @@ NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
 LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
 OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
 WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/lodash/lodash">lodash@4.13.1</a></h3><h4>by John-David Dalton</h4><section><pre class="license-text">Copyright jQuery Foundation and other contributors <https://jquery.org/>
+
+```
+
+## [lodash@4.13.1](https://github.com/lodash/lodash)
+### by John-David Dalton
+
+```
+Copyright jQuery Foundation and other contributors <https://jquery.org/>
 
 Based on Underscore.js, copyright Jeremy Ashkenas,
 DocumentCloud and Investigative Reporters & Editors <http://underscorejs.org/>
@@ -5244,7 +7265,23 @@ Files located in the node_modules and vendor directories are externally
 maintained libraries used by this software which have their own
 licenses; we recommend you read them, as their terms may differ from the
 terms above.
-</pre></section></article><article><h3><a href="https://github.com/cainus/logdriver">log-driver@1.2.4</a></h3><section><div>UNKNOWN</div></section></article><article><h3><a href="https://github.com/zertosh/loose-envify">loose-envify@1.2.0</a></h3><h4>by Andres Suarez</h4><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/isaacs/node-lru-cache">lru-cache@2.2.4</a></h3><h4>by Isaac Z. Schlueter</h4><section><pre class="license-text">Copyright 2009, 2010, 2011 Isaac Z. Schlueter.
+
+```
+
+## [log-driver@1.2.4](https://github.com/cainus/logdriver)
+
+UNKNOWN
+
+## [loose-envify@1.2.0](https://github.com/zertosh/loose-envify)
+### by Andres Suarez
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [lru-cache@2.2.4](https://github.com/isaacs/node-lru-cache)
+### by Isaac Z. Schlueter
+
+```
+Copyright 2009, 2010, 2011 Isaac Z. Schlueter.
 All rights reserved.
 
 Permission is hereby granted, free of charge, to any person
@@ -5267,7 +7304,14 @@ HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
 WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/isaacs/node-lru-cache">lru-cache@2.7.3</a></h3><h4>by Isaac Z. Schlueter</h4><section><pre class="license-text">The ISC License
+
+```
+
+## [lru-cache@2.7.3](https://github.com/isaacs/node-lru-cache)
+### by Isaac Z. Schlueter
+
+```
+The ISC License
 
 Copyright (c) Isaac Z. Schlueter and Contributors
 
@@ -5282,7 +7326,14 @@ ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
 WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
 ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR
 IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/dominictarr/ltgt">ltgt@1.0.2</a></h3><h4>by Dominic Tarr</h4><section><pre class="license-text">Copyright (c) 2014 Dominic Tarr
+
+```
+
+## [ltgt@1.0.2](https://github.com/dominictarr/ltgt)
+### by Dominic Tarr
+
+```
+Copyright (c) 2014 Dominic Tarr
 
 Permission is hereby granted, free of charge, 
 to any person obtaining a copy of this software and 
@@ -5304,7 +7355,14 @@ IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR
 ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, 
 TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE 
 SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/dominictarr/ltgt">ltgt@2.1.2</a></h3><h4>by Dominic Tarr</h4><section><pre class="license-text">Copyright (c) 2014 Dominic Tarr
+
+```
+
+## [ltgt@2.1.2](https://github.com/dominictarr/ltgt)
+### by Dominic Tarr
+
+```
+Copyright (c) 2014 Dominic Tarr
 
 Permission is hereby granted, free of charge, 
 to any person obtaining a copy of this software and 
@@ -5326,7 +7384,13 @@ IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR
 ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, 
 TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE 
 SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/markdown-it/markdown-it">markdown-it@7.0.0</a></h3><section><pre class="license-text">Copyright (c) 2014 Vitaly Puzrin, Alex Kocharin.
+
+```
+
+## [markdown-it@7.0.0](https://github.com/markdown-it/markdown-it)
+
+```
+Copyright (c) 2014 Vitaly Puzrin, Alex Kocharin.
 
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation
@@ -5348,7 +7412,13 @@ HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
 WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/markdown-it/mdurl">mdurl@1.0.1</a></h3><section><pre class="license-text">Copyright (c) 2015 Vitaly Puzrin, Alex Kocharin.
+
+```
+
+## [mdurl@1.0.1](https://github.com/markdown-it/mdurl)
+
+```
+Copyright (c) 2015 Vitaly Puzrin, Alex Kocharin.
 
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation
@@ -5393,7 +7463,13 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
 IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/rvagg/node-memdown">memdown@1.1.2</a></h3><section><pre class="license-text">Copyright 2013, Rod Vagg (the "Original Author")
+
+```
+
+## [memdown@1.1.2](https://github.com/rvagg/node-memdown)
+
+```
+Copyright 2013, Rod Vagg (the "Original Author")
 All rights reserved.
 
 MIT +no-false-attribs License
@@ -5431,7 +7507,13 @@ OTHER DEALINGS IN THE SOFTWARE.
 
 Except where noted, this license applies to any and all software
 programs and associated documentation files created by the
-Original Author, when distributed with the Software.</pre></section></article><article><h3><a href="https://github.com/jshttp/mime-db">mime-db@1.23.0</a></h3><section><pre class="license-text">
+Original Author, when distributed with the Software.
+```
+
+## [mime-db@1.23.0](https://github.com/jshttp/mime-db)
+
+```
+
 The MIT License (MIT)
 
 Copyright (c) 2014 Jonathan Ong me@jongleberry.com
@@ -5453,7 +7535,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/expressjs/mime-types">mime-types@1.0.2</a></h3><h4>by Jonathan Ong</h4><section><pre class="license-text">
+
+```
+
+## [mime-types@1.0.2](https://github.com/expressjs/mime-types)
+### by Jonathan Ong
+
+```
+
 The MIT License (MIT)
 
 Copyright (c) 2014 Jonathan Ong me@jongleberry.com
@@ -5475,7 +7564,13 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/jshttp/mime-types">mime-types@2.1.11</a></h3><section><pre class="license-text">(The MIT License)
+
+```
+
+## [mime-types@2.1.11](https://github.com/jshttp/mime-types)
+
+```
+(The MIT License)
 
 Copyright (c) 2014 Jonathan Ong <me@jongleberry.com>
 Copyright (c) 2015 Douglas Christopher Wilson <doug@somethingdoug.com>
@@ -5498,7 +7593,14 @@ IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
 CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
 TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
 SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/broofa/node-mime">mime@1.2.11</a></h3><h4>by Robert Kieffer</h4><section><pre class="license-text">Copyright (c) 2010 Benjamin Thomas, Robert Kieffer
+
+```
+
+## [mime@1.2.11](https://github.com/broofa/node-mime)
+### by Robert Kieffer
+
+```
+Copyright (c) 2010 Benjamin Thomas, Robert Kieffer
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -5517,7 +7619,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/isaacs/minimatch">minimatch@1.0.0</a></h3><h4>by Isaac Z. Schlueter</h4><section><pre class="license-text">Copyright 2009, 2010, 2011 Isaac Z. Schlueter.
+
+```
+
+## [minimatch@1.0.0](https://github.com/isaacs/minimatch)
+### by Isaac Z. Schlueter
+
+```
+Copyright 2009, 2010, 2011 Isaac Z. Schlueter.
 All rights reserved.
 
 Permission is hereby granted, free of charge, to any person
@@ -5540,7 +7649,14 @@ HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
 WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/isaacs/minimatch">minimatch@2.0.10</a></h3><h4>by Isaac Z. Schlueter</h4><section><pre class="license-text">The ISC License
+
+```
+
+## [minimatch@2.0.10](https://github.com/isaacs/minimatch)
+### by Isaac Z. Schlueter
+
+```
+The ISC License
 
 Copyright (c) Isaac Z. Schlueter and Contributors
 
@@ -5555,7 +7671,14 @@ ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
 WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
 ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR
 IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/isaacs/minimatch">minimatch@3.0.0</a></h3><h4>by Isaac Z. Schlueter</h4><section><pre class="license-text">The ISC License
+
+```
+
+## [minimatch@3.0.0](https://github.com/isaacs/minimatch)
+### by Isaac Z. Schlueter
+
+```
+The ISC License
 
 Copyright (c) Isaac Z. Schlueter and Contributors
 
@@ -5570,7 +7693,14 @@ ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
 WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
 ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR
 IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/isaacs/minimatch">minimatch@3.0.2</a></h3><h4>by Isaac Z. Schlueter</h4><section><pre class="license-text">The ISC License
+
+```
+
+## [minimatch@3.0.2](https://github.com/isaacs/minimatch)
+### by Isaac Z. Schlueter
+
+```
+The ISC License
 
 Copyright (c) Isaac Z. Schlueter and Contributors
 
@@ -5585,7 +7715,14 @@ ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
 WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
 ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR
 IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/substack/minimist">minimist@0.0.8</a></h3><h4>by James Halliday</h4><section><pre class="license-text">This software is released under the MIT license:
+
+```
+
+## [minimist@0.0.8](https://github.com/substack/minimist)
+### by James Halliday
+
+```
+This software is released under the MIT license:
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
@@ -5603,7 +7740,14 @@ FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
 COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
 IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
 CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/substack/minimist">minimist@1.2.0</a></h3><h4>by James Halliday</h4><section><pre class="license-text">This software is released under the MIT license:
+
+```
+
+## [minimist@1.2.0](https://github.com/substack/minimist)
+### by James Halliday
+
+```
+This software is released under the MIT license:
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
@@ -5621,7 +7765,14 @@ FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
 COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
 IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
 CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/mixpanel/mixpanel-node">mixpanel@0.4.0</a></h3><h4>by Carl Sverre</h4><section><pre class="license-text">Copyright (c) 2012 Carl Sverre
+
+```
+
+## [mixpanel@0.4.0](https://github.com/mixpanel/mixpanel-node)
+### by Carl Sverre
+
+```
+Copyright (c) 2012 Carl Sverre
 
 Permission is hereby granted, free of charge, to any person obtaining a
 copy of this software and associated documentation files (the
@@ -5641,7 +7792,14 @@ IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
 CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
 TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
 SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/atom/mixto">mixto@1.0.0</a></h3><h4>by Nathan Sobo</h4><section><pre class="license-text">Copyright (c) 2013 GitHub Inc.
+
+```
+
+## [mixto@1.0.0](https://github.com/atom/mixto)
+### by Nathan Sobo
+
+```
+Copyright (c) 2013 GitHub Inc.
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
@@ -5661,7 +7819,14 @@ NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
 LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
 OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
 WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/substack/node-mkdirp">mkdirp@0.3.5</a></h3><h4>by James Halliday</h4><section><pre class="license-text">Copyright 2010 James Halliday (mail@substack.net)
+
+```
+
+## [mkdirp@0.3.5](https://github.com/substack/node-mkdirp)
+### by James Halliday
+
+```
+Copyright 2010 James Halliday (mail@substack.net)
 
 This project is free software released under the MIT/X11 license:
 
@@ -5682,7 +7847,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/substack/node-mkdirp">mkdirp@0.5.1</a></h3><h4>by James Halliday</h4><section><pre class="license-text">Copyright 2010 James Halliday (mail@substack.net)
+
+```
+
+## [mkdirp@0.5.1](https://github.com/substack/node-mkdirp)
+### by James Halliday
+
+```
+Copyright 2010 James Halliday (mail@substack.net)
 
 This project is free software released under the MIT/X11 license:
 
@@ -5703,7 +7875,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/moment/moment">moment@2.14.1</a></h3><h4>by Iskren Ivov Chernev</h4><section><pre class="license-text">Copyright (c) 2011-2016 Tim Wood, Iskren Chernev, Moment.js contributors
+
+```
+
+## [moment@2.14.1](https://github.com/moment/moment)
+### by Iskren Ivov Chernev
+
+```
+Copyright (c) 2011-2016 Tim Wood, Iskren Chernev, Moment.js contributors
 
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation
@@ -5725,7 +7904,13 @@ HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
 WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/guille/ms.js">ms@0.7.1</a></h3><section><pre class="license-text">(The MIT License)
+
+```
+
+## [ms@0.7.1](https://github.com/guille/ms.js)
+
+```
+(The MIT License)
 
 Copyright (c) 2014 Guillermo Rauch <rauchg@gmail.com>
 
@@ -5745,7 +7930,13 @@ FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
 COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
 IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
 CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/nodejs/nan">nan@2.3.2</a></h3><section><pre class="license-text">The MIT License (MIT)
+
+```
+
+## [nan@2.3.2](https://github.com/nodejs/nan)
+
+```
+The MIT License (MIT)
 =====================
 
 Copyright (c) 2016 NAN contributors
@@ -5758,7 +7949,13 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/nodejs/nan">nan@2.3.5</a></h3><section><pre class="license-text">The MIT License (MIT)
+
+```
+
+## [nan@2.3.5](https://github.com/nodejs/nan)
+
+```
+The MIT License (MIT)
 =====================
 
 Copyright (c) 2016 NAN contributors
@@ -5771,7 +7968,14 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/bitinn/node-fetch">node-fetch@1.5.3</a></h3><h4>by David Frank</h4><section><pre class="license-text">The MIT License (MIT)
+
+```
+
+## [node-fetch@1.5.3](https://github.com/bitinn/node-fetch)
+### by David Frank
+
+```
+The MIT License (MIT)
 
 Copyright (c) 2016 David Frank
 
@@ -5793,7 +7997,14 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-</pre></section></article><article><h3><a href="https://github.com/nodejs/node-gyp">node-gyp@3.4.0</a></h3><h4>by Nathan Rajlich</h4><section><pre class="license-text">(The MIT License)
+
+```
+
+## [node-gyp@3.4.0](https://github.com/nodejs/node-gyp)
+### by Nathan Rajlich
+
+```
+(The MIT License)
 
 Copyright (c) 2012 Nathan Rajlich <nathan@tootallnate.net>
 
@@ -5817,7 +8028,14 @@ HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
 WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/codejockey/node-ninja">node-ninja@1.0.1</a></h3><h4>by Pieter Hintjens</h4><section><pre class="license-text">Mozilla Public License Version 2.0
+
+```
+
+## [node-ninja@1.0.1](https://github.com/codejockey/node-ninja)
+### by Pieter Hintjens
+
+```
+Mozilla Public License Version 2.0
 ==================================
 
 1. Definitions
@@ -6190,7 +8408,14 @@ Exhibit B - "Incompatible With Secondary Licenses" Notice
 
   This Source Code Form is "Incompatible With Secondary Licenses", as
   defined by the Mozilla Public License, v. 2.0.
-</pre></section></article><article><h3><a href="https://github.com/mapbox/node-pre-gyp">node-pre-gyp@0.6.28</a></h3><h4>by Dane Springmeyer</h4><section><pre class="license-text">Copyright (c), Mapbox
+
+```
+
+## [node-pre-gyp@0.6.28](https://github.com/mapbox/node-pre-gyp)
+### by Dane Springmeyer
+
+```
+Copyright (c), Mapbox
 
 All rights reserved.
 
@@ -6217,7 +8442,19 @@ PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF
 LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
 NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
 SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-</pre></section></article><article><h3><a href="https://github.com/rzcoder/node-rsa">node-rsa@0.3.4</a></h3><h4>by rzcoder</h4><section><div>BSD</div></section></article><article><h3><a href="https://github.com/broofa/node-uuid">node-uuid@1.4.7</a></h3><h4>by Robert Kieffer</h4><section><pre class="license-text">The MIT License (MIT)
+
+```
+
+## [node-rsa@0.3.4](https://github.com/rzcoder/node-rsa)
+### by rzcoder
+
+BSD
+
+## [node-uuid@1.4.7](https://github.com/broofa/node-uuid)
+### by Robert Kieffer
+
+```
+The MIT License (MIT)
 
 Copyright (c)  2010-2012 Robert Kieffer 
 
@@ -6238,7 +8475,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/inikulin/noop-fn">noop-fn@1.0.0</a></h3><h4>by Ivan Nikulin</h4><section><pre class="license-text">The MIT License (MIT)
+
+```
+
+## [noop-fn@1.0.0](https://github.com/inikulin/noop-fn)
+### by Ivan Nikulin
+
+```
+The MIT License (MIT)
 
 Copyright (c) 2015 Ivan Nikulin (ifaaan@gmail.com)
 
@@ -6260,7 +8504,18 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-</pre></section></article><article><h3><a href="https://github.com/segmentio/noop-logger">noop-logger@0.1.1</a></h3><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/npm/nopt">nopt@3.0.6</a></h3><h4>by Isaac Z. Schlueter</h4><section><pre class="license-text">The ISC License
+
+```
+
+## [noop-logger@0.1.1](https://github.com/segmentio/noop-logger)
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [nopt@3.0.6](https://github.com/npm/nopt)
+### by Isaac Z. Schlueter
+
+```
+The ISC License
 
 Copyright (c) Isaac Z. Schlueter and Contributors
 
@@ -6275,7 +8530,14 @@ ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
 WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
 ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR
 IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/npm/normalize-package-data">normalize-package-data@2.3.5</a></h3><h4>by Meryn Stol</h4><section><pre class="license-text">This package contains code originally written by Isaac Z. Schlueter. 
+
+```
+
+## [normalize-package-data@2.3.5](https://github.com/npm/normalize-package-data)
+### by Meryn Stol
+
+```
+This package contains code originally written by Isaac Z. Schlueter. 
 Used with permission.
 
 Copyright (c) Meryn Stol ("Author")
@@ -6305,7 +8567,14 @@ BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY,
 WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE
 OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN
 IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-</pre></section></article><article><h3><a href="https://github.com/npm/npmlog">npmlog@2.0.3</a></h3><h4>by Isaac Z. Schlueter</h4><section><pre class="license-text">The ISC License
+
+```
+
+## [npmlog@2.0.3](https://github.com/npm/npmlog)
+### by Isaac Z. Schlueter
+
+```
+The ISC License
 
 Copyright (c) Isaac Z. Schlueter and Contributors
 
@@ -6320,7 +8589,14 @@ ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
 WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
 ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR
 IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/npm/npmlog">npmlog@2.0.4</a></h3><h4>by Isaac Z. Schlueter</h4><section><pre class="license-text">The ISC License
+
+```
+
+## [npmlog@2.0.4](https://github.com/npm/npmlog)
+### by Isaac Z. Schlueter
+
+```
+The ISC License
 
 Copyright (c) Isaac Z. Schlueter and Contributors
 
@@ -6335,7 +8611,14 @@ ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
 WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
 ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR
 IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/sindresorhus/number-is-nan">number-is-nan@1.0.0</a></h3><h4>by Sindre Sorhus</h4><section><pre class="license-text">The MIT License (MIT)
+
+```
+
+## [number-is-nan@1.0.0](https://github.com/sindresorhus/number-is-nan)
+### by Sindre Sorhus
+
+```
+The MIT License (MIT)
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
@@ -6356,7 +8639,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/adamwdraper/Numeral-js">numeral@1.5.3</a></h3><h4>by Adam Draper</h4><section><pre class="license-text">Copyright (c) 2012 Adam Draper
+
+```
+
+## [numeral@1.5.3](https://github.com/adamwdraper/Numeral-js)
+### by Adam Draper
+
+```
+Copyright (c) 2012 Adam Draper
 
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation
@@ -6377,7 +8667,14 @@ NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
 HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
 WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.</pre></section></article><article><h3><a href="https://github.com/mikeal/oauth-sign">oauth-sign@0.3.0</a></h3><h4>by Mikeal Rogers</h4><section><pre class="license-text">Apache License
+OTHER DEALINGS IN THE SOFTWARE.
+```
+
+## [oauth-sign@0.3.0](https://github.com/mikeal/oauth-sign)
+### by Mikeal Rogers
+
+```
+Apache License
 
 Version 2.0, January 2004
 
@@ -6431,7 +8728,14 @@ If the Work includes a "NOTICE" text file as part of its distribution, then any 
 
 9. Accepting Warranty or Additional Liability. While redistributing the Work or Derivative Works thereof, You may choose to offer, and charge a fee for, acceptance of support, warranty, indemnity, or other liability obligations and/or rights consistent with this License. However, in accepting such obligations, You may act only on Your own behalf and on Your sole responsibility, not on behalf of any other Contributor, and only if You agree to indemnify, defend, and hold each Contributor harmless for any liability incurred by, or claims asserted against, such Contributor by reason of your accepting any such warranty or additional liability.
 
-END OF TERMS AND CONDITIONS</pre></section></article><article><h3><a href="https://github.com/mikeal/oauth-sign">oauth-sign@0.8.2</a></h3><h4>by Mikeal Rogers</h4><section><pre class="license-text">Apache License
+END OF TERMS AND CONDITIONS
+```
+
+## [oauth-sign@0.8.2](https://github.com/mikeal/oauth-sign)
+### by Mikeal Rogers
+
+```
+Apache License
 
 Version 2.0, January 2004
 
@@ -6485,7 +8789,14 @@ If the Work includes a "NOTICE" text file as part of its distribution, then any 
 
 9. Accepting Warranty or Additional Liability. While redistributing the Work or Derivative Works thereof, You may choose to offer, and charge a fee for, acceptance of support, warranty, indemnity, or other liability obligations and/or rights consistent with this License. However, in accepting such obligations, You may act only on Your own behalf and on Your sole responsibility, not on behalf of any other Contributor, and only if You agree to indemnify, defend, and hold each Contributor harmless for any liability incurred by, or claims asserted against, such Contributor by reason of your accepting any such warranty or additional liability.
 
-END OF TERMS AND CONDITIONS</pre></section></article><article><h3><a href="https://github.com/sindresorhus/object-assign">object-assign@2.1.1</a></h3><h4>by Sindre Sorhus</h4><section><pre class="license-text">The MIT License (MIT)
+END OF TERMS AND CONDITIONS
+```
+
+## [object-assign@2.1.1](https://github.com/sindresorhus/object-assign)
+### by Sindre Sorhus
+
+```
+The MIT License (MIT)
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
@@ -6506,7 +8817,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/sindresorhus/object-assign">object-assign@4.1.0</a></h3><h4>by Sindre Sorhus</h4><section><pre class="license-text">The MIT License (MIT)
+
+```
+
+## [object-assign@4.1.0](https://github.com/sindresorhus/object-assign)
+### by Sindre Sorhus
+
+```
+The MIT License (MIT)
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
@@ -6527,7 +8845,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/ljharb/object-keys">object-keys@1.0.11</a></h3><h4>by Jordan Harband</h4><section><pre class="license-text">The MIT License (MIT)
+
+```
+
+## [object-keys@1.0.11](https://github.com/ljharb/object-keys)
+### by Jordan Harband
+
+```
+The MIT License (MIT)
 
 Copyright (C) 2013 Jordan Harband
 
@@ -6547,7 +8872,14 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE.</pre></section></article><article><h3><a href="https://github.com/isaacs/once">once@1.3.3</a></h3><h4>by Isaac Z. Schlueter</h4><section><pre class="license-text">The ISC License
+THE SOFTWARE.
+```
+
+## [once@1.3.3](https://github.com/isaacs/once)
+### by Isaac Z. Schlueter
+
+```
+The ISC License
 
 Copyright (c) Isaac Z. Schlueter and Contributors
 
@@ -6562,7 +8894,14 @@ ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
 WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
 ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR
 IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/substack/node-optimist">optimist@0.4.0</a></h3><h4>by James Halliday</h4><section><pre class="license-text">Copyright 2010 James Halliday (mail@substack.net)
+
+```
+
+## [optimist@0.4.0](https://github.com/substack/node-optimist)
+### by James Halliday
+
+```
+Copyright 2010 James Halliday (mail@substack.net)
 
 This project is free software released under the MIT/X11 license:
 
@@ -6583,7 +8922,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/sindresorhus/os-homedir">os-homedir@1.0.1</a></h3><h4>by Sindre Sorhus</h4><section><pre class="license-text">The MIT License (MIT)
+
+```
+
+## [os-homedir@1.0.1](https://github.com/sindresorhus/os-homedir)
+### by Sindre Sorhus
+
+```
+The MIT License (MIT)
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
@@ -6604,7 +8950,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/sindresorhus/os-tmpdir">os-tmpdir@1.0.1</a></h3><h4>by Sindre Sorhus</h4><section><pre class="license-text">The MIT License (MIT)
+
+```
+
+## [os-tmpdir@1.0.1](https://github.com/sindresorhus/os-tmpdir)
+### by Sindre Sorhus
+
+```
+The MIT License (MIT)
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
@@ -6625,7 +8978,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/npm/osenv">osenv@0.1.3</a></h3><h4>by Isaac Z. Schlueter</h4><section><pre class="license-text">The ISC License
+
+```
+
+## [osenv@0.1.3](https://github.com/npm/osenv)
+### by Isaac Z. Schlueter
+
+```
+The ISC License
 
 Copyright (c) Isaac Z. Schlueter and Contributors
 
@@ -6640,7 +9000,14 @@ ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
 WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
 ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR
 IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/sindresorhus/osx-release">osx-release@1.1.0</a></h3><h4>by Sindre Sorhus</h4><section><pre class="license-text">The MIT License (MIT)
+
+```
+
+## [osx-release@1.1.0](https://github.com/sindresorhus/osx-release)
+### by Sindre Sorhus
+
+```
+The MIT License (MIT)
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
@@ -6661,7 +9028,19 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
-</pre></section></article><article><h3>parseUri@1.2.3-2</h3><h4>by Franz Enzenhofer</h4><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/TooTallNate/node-path-array">path-array@1.0.1</a></h3><h4>by Nathan Rajlich</h4><section><pre class="license-text">(The MIT License)
+
+```
+
+## parseUri@1.2.3-2
+### by Franz Enzenhofer
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [path-array@1.0.1](https://github.com/TooTallNate/node-path-array)
+### by Nathan Rajlich
+
+```
+(The MIT License)
 
 Copyright (c) 2013 Nathan Rajlich <nathan@tootallnate.net>
 
@@ -6685,7 +9064,14 @@ HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
 WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/sindresorhus/path-exists">path-exists@1.0.0</a></h3><h4>by Sindre Sorhus</h4><section><pre class="license-text">The MIT License (MIT)
+
+```
+
+## [path-exists@1.0.0](https://github.com/sindresorhus/path-exists)
+### by Sindre Sorhus
+
+```
+The MIT License (MIT)
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
@@ -6706,7 +9092,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/sindresorhus/path-is-absolute">path-is-absolute@1.0.0</a></h3><h4>by Sindre Sorhus</h4><section><pre class="license-text">The MIT License (MIT)
+
+```
+
+## [path-is-absolute@1.0.0](https://github.com/sindresorhus/path-is-absolute)
+### by Sindre Sorhus
+
+```
+The MIT License (MIT)
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
@@ -6727,7 +9120,13 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/atom/node-pathwatcher">pathwatcher@6.7.0</a></h3><section><pre class="license-text">Copyright (c) 2013 GitHub Inc.
+
+```
+
+## [pathwatcher@6.7.0](https://github.com/atom/node-pathwatcher)
+
+```
+Copyright (c) 2013 GitHub Inc.
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
@@ -6747,7 +9146,14 @@ NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
 LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
 OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
 WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/floatdrop/pinkie-promise">pinkie-promise@2.0.1</a></h3><h4>by Vsevolod Strukchinsky</h4><section><pre class="license-text">The MIT License (MIT)
+
+```
+
+## [pinkie-promise@2.0.1](https://github.com/floatdrop/pinkie-promise)
+### by Vsevolod Strukchinsky
+
+```
+The MIT License (MIT)
 
 Copyright (c) Vsevolod Strukchinsky <floatdrop@gmail.com> (github.com/floatdrop)
 
@@ -6768,7 +9174,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/floatdrop/pinkie">pinkie@2.0.4</a></h3><h4>by Vsevolod Strukchinsky</h4><section><pre class="license-text">The MIT License (MIT)
+
+```
+
+## [pinkie@2.0.4](https://github.com/floatdrop/pinkie)
+### by Vsevolod Strukchinsky
+
+```
+The MIT License (MIT)
 
 Copyright (c) Vsevolod Strukchinsky <floatdrop@gmail.com> (github.com/floatdrop)
 
@@ -6789,7 +9202,32 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/jo/pouch-resolve-conflicts">pouch-resolve-conflicts@1.1.0</a></h3><h4>by Johannes J. Schmidt</h4><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/pouchdb/collate">pouchdb-collate@1.2.0</a></h3><section><div><a href="https://www.apache.org/licenses/LICENSE-2.0">Apache License</a></div></section></article><article><h3><a href="https://github.com/nolanlawson/pouchdb-collections">pouchdb-collections@1.0.1</a></h3><h4>by Calvin Metcalf</h4><section><div><a href="https://www.apache.org/licenses/LICENSE-2.0">Apache 2 License</a></div></section></article><article><h3><a href="https://github.com/pouchdb/pouchdb-extend">pouchdb-extend@0.1.2</a></h3><h4>by Nolan Lawson</h4><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/nolanlawson/pouchdb-find">pouchdb-find@0.9.0</a></h3><section><pre class="license-text">
+
+```
+
+## [pouch-resolve-conflicts@1.1.0](https://github.com/jo/pouch-resolve-conflicts)
+### by Johannes J. Schmidt
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [pouchdb-collate@1.2.0](https://github.com/pouchdb/collate)
+
+[Apache License](https://www.apache.org/licenses/LICENSE-2.0)
+
+## [pouchdb-collections@1.0.1](https://github.com/nolanlawson/pouchdb-collections)
+### by Calvin Metcalf
+
+[Apache 2 License](https://www.apache.org/licenses/LICENSE-2.0)
+
+## [pouchdb-extend@0.1.2](https://github.com/pouchdb/pouchdb-extend)
+### by Nolan Lawson
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [pouchdb-find@0.9.0](https://github.com/nolanlawson/pouchdb-find)
+
+```
+
                                 Apache License
                           Version 2.0, January 2004
                        http://www.apache.org/licenses/
@@ -6991,7 +9429,14 @@ THE SOFTWARE.
   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
   See the License for the specific language governing permissions and
   limitations under the License.
-</pre></section></article><article><h3><a href="https://github.com/eHealthAfrica/pouchdb-migrate">pouchdb-migrate@1.2.0</a></h3><h4>by Johannes J. Schmidt</h4><section><pre class="license-text">Licensed under the Apache License, Version 2.0 (the "License"); you
+
+```
+
+## [pouchdb-migrate@1.2.0](https://github.com/eHealthAfrica/pouchdb-migrate)
+### by Johannes J. Schmidt
+
+```
+Licensed under the Apache License, Version 2.0 (the "License"); you
 may not use this file except in compliance with the License. You may
 obtain a copy of the License at
 
@@ -7002,7 +9447,18 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or
 implied. See the License for the specific language governing
 permissions and limitations under the License.
-</pre></section></article><article><h3><a href="https://github.com/nolanlawson/pouchdb-upsert">pouchdb-upsert@1.1.3</a></h3><section><div><a href="https://www.apache.org/licenses/LICENSE-2.0">Apache License</a></div></section></article><article><h3><a href="https://github.com/pouchdb/pouchdb">pouchdb@5.4.5</a></h3><h4>by Dale Harvey</h4><section><pre class="license-text">
+
+```
+
+## [pouchdb-upsert@1.1.3](https://github.com/nolanlawson/pouchdb-upsert)
+
+[Apache License](https://www.apache.org/licenses/LICENSE-2.0)
+
+## [pouchdb@5.4.5](https://github.com/pouchdb/pouchdb)
+### by Dale Harvey
+
+```
+
                                 Apache License
                           Version 2.0, January 2004
                        http://www.apache.org/licenses/
@@ -7204,7 +9660,14 @@ permissions and limitations under the License.
   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
   See the License for the specific language governing permissions and
   limitations under the License.
-</pre></section></article><article><h3><a href="https://github.com/mafintosh/prebuild">prebuild@4.2.2</a></h3><h4>by Mathias Buus</h4><section><pre class="license-text">The MIT License (MIT)
+
+```
+
+## [prebuild@4.2.2](https://github.com/mafintosh/prebuild)
+### by Mathias Buus
+
+```
+The MIT License (MIT)
 
 Copyright (c) 2015 Mathias Buus
 
@@ -7225,7 +9688,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/benjamn/private">private@0.1.6</a></h3><h4>by Ben Newman</h4><section><pre class="license-text">Copyright (c) 2014 Ben Newman <bn@cs.stanford.edu>
+
+```
+
+## [private@0.1.6](https://github.com/benjamn/private)
+### by Ben Newman
+
+```
+Copyright (c) 2014 Ben Newman <bn@cs.stanford.edu>
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
@@ -7245,7 +9715,13 @@ IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
 CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
 TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
 SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/calvinmetcalf/process-nextick-args">process-nextick-args@1.0.7</a></h3><section><pre class="license-text"># Copyright (c) 2015 Calvin Metcalf
+
+```
+
+## [process-nextick-args@1.0.7](https://github.com/calvinmetcalf/process-nextick-args)
+
+```
+# Copyright (c) 2015 Calvin Metcalf
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -7264,7 +9740,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.**
-</pre></section></article><article><h3><a href="https://github.com/then/promise">promise@7.1.1</a></h3><h4>by ForbesLindesay</h4><section><pre class="license-text">Copyright (c) 2014 Forbes Lindesay
+
+```
+
+## [promise@7.1.1](https://github.com/then/promise)
+### by ForbesLindesay
+
+```
+Copyright (c) 2014 Forbes Lindesay
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -7283,7 +9766,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/atom/property-accessors">property-accessors@1.1.3</a></h3><h4>by Nathan Sobo</h4><section><pre class="license-text">Copyright (c) 2013 GitHub Inc.
+
+```
+
+## [property-accessors@1.1.3](https://github.com/atom/property-accessors)
+### by Nathan Sobo
+
+```
+Copyright (c) 2013 GitHub Inc.
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
@@ -7303,7 +9793,13 @@ NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
 LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
 OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
 WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/rvagg/prr">prr@0.0.0</a></h3><section><pre class="license-text">Copyright 2013, Rod Vagg (the "Original Author")
+
+```
+
+## [prr@0.0.0](https://github.com/rvagg/prr)
+
+```
+Copyright 2013, Rod Vagg (the "Original Author")
 All rights reserved.
 
 MIT +no-false-attribs License
@@ -7341,7 +9837,14 @@ OTHER DEALINGS IN THE SOFTWARE.
 
 Except where noted, this license applies to any and all software
 programs and associated documentation files created by the
-Original Author, when distributed with the Software.</pre></section></article><article><h3><a href="https://github.com/rvagg/prr">prr@1.0.1</a></h3><h4>by Rod Vagg</h4><section><pre class="license-text">The MIT License (MIT)
+Original Author, when distributed with the Software.
+```
+
+## [prr@1.0.1](https://github.com/rvagg/prr)
+### by Rod Vagg
+
+```
+The MIT License (MIT)
 =====================
 
 Copyright (c) 2014 Rod Vagg
@@ -7352,7 +9855,14 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/dominictarr/pull-core">pull-core@1.0.0</a></h3><h4>by Dominic Tarr</h4><section><pre class="license-text">Copyright (c) 2013 Dominic Tarr
+
+```
+
+## [pull-core@1.0.0](https://github.com/dominictarr/pull-core)
+### by Dominic Tarr
+
+```
+Copyright (c) 2013 Dominic Tarr
 
 Permission is hereby granted, free of charge, 
 to any person obtaining a copy of this software and 
@@ -7374,7 +9884,14 @@ IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR
 ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, 
 TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE 
 SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/dominictarr/pull-stream">pull-stream@2.21.0</a></h3><h4>by Dominic Tarr</h4><section><pre class="license-text">Copyright (c) 2013 Dominic Tarr
+
+```
+
+## [pull-stream@2.21.0](https://github.com/dominictarr/pull-stream)
+### by Dominic Tarr
+
+```
+Copyright (c) 2013 Dominic Tarr
 
 Permission is hereby granted, free of charge, 
 to any person obtaining a copy of this software and 
@@ -7396,7 +9913,14 @@ IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR
 ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, 
 TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE 
 SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/mafintosh/pump">pump@1.0.1</a></h3><h4>by Mathias Buus Madsen</h4><section><pre class="license-text">The MIT License (MIT)
+
+```
+
+## [pump@1.0.1](https://github.com/mafintosh/pump)
+### by Mathias Buus Madsen
+
+```
+The MIT License (MIT)
 
 Copyright (c) 2014 Mathias Buus
 
@@ -7416,7 +9940,14 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE.</pre></section></article><article><h3><a href="https://github.com/kriskowal/q">q@1.4.1</a></h3><h4>by Kris Kowal</h4><section><pre class="license-text">Copyright 2009–2014 Kristopher Michael Kowal. All rights reserved.
+THE SOFTWARE.
+```
+
+## [q@1.4.1](https://github.com/kriskowal/q)
+### by Kris Kowal
+
+```
+Copyright 2009–2014 Kristopher Michael Kowal. All rights reserved.
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to
 deal in the Software without restriction, including without limitation the
@@ -7434,7 +9965,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
 IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/hapijs/qs">qs@1.0.2</a></h3><h4>by Nathan LaFreniere</h4><section><pre class="license-text">Copyright (c) 2014 Nathan LaFreniere and other contributors.
+
+```
+
+## [qs@1.0.2](https://github.com/hapijs/qs)
+### by Nathan LaFreniere
+
+```
+Copyright (c) 2014 Nathan LaFreniere and other contributors.
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
@@ -7462,7 +10000,13 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
                                   *   *   *
 
 The complete list of contributors can be found at: https://github.com/hapijs/qs/graphs/contributors
-</pre></section></article><article><h3><a href="https://github.com/hapijs/qs">qs@5.2.0</a></h3><section><pre class="license-text">Copyright (c) 2014 Nathan LaFreniere and other contributors.
+
+```
+
+## [qs@5.2.0](https://github.com/hapijs/qs)
+
+```
+Copyright (c) 2014 Nathan LaFreniere and other contributors.
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
@@ -7490,7 +10034,13 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
                                   *   *   *
 
 The complete list of contributors can be found at: https://github.com/hapijs/qs/graphs/contributors
-</pre></section></article><article><h3><a href="https://github.com/ljharb/qs">qs@6.1.0</a></h3><section><pre class="license-text">Copyright (c) 2014 Nathan LaFreniere and other contributors.
+
+```
+
+## [qs@6.1.0](https://github.com/ljharb/qs)
+
+```
+Copyright (c) 2014 Nathan LaFreniere and other contributors.
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
@@ -7518,7 +10068,14 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
                                   *   *   *
 
 The complete list of contributors can be found at: https://github.com/hapijs/qs/graphs/contributors
-</pre></section></article><article><h3><a href="https://github.com/sindresorhus/query-string">query-string@3.0.3</a></h3><h4>by Sindre Sorhus</h4><section><pre class="license-text">The MIT License (MIT)
+
+```
+
+## [query-string@3.0.3](https://github.com/sindresorhus/query-string)
+### by Sindre Sorhus
+
+```
+The MIT License (MIT)
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
@@ -7539,7 +10096,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/dominictarr/rc">rc@1.1.6</a></h3><h4>by Dominic Tarr</h4><section><pre class="license-text">The MIT License
+
+```
+
+## [rc@1.1.6](https://github.com/dominictarr/rc)
+### by Dominic Tarr
+
+```
+The MIT License
 
 Copyright (c) 2011 Dominic Tarr
 
@@ -7563,7 +10127,13 @@ IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR
 ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, 
 TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE 
 SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/facebook/react">react-addons-css-transition-group@0.14.8</a></h3><section><pre class="license-text">BSD License
+
+```
+
+## [react-addons-css-transition-group@0.14.8](https://github.com/facebook/react)
+
+```
+BSD License
 
 For React software
 
@@ -7594,7 +10164,14 @@ LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON
 ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
 SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-</pre></section></article><article><h3><a href="https://github.com/react-bootstrap/react-bootstrap">react-bootstrap@0.20.3</a></h3><h4>by Stephen J. Collings</h4><section><pre class="license-text">The MIT License (MIT)
+
+```
+
+## [react-bootstrap@0.20.3](https://github.com/react-bootstrap/react-bootstrap)
+### by Stephen J. Collings
+
+```
+The MIT License (MIT)
 
 Copyright (c) 2014 Stephen J. Collings, Matthew Honnibal, Pieter Vanderwerff
 
@@ -7614,7 +10191,13 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE.</pre></section></article><article><h3><a href="https://github.com/facebook/react">react-dom@0.14.8</a></h3><section><pre class="license-text">BSD License
+THE SOFTWARE.
+```
+
+## [react-dom@0.14.8](https://github.com/facebook/react)
+
+```
+BSD License
 
 For React software
 
@@ -7645,7 +10228,14 @@ LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON
 ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
 SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-</pre></section></article><article><h3><a href="https://github.com/bokuweb/react-resizable-box">react-resizable-box@1.4.1</a></h3><h4>by bokuweb</h4><section><pre class="license-text">The MIT License (MIT)
+
+```
+
+## [react-resizable-box@1.4.1](https://github.com/bokuweb/react-resizable-box)
+### by bokuweb
+
+```
+The MIT License (MIT)
 
 Copyright (c) 20154 bokuweb
 
@@ -7665,7 +10255,14 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.</pre></section></article><article><h3><a href="https://github.com/KyleAMathews/react-retina-image">react-retina-image@1.3.3</a></h3><h4>by Kyle Mathews</h4><section><pre class="license-text">The MIT License (MIT)
+SOFTWARE.
+```
+
+## [react-retina-image@1.3.3](https://github.com/KyleAMathews/react-retina-image)
+### by Kyle Mathews
+
+```
+The MIT License (MIT)
 
 Copyright (c) 2014 Kyle Mathews
 
@@ -7687,7 +10284,13 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-</pre></section></article><article><h3><a href="https://github.com/rackt/react-router">react-router@1.0.3</a></h3><section><pre class="license-text">The MIT License (MIT)
+
+```
+
+## [react-router@1.0.3](https://github.com/rackt/react-router)
+
+```
+The MIT License (MIT)
 
 Copyright (c) 2015 Ryan Florence, Michael Jackson
 
@@ -7708,7 +10311,13 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/facebook/react">react@0.14.8</a></h3><section><pre class="license-text">BSD License
+
+```
+
+## [react@0.14.8](https://github.com/facebook/react)
+
+```
+BSD License
 
 For React software
 
@@ -7739,7 +10348,14 @@ LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON
 ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
 SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-</pre></section></article><article><h3><a href="https://github.com/isaacs/readable-stream">readable-stream@0.0.4</a></h3><h4>by Isaac Z. Schlueter</h4><section><pre class="license-text">Copyright (c) Isaac Z. Schlueter ("Author")
+
+```
+
+## [readable-stream@0.0.4](https://github.com/isaacs/readable-stream)
+### by Isaac Z. Schlueter
+
+```
+Copyright (c) Isaac Z. Schlueter ("Author")
 All rights reserved.
 
 The BSD License
@@ -7766,7 +10382,14 @@ BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY,
 WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE
 OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN
 IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-</pre></section></article><article><h3><a href="https://github.com/isaacs/readable-stream">readable-stream@1.0.33</a></h3><h4>by Isaac Z. Schlueter</h4><section><pre class="license-text">Copyright Joyent, Inc. and other Node contributors. All rights reserved.
+
+```
+
+## [readable-stream@1.0.33](https://github.com/isaacs/readable-stream)
+### by Isaac Z. Schlueter
+
+```
+Copyright Joyent, Inc. and other Node contributors. All rights reserved.
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to
 deal in the Software without restriction, including without limitation the
@@ -7784,7 +10407,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
 IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/isaacs/readable-stream">readable-stream@1.0.34</a></h3><h4>by Isaac Z. Schlueter</h4><section><pre class="license-text">Copyright Joyent, Inc. and other Node contributors. All rights reserved.
+
+```
+
+## [readable-stream@1.0.34](https://github.com/isaacs/readable-stream)
+### by Isaac Z. Schlueter
+
+```
+Copyright Joyent, Inc. and other Node contributors. All rights reserved.
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to
 deal in the Software without restriction, including without limitation the
@@ -7802,7 +10432,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
 IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/isaacs/readable-stream">readable-stream@1.1.14</a></h3><h4>by Isaac Z. Schlueter</h4><section><pre class="license-text">Copyright Joyent, Inc. and other Node contributors. All rights reserved.
+
+```
+
+## [readable-stream@1.1.14](https://github.com/isaacs/readable-stream)
+### by Isaac Z. Schlueter
+
+```
+Copyright Joyent, Inc. and other Node contributors. All rights reserved.
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to
 deal in the Software without restriction, including without limitation the
@@ -7820,7 +10457,13 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
 IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/nodejs/readable-stream">readable-stream@2.0.6</a></h3><section><pre class="license-text">Copyright Joyent, Inc. and other Node contributors. All rights reserved.
+
+```
+
+## [readable-stream@2.0.6](https://github.com/nodejs/readable-stream)
+
+```
+Copyright Joyent, Inc. and other Node contributors. All rights reserved.
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to
 deal in the Software without restriction, including without limitation the
@@ -7838,7 +10481,13 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
 IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/nodejs/readable-stream">readable-stream@2.1.2</a></h3><section><pre class="license-text">Copyright Joyent, Inc. and other Node contributors. All rights reserved.
+
+```
+
+## [readable-stream@2.1.2](https://github.com/nodejs/readable-stream)
+
+```
+Copyright Joyent, Inc. and other Node contributors. All rights reserved.
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to
 deal in the Software without restriction, including without limitation the
@@ -7856,7 +10505,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
 IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/benjamn/recast">recast@0.10.43</a></h3><h4>by Ben Newman</h4><section><pre class="license-text">Copyright (c) 2012 Ben Newman <bn@cs.stanford.edu>
+
+```
+
+## [recast@0.10.43](https://github.com/benjamn/recast)
+### by Ben Newman
+
+```
+Copyright (c) 2012 Ben Newman <bn@cs.stanford.edu>
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
@@ -7876,7 +10532,29 @@ IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
 CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
 TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
 SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/mathiasbynens/regenerate">regenerate@1.3.1</a></h3><h4>by Mathias Bynens</h4><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/facebook/regenerator/tree/master/packages/regenerator-runtime">regenerator-runtime@0.9.5</a></h3><h4>by Ben Newman</h4><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/mathiasbynens/regexpu-core">regexpu-core@2.0.0</a></h3><h4>by Mathias Bynens</h4><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/d10/regjsgen">regjsgen@0.2.0</a></h3><h4>by Benjamin Tan</h4><section><pre class="license-text">Copyright 2014 Benjamin Tan <demoneaux@gmail.com> (https://d10.github.io/)
+
+```
+
+## [regenerate@1.3.1](https://github.com/mathiasbynens/regenerate)
+### by Mathias Bynens
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [regenerator-runtime@0.9.5](https://github.com/facebook/regenerator/tree/master/packages/regenerator-runtime)
+### by Ben Newman
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [regexpu-core@2.0.0](https://github.com/mathiasbynens/regexpu-core)
+### by Mathias Bynens
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [regjsgen@0.2.0](https://github.com/d10/regjsgen)
+### by Benjamin Tan
+
+```
+Copyright 2014 Benjamin Tan <demoneaux@gmail.com> (https://d10.github.io/)
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
@@ -7896,7 +10574,14 @@ NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
 LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
 OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
 WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/jviereck/regjsparser">regjsparser@0.1.5</a></h3><h4>by 'Julian Viereck'</h4><section><pre class="license-text">Redistribution and use in source and binary forms, with or without
+
+```
+
+## [regjsparser@0.1.5](https://github.com/jviereck/regjsparser)
+### by 'Julian Viereck'
+
+```
+Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are met:
 
   * Redistributions of source code must retain the above copyright
@@ -7915,7 +10600,14 @@ LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND
 ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF
 THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-</pre></section></article><article><h3><a href="https://github.com/sindresorhus/repeating">repeating@1.1.3</a></h3><h4>by Sindre Sorhus</h4><section><pre class="license-text">The MIT License (MIT)
+
+```
+
+## [repeating@1.1.3](https://github.com/sindresorhus/repeating)
+### by Sindre Sorhus
+
+```
+The MIT License (MIT)
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
@@ -7936,7 +10628,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/IndigoUnited/node-request-progress">request-progress@0.3.1</a></h3><h4>by IndigoUnited</h4><section><pre class="license-text">Copyright (c) 2012 IndigoUnited
+
+```
+
+## [request-progress@0.3.1](https://github.com/IndigoUnited/node-request-progress)
+### by IndigoUnited
+
+```
+Copyright (c) 2012 IndigoUnited
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -7954,7 +10653,14 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE.</pre></section></article><article><h3><a href="https://github.com/mikeal/request">request@2.40.0</a></h3><h4>by Mikeal Rogers</h4><section><pre class="license-text">Apache License
+THE SOFTWARE.
+```
+
+## [request@2.40.0](https://github.com/mikeal/request)
+### by Mikeal Rogers
+
+```
+Apache License
 
 Version 2.0, January 2004
 
@@ -8008,7 +10714,14 @@ If the Work includes a "NOTICE" text file as part of its distribution, then any 
 
 9. Accepting Warranty or Additional Liability. While redistributing the Work or Derivative Works thereof, You may choose to offer, and charge a fee for, acceptance of support, warranty, indemnity, or other liability obligations and/or rights consistent with this License. However, in accepting such obligations, You may act only on Your own behalf and on Your sole responsibility, not on behalf of any other Contributor, and only if You agree to indemnify, defend, and hold each Contributor harmless for any liability incurred by, or claims asserted against, such Contributor by reason of your accepting any such warranty or additional liability.
 
-END OF TERMS AND CONDITIONS</pre></section></article><article><h3><a href="https://github.com/request/request">request@2.67.0</a></h3><h4>by Mikeal Rogers</h4><section><pre class="license-text">Apache License
+END OF TERMS AND CONDITIONS
+```
+
+## [request@2.67.0](https://github.com/request/request)
+### by Mikeal Rogers
+
+```
+Apache License
 
 Version 2.0, January 2004
 
@@ -8062,7 +10775,14 @@ If the Work includes a "NOTICE" text file as part of its distribution, then any 
 
 9. Accepting Warranty or Additional Liability. While redistributing the Work or Derivative Works thereof, You may choose to offer, and charge a fee for, acceptance of support, warranty, indemnity, or other liability obligations and/or rights consistent with this License. However, in accepting such obligations, You may act only on Your own behalf and on Your sole responsibility, not on behalf of any other Contributor, and only if You agree to indemnify, defend, and hold each Contributor harmless for any liability incurred by, or claims asserted against, such Contributor by reason of your accepting any such warranty or additional liability.
 
-END OF TERMS AND CONDITIONS</pre></section></article><article><h3><a href="https://github.com/request/request">request@2.72.0</a></h3><h4>by Mikeal Rogers</h4><section><pre class="license-text">Apache License
+END OF TERMS AND CONDITIONS
+```
+
+## [request@2.72.0](https://github.com/request/request)
+### by Mikeal Rogers
+
+```
+Apache License
 
 Version 2.0, January 2004
 
@@ -8116,7 +10836,14 @@ If the Work includes a "NOTICE" text file as part of its distribution, then any 
 
 9. Accepting Warranty or Additional Liability. While redistributing the Work or Derivative Works thereof, You may choose to offer, and charge a fee for, acceptance of support, warranty, indemnity, or other liability obligations and/or rights consistent with this License. However, in accepting such obligations, You may act only on Your own behalf and on Your sole responsibility, not on behalf of any other Contributor, and only if You agree to indemnify, defend, and hold each Contributor harmless for any liability incurred by, or claims asserted against, such Contributor by reason of your accepting any such warranty or additional liability.
 
-END OF TERMS AND CONDITIONS</pre></section></article><article><h3><a href="https://github.com/isaacs/rimraf">rimraf@2.2.8</a></h3><h4>by Isaac Z. Schlueter</h4><section><pre class="license-text">Copyright 2009, 2010, 2011 Isaac Z. Schlueter.
+END OF TERMS AND CONDITIONS
+```
+
+## [rimraf@2.2.8](https://github.com/isaacs/rimraf)
+### by Isaac Z. Schlueter
+
+```
+Copyright 2009, 2010, 2011 Isaac Z. Schlueter.
 All rights reserved.
 
 Permission is hereby granted, free of charge, to any person
@@ -8139,7 +10866,14 @@ HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
 WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/isaacs/rimraf">rimraf@2.5.2</a></h3><h4>by Isaac Z. Schlueter</h4><section><pre class="license-text">The ISC License
+
+```
+
+## [rimraf@2.5.2](https://github.com/isaacs/rimraf)
+### by Isaac Z. Schlueter
+
+```
+The ISC License
 
 Copyright (c) Isaac Z. Schlueter and Contributors
 
@@ -8154,7 +10888,14 @@ ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
 WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
 ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR
 IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/isaacs/rimraf">rimraf@2.5.3</a></h3><h4>by Isaac Z. Schlueter</h4><section><pre class="license-text">The ISC License
+
+```
+
+## [rimraf@2.5.3](https://github.com/isaacs/rimraf)
+### by Isaac Z. Schlueter
+
+```
+The ISC License
 
 Copyright (c) Isaac Z. Schlueter and Contributors
 
@@ -8169,7 +10910,14 @@ ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
 WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
 ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR
 IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/rollbar/node_rollbar">rollbar@0.6.2</a></h3><h4>by Rollbar, Inc.</h4><section><pre class="license-text">Copyright (c) 2014 Rollbar, Inc.
+
+```
+
+## [rollbar@0.6.2](https://github.com/rollbar/node_rollbar)
+### by Rollbar, Inc.
+
+```
+Copyright (c) 2014 Rollbar, Inc.
 
 MIT License
 
@@ -8191,7 +10939,13 @@ NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
 LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
 OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
 WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/atom/node-runas">runas@3.1.1</a></h3><section><pre class="license-text">Copyright (c) 2013 GitHub Inc.
+
+```
+
+## [runas@3.1.1](https://github.com/atom/node-runas)
+
+```
+Copyright (c) 2013 GitHub Inc.
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
@@ -8211,7 +10965,13 @@ NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
 LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
 OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
 WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/alexdavid/scope-eval">scope-eval@0.0.3</a></h3><section><pre class="license-text">The MIT License (MIT)
+
+```
+
+## [scope-eval@0.0.3](https://github.com/alexdavid/scope-eval)
+
+```
+The MIT License (MIT)
 
 Copyright (c) 2015 Alex David
 
@@ -8233,7 +10993,13 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-</pre></section></article><article><h3><a href="https://github.com/atom/scoped-property-store">scoped-property-store@0.17.0</a></h3><section><pre class="license-text">Copyright (c) 2014 GitHub Inc.
+
+```
+
+## [scoped-property-store@0.17.0](https://github.com/atom/scoped-property-store)
+
+```
+Copyright (c) 2014 GitHub Inc.
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
@@ -8253,7 +11019,13 @@ NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
 LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
 OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
 WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/atom/season">season@5.3.0</a></h3><section><pre class="license-text">Copyright (c) 2013 GitHub Inc.
+
+```
+
+## [season@5.3.0](https://github.com/atom/season)
+
+```
+Copyright (c) 2013 GitHub Inc.
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
@@ -8273,7 +11045,13 @@ NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
 LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
 OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
 WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/npm/node-semver">semver@4.3.6</a></h3><section><pre class="license-text">The ISC License
+
+```
+
+## [semver@4.3.6](https://github.com/npm/node-semver)
+
+```
+The ISC License
 
 Copyright (c) Isaac Z. Schlueter and Contributors
 
@@ -8288,7 +11066,13 @@ ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
 WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
 ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR
 IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/npm/node-semver">semver@5.1.0</a></h3><section><pre class="license-text">The ISC License
+
+```
+
+## [semver@5.1.0](https://github.com/npm/node-semver)
+
+```
+The ISC License
 
 Copyright (c) Isaac Z. Schlueter and Contributors
 
@@ -8303,7 +11087,13 @@ ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
 WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
 ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR
 IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/npm/node-semver">semver@5.1.1</a></h3><section><pre class="license-text">The ISC License
+
+```
+
+## [semver@5.1.1](https://github.com/npm/node-semver)
+
+```
+The ISC License
 
 Copyright (c) Isaac Z. Schlueter and Contributors
 
@@ -8318,7 +11108,13 @@ ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
 WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
 ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR
 IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/npm/node-semver">semver@5.2.0</a></h3><section><pre class="license-text">The ISC License
+
+```
+
+## [semver@5.2.0](https://github.com/npm/node-semver)
+
+```
+The ISC License
 
 Copyright (c) Isaac Z. Schlueter and Contributors
 
@@ -8333,7 +11129,13 @@ ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
 WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
 ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR
 IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/atom/service-hub">service-hub@0.7.0</a></h3><section><pre class="license-text">Copyright (c) 2014 GitHub Inc.
+
+```
+
+## [service-hub@0.7.0](https://github.com/atom/service-hub)
+
+```
+Copyright (c) 2014 GitHub Inc.
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
@@ -8353,7 +11155,14 @@ NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
 LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
 OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
 WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/sindresorhus/shebang-regex">shebang-regex@1.0.0</a></h3><h4>by Sindre Sorhus</h4><section><pre class="license-text">The MIT License (MIT)
+
+```
+
+## [shebang-regex@1.0.0](https://github.com/sindresorhus/shebang-regex)
+### by Sindre Sorhus
+
+```
+The MIT License (MIT)
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
@@ -8374,7 +11183,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/dylang/shortid">shortid@2.2.6</a></h3><h4>by Dylan Greene</h4><section><pre class="license-text">Copyright (c) Dylan Greene
+
+```
+
+## [shortid@2.2.6](https://github.com/dylang/shortid)
+### by Dylan Greene
+
+```
+Copyright (c) Dylan Greene
 All rights reserved.
 
 MIT +no-false-attribs License
@@ -8407,7 +11223,14 @@ NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
 HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
 WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.</pre></section></article><article><h3><a href="https://github.com/isaacs/sigmund">sigmund@1.0.1</a></h3><h4>by Isaac Z. Schlueter</h4><section><pre class="license-text">The ISC License
+OTHER DEALINGS IN THE SOFTWARE.
+```
+
+## [sigmund@1.0.1](https://github.com/isaacs/sigmund)
+### by Isaac Z. Schlueter
+
+```
+The ISC License
 
 Copyright (c) Isaac Z. Schlueter and Contributors
 
@@ -8422,7 +11245,14 @@ ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
 WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
 ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR
 IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/feross/simple-get">simple-get@1.4.3</a></h3><h4>by Feross Aboukhadijeh</h4><section><pre class="license-text">The MIT License (MIT)
+
+```
+
+## [simple-get@1.4.3](https://github.com/feross/simple-get)
+### by Feross Aboukhadijeh
+
+```
+The MIT License (MIT)
 
 Copyright (c) Feross Aboukhadijeh
 
@@ -8442,7 +11272,14 @@ FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
 COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
 IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
 CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/creationix/simple-mime">simple-mime@0.1.0</a></h3><h4>by Tim Caswell</h4><section><pre class="license-text">The MIT License (MIT)
+
+```
+
+## [simple-mime@0.1.0](https://github.com/creationix/simple-mime)
+### by Tim Caswell
+
+```
+The MIT License (MIT)
 
 Copyright (c) 2010-2014 Tim Caswell
 
@@ -8462,7 +11299,19 @@ FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
 COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
 IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
 CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/sindresorhus/slash">slash@1.0.0</a></h3><h4>by Sindre Sorhus</h4><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/hueniverse/sntp">sntp@0.2.4</a></h3><h4>by Eran Hammer</h4><section><pre class="license-text">Copyright (c) 2012-2013, Eran Hammer.
+
+```
+
+## [slash@1.0.0](https://github.com/sindresorhus/slash)
+### by Sindre Sorhus
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [sntp@0.2.4](https://github.com/hueniverse/sntp)
+### by Eran Hammer
+
+```
+Copyright (c) 2012-2013, Eran Hammer.
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
@@ -8486,7 +11335,14 @@ LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND
 ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
 SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-</pre></section></article><article><h3><a href="https://github.com/hueniverse/sntp">sntp@1.0.9</a></h3><h4>by Eran Hammer</h4><section><pre class="license-text">Copyright (c) 2012-2014, Eran Hammer and other contributors.
+
+```
+
+## [sntp@1.0.9](https://github.com/hueniverse/sntp)
+### by Eran Hammer
+
+```
+Copyright (c) 2012-2014, Eran Hammer and other contributors.
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
@@ -8514,7 +11370,13 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
                                   *   *   *
 
 The complete list of contributors can be found at: https://github.com/hueniverse/sntp/graphs/contributors
-</pre></section></article><article><h3><a href="https://github.com/evanw/node-source-map-support">source-map-support@0.2.10</a></h3><section><pre class="license-text">The MIT License (MIT)
+
+```
+
+## [source-map-support@0.2.10](https://github.com/evanw/node-source-map-support)
+
+```
+The MIT License (MIT)
 
 Copyright (c) 2014 Evan Wallace
 
@@ -8535,7 +11397,13 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/evanw/node-source-map-support">source-map-support@0.4.2</a></h3><section><pre class="license-text">The MIT License (MIT)
+
+```
+
+## [source-map-support@0.4.2](https://github.com/evanw/node-source-map-support)
+
+```
+The MIT License (MIT)
 
 Copyright (c) 2014 Evan Wallace
 
@@ -8556,7 +11424,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/mozilla/source-map">source-map@0.1.31</a></h3><h4>by Nick Fitzgerald</h4><section><pre class="license-text">
+
+```
+
+## [source-map@0.1.31](https://github.com/mozilla/source-map)
+### by Nick Fitzgerald
+
+```
+
 Copyright (c) 2009-2011, Mozilla Foundation and contributors
 All rights reserved.
 
@@ -8584,7 +11459,14 @@ SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
 CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
 OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-</pre></section></article><article><h3><a href="https://github.com/mozilla/source-map">source-map@0.1.32</a></h3><h4>by Nick Fitzgerald</h4><section><pre class="license-text">
+
+```
+
+## [source-map@0.1.32](https://github.com/mozilla/source-map)
+### by Nick Fitzgerald
+
+```
+
 Copyright (c) 2009-2011, Mozilla Foundation and contributors
 All rights reserved.
 
@@ -8612,7 +11494,14 @@ SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
 CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
 OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-</pre></section></article><article><h3><a href="https://github.com/mozilla/source-map">source-map@0.1.43</a></h3><h4>by Nick Fitzgerald</h4><section><pre class="license-text">
+
+```
+
+## [source-map@0.1.43](https://github.com/mozilla/source-map)
+### by Nick Fitzgerald
+
+```
+
 Copyright (c) 2009-2011, Mozilla Foundation and contributors
 All rights reserved.
 
@@ -8640,7 +11529,19 @@ SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
 CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
 OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-</pre></section></article><article><h3><a href="https://github.com/mozilla/source-map">source-map@0.4.4</a></h3><h4>by Nick Fitzgerald</h4><section><div><a href="https://opensource.org/licenses/BSD-3-Clause">BSD-3-Clause License</a></div></section></article><article><h3><a href="https://github.com/mozilla/source-map">source-map@0.5.6</a></h3><h4>by Nick Fitzgerald</h4><section><pre class="license-text">
+
+```
+
+## [source-map@0.4.4](https://github.com/mozilla/source-map)
+### by Nick Fitzgerald
+
+[BSD-3-Clause License](https://opensource.org/licenses/BSD-3-Clause)
+
+## [source-map@0.5.6](https://github.com/mozilla/source-map)
+### by Nick Fitzgerald
+
+```
+
 Copyright (c) 2009-2011, Mozilla Foundation and contributors
 All rights reserved.
 
@@ -8668,7 +11569,14 @@ SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
 CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
 OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-</pre></section></article><article><h3><a href="https://github.com/satazor/SparkMD5">spark-md5@0.0.5</a></h3><h4>by André Cruz</h4><section><pre class="license-text">            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
+
+```
+
+## [spark-md5@0.0.5](https://github.com/satazor/SparkMD5)
+### by André Cruz
+
+```
+            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
                     Version 2, December 2004
 
  Copyright (C) 2004 Sam Hocevar <sam@hocevar.net>
@@ -8680,7 +11588,14 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
             DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
    TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
 
-  0. You just DO WHAT THE FUCK YOU WANT TO.</pre></section></article><article><h3><a href="https://github.com/satazor/js-spark-md5">spark-md5@2.0.2</a></h3><h4>by André Cruz</h4><section><pre class="license-text">            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
+  0. You just DO WHAT THE FUCK YOU WANT TO.
+```
+
+## [spark-md5@2.0.2](https://github.com/satazor/js-spark-md5)
+### by André Cruz
+
+```
+            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
                     Version 2, December 2004
 
  Copyright (C) 2015 André Cruz <amdfcruz@gmail.com>
@@ -8693,7 +11608,14 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
    TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
 
   0. You just DO WHAT THE FUCK YOU WANT TO.
-</pre></section></article><article><h3><a href="https://github.com/kemitchell/spdx-correct.js">spdx-correct@1.0.2</a></h3><h4>by Kyle E. Mitchell</h4><section><pre class="license-text">SPDX:Apache-2.0
+
+```
+
+## [spdx-correct@1.0.2](https://github.com/kemitchell/spdx-correct.js)
+### by Kyle E. Mitchell
+
+```
+SPDX:Apache-2.0
 
 Apache License
 
@@ -8750,7 +11672,19 @@ You may add Your own copyright statement to Your modifications and may provide a
 8. Limitation of Liability. In no event and under no legal theory, whether in tort (including negligence), contract, or otherwise, unless required by applicable law (such as deliberate and grossly negligent acts) or agreed to in writing, shall any Contributor be liable to You for damages, including any direct, indirect, special, incidental, or consequential damages of any character arising as a result of this License or out of the use or inability to use the Work (including but not limited to damages for loss of goodwill, work stoppage, computer failure or malfunction, or any and all other commercial damages or losses), even if such Contributor has been advised of the possibility of such damages.
 
 9. Accepting Warranty or Additional Liability. While redistributing the Work or Derivative Works thereof, You may choose to offer, and charge a fee for, acceptance of support, warranty, indemnity, or other liability obligations and/or rights consistent with this License. However, in accepting such obligations, You may act only on Your own behalf and on Your sole responsibility, not on behalf of any other Contributor, and only if You agree to indemnify, defend, and hold each Contributor harmless for any liability incurred by, or claims asserted against, such Contributor by reason of your accepting any such warranty or additional liability.
-</pre></section></article><article><h3><a href="https://github.com/kemitchell/spdx-exceptions.json">spdx-exceptions@1.0.4</a></h3><h4>by The Linux Foundation</h4><section><div>CC-BY-3.0</div></section></article><article><h3><a href="https://github.com/kemitchell/spdx-expression-parse.js">spdx-expression-parse@1.0.2</a></h3><h4>by Kyle E. Mitchell</h4><section><pre class="license-text">The MIT License
+
+```
+
+## [spdx-exceptions@1.0.4](https://github.com/kemitchell/spdx-exceptions.json)
+### by The Linux Foundation
+
+CC-BY-3.0
+
+## [spdx-expression-parse@1.0.2](https://github.com/kemitchell/spdx-expression-parse.js)
+### by Kyle E. Mitchell
+
+```
+The MIT License
 
 Copyright (c) 2015 Kyle E. Mitchell and other contributors
 
@@ -8772,7 +11706,14 @@ IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
 CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
 TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
 SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/shinnn/spdx-license-ids">spdx-license-ids@1.2.1</a></h3><h4>by Shinnosuke Watanabe</h4><section><pre class="license-text">This is free and unencumbered software released into the public domain.
+
+```
+
+## [spdx-license-ids@1.2.1](https://github.com/shinnn/spdx-license-ids)
+### by Shinnosuke Watanabe
+
+```
+This is free and unencumbered software released into the public domain.
 
 Anyone is free to copy, modify, publish, use, compile, sell, or
 distribute this software, either in source code form or as a compiled
@@ -8796,7 +11737,14 @@ ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
 
 For more information, please refer to <http://unlicense.org/>
-</pre></section></article><article><h3><a href="https://github.com/alexei/sprintf.js">sprintf-js@1.0.3</a></h3><h4>by Alexandru Marasteanu</h4><section><pre class="license-text">Copyright (c) 2007-2014, Alexandru Marasteanu <hello [at) alexei (dot] ro>
+
+```
+
+## [sprintf-js@1.0.3](https://github.com/alexei/sprintf.js)
+### by Alexandru Marasteanu
+
+```
+Copyright (c) 2007-2014, Alexandru Marasteanu <hello [at) alexei (dot] ro>
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
@@ -8820,7 +11768,14 @@ LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND
 ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
 SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-</pre></section></article><article><h3><a href="https://github.com/mapbox/node-sqlite3">sqlite3@3.1.4</a></h3><h4>by MapBox</h4><section><pre class="license-text">Copyright (c) MapBox
+
+```
+
+## [sqlite3@3.1.4](https://github.com/mapbox/node-sqlite3)
+### by MapBox
+
+```
+Copyright (c) MapBox
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification,
@@ -8844,7 +11799,14 @@ ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
 LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON
 ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
-SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.</pre></section></article><article><h3><a href="https://github.com/arekinath/node-sshpk">sshpk@1.8.3</a></h3><h4>by Joyent, Inc</h4><section><pre class="license-text">Copyright Joyent, Inc. All rights reserved.
+SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+```
+
+## [sshpk@1.8.3](https://github.com/arekinath/node-sshpk)
+### by Joyent, Inc
+
+```
+Copyright Joyent, Inc. All rights reserved.
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to
 deal in the Software without restriction, including without limitation the
@@ -8862,7 +11824,19 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
 IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/aroneous/stream-consume">stream-consume@0.1.0</a></h3><h4>by Aron Nopanen</h4><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/kevva/strict-uri-encode">strict-uri-encode@1.1.0</a></h3><h4>by Kevin Mårtensson</h4><section><pre class="license-text">The MIT License (MIT)
+
+```
+
+## [stream-consume@0.1.0](https://github.com/aroneous/stream-consume)
+### by Aron Nopanen
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [strict-uri-encode@1.1.0](https://github.com/kevva/strict-uri-encode)
+### by Kevin Mårtensson
+
+```
+The MIT License (MIT)
 
 Copyright (c) Kevin Mårtensson <kevinmartensson@gmail.com> (github.com/kevva)
 
@@ -8883,7 +11857,13 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/rvagg/string_decoder">string_decoder@0.10.31</a></h3><section><pre class="license-text">Copyright Joyent, Inc. and other Node contributors.
+
+```
+
+## [string_decoder@0.10.31](https://github.com/rvagg/string_decoder)
+
+```
+Copyright Joyent, Inc. and other Node contributors.
 
 Permission is hereby granted, free of charge, to any person obtaining a
 copy of this software and associated documentation files (the
@@ -8903,7 +11883,14 @@ NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
 DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR
 OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE
 USE OR OTHER DEALINGS IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/mhart/StringStream">stringstream@0.0.5</a></h3><h4>by Michael Hart</h4><section><pre class="license-text">Copyright (c) 2012 Michael Hart (michael.hart.au@gmail.com)
+
+```
+
+## [stringstream@0.0.5](https://github.com/mhart/StringStream)
+### by Michael Hart
+
+```
+Copyright (c) 2012 Michael Hart (michael.hart.au@gmail.com)
 
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation
@@ -8925,7 +11912,14 @@ HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
 WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/chalk/strip-ansi">strip-ansi@3.0.1</a></h3><h4>by Sindre Sorhus</h4><section><pre class="license-text">The MIT License (MIT)
+
+```
+
+## [strip-ansi@3.0.1](https://github.com/chalk/strip-ansi)
+### by Sindre Sorhus
+
+```
+The MIT License (MIT)
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
@@ -8946,7 +11940,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/sindresorhus/strip-json-comments">strip-json-comments@1.0.4</a></h3><h4>by Sindre Sorhus</h4><section><pre class="license-text">The MIT License (MIT)
+
+```
+
+## [strip-json-comments@1.0.4](https://github.com/sindresorhus/strip-json-comments)
+### by Sindre Sorhus
+
+```
+The MIT License (MIT)
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
@@ -8967,7 +11968,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/nolanlawson/sublevel-pouchdb">sublevel-pouchdb@1.0.1</a></h3><h4>by Dominic Tarr</h4><section><pre class="license-text">Copyright (c) 2013 Dominic Tarr
+
+```
+
+## [sublevel-pouchdb@1.0.1](https://github.com/nolanlawson/sublevel-pouchdb)
+### by Dominic Tarr
+
+```
+Copyright (c) 2013 Dominic Tarr
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -8986,7 +11994,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/chalk/supports-color">supports-color@2.0.0</a></h3><h4>by Sindre Sorhus</h4><section><pre class="license-text">The MIT License (MIT)
+
+```
+
+## [supports-color@2.0.0](https://github.com/chalk/supports-color)
+### by Sindre Sorhus
+
+```
+The MIT License (MIT)
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
@@ -9007,7 +12022,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/mafintosh/tar-fs">tar-fs@1.13.0</a></h3><h4>by Mathias Buus</h4><section><pre class="license-text">The MIT License (MIT)
+
+```
+
+## [tar-fs@1.13.0](https://github.com/mafintosh/tar-fs)
+### by Mathias Buus
+
+```
+The MIT License (MIT)
 
 Copyright (c) 2014 Mathias Buus
 
@@ -9027,7 +12049,13 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE.</pre></section></article><article><h3><a href="https://github.com/ForbesLindesay/tar-pack">tar-pack@3.1.3</a></h3><section><pre class="license-text">Copyright (c) 2014, Forbes Lindesay
+THE SOFTWARE.
+```
+
+## [tar-pack@3.1.3](https://github.com/ForbesLindesay/tar-pack)
+
+```
+Copyright (c) 2014, Forbes Lindesay
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
@@ -9050,7 +12078,14 @@ SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
 CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
 OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-</pre></section></article><article><h3><a href="https://github.com/mafintosh/tar-stream">tar-stream@1.5.2</a></h3><h4>by Mathias Buus</h4><section><pre class="license-text">The MIT License (MIT)
+
+```
+
+## [tar-stream@1.5.2](https://github.com/mafintosh/tar-stream)
+### by Mathias Buus
+
+```
+The MIT License (MIT)
 
 Copyright (c) 2014 Mathias Buus
 
@@ -9070,7 +12105,14 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE.</pre></section></article><article><h3><a href="https://github.com/isaacs/node-tar">tar@2.2.1</a></h3><h4>by Isaac Z. Schlueter</h4><section><pre class="license-text">The ISC License
+THE SOFTWARE.
+```
+
+## [tar@2.2.1](https://github.com/isaacs/node-tar)
+### by Isaac Z. Schlueter
+
+```
+The ISC License
 Copyright (c) Isaac Z. Schlueter and Contributors
 Permission to use, copy, modify, and/or distribute this software for any
 purpose with or without fee is hereby granted, provided that the above
@@ -9082,7 +12124,18 @@ ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
 WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
 ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR
 IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/component/throttle">throttleit@0.0.2</a></h3><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/rvagg/through2">through2@0.6.5</a></h3><h4>by Rod Vagg</h4><section><pre class="license-text">Copyright 2013, Rod Vagg (the "Original Author")
+
+```
+
+## [throttleit@0.0.2](https://github.com/component/throttle)
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [through2@0.6.5](https://github.com/rvagg/through2)
+### by Rod Vagg
+
+```
+Copyright 2013, Rod Vagg (the "Original Author")
 All rights reserved.
 
 MIT +no-false-attribs License
@@ -9120,7 +12173,14 @@ OTHER DEALINGS IN THE SOFTWARE.
 
 Except where noted, this license applies to any and all software
 programs and associated documentation files created by the
-Original Author, when distributed with the Software.</pre></section></article><article><h3><a href="https://github.com/rvagg/through2">through2@2.0.1</a></h3><h4>by Rod Vagg</h4><section><pre class="license-text">Copyright 2013, Rod Vagg (the "Original Author")
+Original Author, when distributed with the Software.
+```
+
+## [through2@2.0.1](https://github.com/rvagg/through2)
+### by Rod Vagg
+
+```
+Copyright 2013, Rod Vagg (the "Original Author")
 All rights reserved.
 
 MIT +no-false-attribs License
@@ -9158,7 +12218,14 @@ OTHER DEALINGS IN THE SOFTWARE.
 
 Except where noted, this license applies to any and all software
 programs and associated documentation files created by the
-Original Author, when distributed with the Software.</pre></section></article><article><h3><a href="https://github.com/dominictarr/through">through@2.3.8</a></h3><h4>by Dominic Tarr</h4><section><pre class="license-text">The MIT License
+Original Author, when distributed with the Software.
+```
+
+## [through@2.3.8](https://github.com/dominictarr/through)
+### by Dominic Tarr
+
+```
+The MIT License
 
 Copyright (c) 2011 Dominic Tarr
 
@@ -9182,7 +12249,14 @@ IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR
 ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, 
 TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE 
 SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/nolanlawson/tiny-queue">tiny-queue@0.2.0</a></h3><h4>by Nolan Lawson</h4><section><pre class="license-text">Apache License
+
+```
+
+## [tiny-queue@0.2.0](https://github.com/nolanlawson/tiny-queue)
+### by Nolan Lawson
+
+```
+Apache License
                            Version 2.0, January 2004
                         http://www.apache.org/licenses/
 
@@ -9382,7 +12456,14 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
    distributed under the License is distributed on an "AS IS" BASIS,
    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
    See the License for the specific language governing permissions and
-   limitations under the License.</pre></section></article><article><h3><a href="https://github.com/nolanlawson/tiny-queue">tiny-queue@0.2.1</a></h3><h4>by Nolan Lawson</h4><section><pre class="license-text">Apache License
+   limitations under the License.
+```
+
+## [tiny-queue@0.2.1](https://github.com/nolanlawson/tiny-queue)
+### by Nolan Lawson
+
+```
+Apache License
                            Version 2.0, January 2004
                         http://www.apache.org/licenses/
 
@@ -9582,7 +12663,14 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
    distributed under the License is distributed on an "AS IS" BASIS,
    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
    See the License for the specific language governing permissions and
-   limitations under the License.</pre></section></article><article><h3><a href="https://github.com/sindresorhus/to-fast-properties">to-fast-properties@1.0.2</a></h3><h4>by Sindre Sorhus</h4><section><pre class="license-text">The MIT License (MIT)
+   limitations under the License.
+```
+
+## [to-fast-properties@1.0.2](https://github.com/sindresorhus/to-fast-properties)
+### by Sindre Sorhus
+
+```
+The MIT License (MIT)
 
 Copyright (c) 2014 Petka Antonov
               2015 Sindre Sorhus
@@ -9604,7 +12692,13 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/hapijs/topo">topo@2.0.1</a></h3><section><pre class="license-text">Copyright (c) 2012-2016, Project contributors.
+
+```
+
+## [topo@2.0.1](https://github.com/hapijs/topo)
+
+```
+Copyright (c) 2012-2016, Project contributors.
 Copyright (c) 2012-2014, Walmart.
 All rights reserved.
 
@@ -9633,7 +12727,14 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
                                   *   *   *
 
 The complete list of contributors can be found at: https://github.com/hapijs/topo/graphs/contributors
-</pre></section></article><article><h3><a href="https://github.com/SalesforceEng/tough-cookie">tough-cookie@2.2.2</a></h3><h4>by Jeremy Stashewsky</h4><section><pre class="license-text">Copyright (c) 2015, Salesforce.com, Inc.
+
+```
+
+## [tough-cookie@2.2.2](https://github.com/SalesforceEng/tough-cookie)
+### by Jeremy Stashewsky
+
+```
+Copyright (c) 2015, Salesforce.com, Inc.
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
@@ -9660,7 +12761,24 @@ that file reads as follows:
   // This Source Code Form is subject to the terms of the Mozilla Public
   // License, v. 2.0. If a copy of the MPL was not distributed with this
   // file, You can obtain one at http://mozilla.org/MPL/2.0/.
-</pre></section></article><article><h3><a href="https://github.com/goatslacker/transmitter">transmitter@2.0.0</a></h3><h4>by Josh Perez</h4><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/yuanchuan/traverse-chain">traverse-chain@0.1.0</a></h3><h4>by yuanchuan</h4><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/mikeal/tunnel-agent">tunnel-agent@0.4.3</a></h3><h4>by Mikeal Rogers</h4><section><pre class="license-text">Apache License
+
+```
+
+## [transmitter@2.0.0](https://github.com/goatslacker/transmitter)
+### by Josh Perez
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [traverse-chain@0.1.0](https://github.com/yuanchuan/traverse-chain)
+### by yuanchuan
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [tunnel-agent@0.4.3](https://github.com/mikeal/tunnel-agent)
+### by Mikeal Rogers
+
+```
+Apache License
 
 Version 2.0, January 2004
 
@@ -9714,7 +12832,28 @@ If the Work includes a "NOTICE" text file as part of its distribution, then any 
 
 9. Accepting Warranty or Additional Liability. While redistributing the Work or Derivative Works thereof, You may choose to offer, and charge a fee for, acceptance of support, warranty, indemnity, or other liability obligations and/or rights consistent with this License. However, in accepting such obligations, You may act only on Your own behalf and on Your sole responsibility, not on behalf of any other Contributor, and only if You agree to indemnify, defend, and hold each Contributor harmless for any liability incurred by, or claims asserted against, such Contributor by reason of your accepting any such warranty or additional liability.
 
-END OF TERMS AND CONDITIONS</pre></section></article><article><h3><a href="https://github.com/dchest/tweetnacl-js">tweetnacl@0.13.3</a></h3><h4>by TweetNaCl-js contributors</h4><section><div>Public domain</div></section></article><article><h3><a href="https://github.com/faisalman/ua-parser-js">ua-parser-js@0.7.10</a></h3><h4>by Faisal Salman</h4><section><div>GPLv2,MIT</div></section></article><article><h3><a href="https://github.com/markdown-it/uc.micro">uc.micro@1.0.2</a></h3><section><div>WTFPL</div></section></article><article><h3><a href="https://github.com/isaacs/uid-number">uid-number@0.0.6</a></h3><h4>by Isaac Z. Schlueter</h4><section><pre class="license-text">The ISC License
+END OF TERMS AND CONDITIONS
+```
+
+## [tweetnacl@0.13.3](https://github.com/dchest/tweetnacl-js)
+### by TweetNaCl-js contributors
+
+Public domain
+
+## [ua-parser-js@0.7.10](https://github.com/faisalman/ua-parser-js)
+### by Faisal Salman
+
+GPLv2,MIT
+
+## [uc.micro@1.0.2](https://github.com/markdown-it/uc.micro)
+
+WTFPL
+
+## [uid-number@0.0.6](https://github.com/isaacs/uid-number)
+### by Isaac Z. Schlueter
+
+```
+The ISC License
 
 Copyright (c) Isaac Z. Schlueter
 
@@ -9729,7 +12868,13 @@ ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
 WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
 ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR
 IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/atom/underscore-plus">underscore-plus@1.6.6</a></h3><section><pre class="license-text">Copyright (c) 2013 GitHub Inc.
+
+```
+
+## [underscore-plus@1.6.6](https://github.com/atom/underscore-plus)
+
+```
+Copyright (c) 2013 GitHub Inc.
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
@@ -9749,7 +12894,18 @@ NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
 LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
 OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
 WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/epeli/underscore.string">underscore.string@2.4.0</a></h3><section><div><a href="https://opensource.org/licenses/MIT">MIT License</a></div></section></article><article><h3><a href="https://github.com/jashkenas/underscore">underscore@1.6.0</a></h3><h4>by Jeremy Ashkenas</h4><section><pre class="license-text">Copyright (c) 2009-2014 Jeremy Ashkenas, DocumentCloud and Investigative
+
+```
+
+## [underscore.string@2.4.0](https://github.com/epeli/underscore.string)
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+## [underscore@1.6.0](https://github.com/jashkenas/underscore)
+### by Jeremy Ashkenas
+
+```
+Copyright (c) 2009-2014 Jeremy Ashkenas, DocumentCloud and Investigative
 Reporters & Editors
 
 Permission is hereby granted, free of charge, to any person
@@ -9772,7 +12928,14 @@ HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
 WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/jashkenas/underscore">underscore@1.7.0</a></h3><h4>by Jeremy Ashkenas</h4><section><pre class="license-text">Copyright (c) 2009-2014 Jeremy Ashkenas, DocumentCloud and Investigative
+
+```
+
+## [underscore@1.7.0](https://github.com/jashkenas/underscore)
+### by Jeremy Ashkenas
+
+```
+Copyright (c) 2009-2014 Jeremy Ashkenas, DocumentCloud and Investigative
 Reporters & Editors
 
 Permission is hereby granted, free of charge, to any person
@@ -9795,7 +12958,14 @@ HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
 WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/zertosh/unreachable-branch-transform">unreachable-branch-transform@0.2.3</a></h3><h4>by Andres Suarez</h4><section><pre class="license-text">The MIT License (MIT)
+
+```
+
+## [unreachable-branch-transform@0.2.3](https://github.com/zertosh/unreachable-branch-transform)
+### by Andres Suarez
+
+```
+The MIT License (MIT)
 
 Copyright (c) 2015 Andres Suarez
 
@@ -9804,7 +12974,14 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/zertosh/unreachable-branch-transform">unreachable-branch-transform@0.3.0</a></h3><h4>by Andres Suarez</h4><section><pre class="license-text">The MIT License (MIT)
+
+```
+
+## [unreachable-branch-transform@0.3.0](https://github.com/zertosh/unreachable-branch-transform)
+### by Andres Suarez
+
+```
+The MIT License (MIT)
 
 Copyright (c) 2015 Andres Suarez
 
@@ -9813,7 +12990,14 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/sindresorhus/unzip-response">unzip-response@1.0.0</a></h3><h4>by Sindre Sorhus</h4><section><pre class="license-text">`The MIT License (MIT)
+
+```
+
+## [unzip-response@1.0.0](https://github.com/sindresorhus/unzip-response)
+### by Sindre Sorhus
+
+```
+`The MIT License (MIT)
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
@@ -9834,7 +13018,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/bramstein/url-template">url-template@2.0.7</a></h3><h4>by Bram Stein</h4><section><pre class="license-text">Copyright (c) 2012-2014, Bram Stein
+
+```
+
+## [url-template@2.0.7](https://github.com/bramstein/url-template)
+### by Bram Stein
+
+```
+Copyright (c) 2012-2014, Bram Stein
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without 
@@ -9859,7 +13050,14 @@ DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY
 OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING 
 NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, 
 EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-</pre></section></article><article><h3><a href="https://github.com/sindresorhus/user-home">user-home@1.1.1</a></h3><h4>by Sindre Sorhus</h4><section><pre class="license-text">The MIT License (MIT)
+
+```
+
+## [user-home@1.1.1](https://github.com/sindresorhus/user-home)
+### by Sindre Sorhus
+
+```
+The MIT License (MIT)
 
 Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 
@@ -9880,7 +13078,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/TooTallNate/util-deprecate">util-deprecate@1.0.2</a></h3><h4>by Nathan Rajlich</h4><section><pre class="license-text">(The MIT License)
+
+```
+
+## [util-deprecate@1.0.2](https://github.com/TooTallNate/util-deprecate)
+### by Nathan Rajlich
+
+```
+(The MIT License)
 
 Copyright (c) 2014 Nathan Rajlich <nathan@tootallnate.net>
 
@@ -9904,7 +13109,14 @@ HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
 WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/kemitchell/validate-npm-package-license.js">validate-npm-package-license@3.0.1</a></h3><h4>by Kyle E. Mitchell</h4><section><pre class="license-text">SPDX:Apache-2.0
+
+```
+
+## [validate-npm-package-license@3.0.1](https://github.com/kemitchell/validate-npm-package-license.js)
+### by Kyle E. Mitchell
+
+```
+SPDX:Apache-2.0
 
 Apache License
 
@@ -10078,7 +13290,14 @@ only if You agree to indemnify, defend, and hold each Contributor
 harmless for any liability incurred by, or claims asserted against, such 
 Contributor by reason of your accepting any such warranty or additional 
 liability.
-</pre></section></article><article><h3><a href="https://github.com/chriso/validator.js">validator@4.9.0</a></h3><h4>by Chris O'Hara</h4><section><pre class="license-text">Copyright (c) 2016 Chris O'Hara <cohara87@gmail.com>
+
+```
+
+## [validator@4.9.0](https://github.com/chriso/validator.js)
+### by Chris O'Hara
+
+```
+Copyright (c) 2016 Chris O'Hara <cohara87@gmail.com>
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
@@ -10098,7 +13317,13 @@ NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
 LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
 OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
 WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/davepacheco/node-verror">verror@1.3.6</a></h3><section><pre class="license-text">Copyright (c) 2012, Joyent, Inc. All rights reserved.
+
+```
+
+## [verror@1.3.6](https://github.com/davepacheco/node-verror)
+
+```
+Copyright (c) 2012, Joyent, Inc. All rights reserved.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -10117,7 +13342,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE
-</pre></section></article><article><h3><a href="https://github.com/nolanlawson/vuvuzela">vuvuzela@1.0.3</a></h3><h4>by Nolan Lawson</h4><section><pre class="license-text">
+
+```
+
+## [vuvuzela@1.0.3](https://github.com/nolanlawson/vuvuzela)
+### by Nolan Lawson
+
+```
+
                                 Apache License
                           Version 2.0, January 2004
                        http://www.apache.org/licenses/
@@ -10319,7 +13551,14 @@ THE SOFTWARE
   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
   See the License for the specific language governing permissions and
   limitations under the License.
-</pre></section></article><article><h3><a href="https://github.com/soldair/node-walkdir">walkdir@0.0.7</a></h3><h4>by Ryan Day</h4><section><pre class="license-text">The MIT License (MIT)
+
+```
+
+## [walkdir@0.0.7](https://github.com/soldair/node-walkdir)
+### by Ryan Day
+
+```
+The MIT License (MIT)
 
 Copyright (c) 2012 Ryan Day
 
@@ -10329,7 +13568,14 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-</pre></section></article><article><h3><a href="https://github.com/r3dm/warning">warning@2.1.0</a></h3><h4>by Berkeley Martinez</h4><section><pre class="license-text">BSD License
+
+```
+
+## [warning@2.1.0](https://github.com/r3dm/warning)
+### by Berkeley Martinez
+
+```
+BSD License
 
 For React software
 
@@ -10360,7 +13606,14 @@ LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON
 ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
 SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-</pre></section></article><article><h3><a href="https://github.com/nolanlawson/node-websql">websql@0.4.4</a></h3><h4>by Nolan Lawson</h4><section><pre class="license-text">
+
+```
+
+## [websql@0.4.4](https://github.com/nolanlawson/node-websql)
+### by Nolan Lawson
+
+```
+
                                 Apache License
                           Version 2.0, January 2004
                        http://www.apache.org/licenses/
@@ -10562,7 +13815,13 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
   See the License for the specific language governing permissions and
   limitations under the License.
-</pre></section></article><article><h3><a href="https://github.com/github/fetch">whatwg-fetch@0.9.0</a></h3><section><pre class="license-text">Copyright (c) 2014-2015 GitHub, Inc.
+
+```
+
+## [whatwg-fetch@0.9.0](https://github.com/github/fetch)
+
+```
+Copyright (c) 2014-2015 GitHub, Inc.
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
@@ -10582,7 +13841,13 @@ NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
 LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
 OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
 WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/github/fetch">whatwg-fetch@1.0.0</a></h3><section><pre class="license-text">Copyright (c) 2014-2016 GitHub, Inc.
+
+```
+
+## [whatwg-fetch@1.0.0](https://github.com/github/fetch)
+
+```
+Copyright (c) 2014-2016 GitHub, Inc.
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
@@ -10602,7 +13867,14 @@ NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
 LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
 OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
 WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/isaacs/node-which">which@1.2.10</a></h3><h4>by Isaac Z. Schlueter</h4><section><pre class="license-text">The ISC License
+
+```
+
+## [which@1.2.10](https://github.com/isaacs/node-which)
+### by Isaac Z. Schlueter
+
+```
+The ISC License
 
 Copyright (c) Isaac Z. Schlueter and Contributors
 
@@ -10617,7 +13889,19 @@ ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
 WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
 ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR
 IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/substack/node-wordwrap">wordwrap@0.0.2</a></h3><h4>by James Halliday</h4><section><div>MIT/X11</div></section></article><article><h3><a href="https://github.com/npm/wrappy">wrappy@1.0.1</a></h3><h4>by Isaac Z. Schlueter</h4><section><pre class="license-text">The ISC License
+
+```
+
+## [wordwrap@0.0.2](https://github.com/substack/node-wordwrap)
+### by James Halliday
+
+MIT/X11
+
+## [wrappy@1.0.1](https://github.com/npm/wrappy)
+### by Isaac Z. Schlueter
+
+```
+The ISC License
 
 Copyright (c) Isaac Z. Schlueter and Contributors
 
@@ -10632,7 +13916,14 @@ ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
 WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
 ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR
 IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/npm/wrappy">wrappy@1.0.2</a></h3><h4>by Isaac Z. Schlueter</h4><section><pre class="license-text">The ISC License
+
+```
+
+## [wrappy@1.0.2](https://github.com/npm/wrappy)
+### by Isaac Z. Schlueter
+
+```
+The ISC License
 
 Copyright (c) Isaac Z. Schlueter and Contributors
 
@@ -10647,25 +13938,14 @@ ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
 WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
 ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR
 IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/Raynos/write-stream">write-stream@0.4.3</a></h3><h4>by Raynos</h4><section><pre class="license-text">Copyright (c) 2012 Raynos.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+```
 
-The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.
+## [write-stream@0.4.3](https://github.com/Raynos/write-stream)
+### by Raynos
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE.</pre></section></article><article><h3><a href="https://github.com/Raynos/xtend">xtend@3.0.0</a></h3><h4>by Raynos</h4><section><pre class="license-text">Copyright (c) 2012-2014 Raynos.
+```
+Copyright (c) 2012 Raynos.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -10684,7 +13964,13 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
-</pre></section></article><article><h3><a href="https://github.com/Raynos/xtend">xtend@4.0.1</a></h3><h4>by Raynos</h4><section><pre class="license-text">Copyright (c) 2012-2014 Raynos.
+```
+
+## [xtend@3.0.0](https://github.com/Raynos/xtend)
+### by Raynos
+
+```
+Copyright (c) 2012-2014 Raynos.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -10703,7 +13989,32 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
-</pre></section></article>
-  </body>
-</html>
+
+```
+
+## [xtend@4.0.1](https://github.com/Raynos/xtend)
+### by Raynos
+
+```
+Copyright (c) 2012-2014 Raynos.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+
+```
 
