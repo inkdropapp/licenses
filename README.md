@@ -1,4 +1,10 @@
 # Credits
+
+## [Kitematic](https://github.com/docker/kitematic)
+### by Docker, inc
+
+Apache License v2.0
+
 ## [abbrev@1.0.7](https://github.com/isaacs/abbrev-js)
 ### by Isaac Z. Schlueter
 
