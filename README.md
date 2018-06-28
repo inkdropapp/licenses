@@ -1,5 +1,10 @@
 # Credits
 
+## [Atom](https://github.com/atom/atom)
+### by GitHub Inc
+
+MIT License
+
 ## [Kitematic](https://github.com/docker/kitematic)
 ### by Docker, inc
 
